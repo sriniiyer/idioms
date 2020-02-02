@@ -1,0 +1,59 @@
+general mitchell international airport	mke
+general mitchell international	mke
+baltimore washington airport	bwi
+rental cars	rental car
+car rentals	rental car
+orlando international airport	mco
+orlando international	mco
+love field	dal
+dallas forth worth	dfw
+la guardia airport	lga
+la guardia	lga
+la	los angeles
+supper	dinner
+northeast express	2v
+air alliance	3j
+alpha air	7v
+express airlines	9e
+colgan	9l
+trans states	9n
+ontario	9x
+american	aa
+air canada	ac
+aerolineas argentinas	ar
+alaska	as
+royal air	at
+british airways	ba
+braniff international	be
+continental	co
+canadian airlines	cp
+atlantic coast	dh
+delta	dl
+atlantic	ev
+tower	ff
+air ontario	gx
+america west	hp
+business express	hq
+carnival	kw
+lufthansa	lh
+mgm grand	mg
+northwest	nw
+nationair	nx
+westair	oe
+comair	oh
+czechoslovak	ok
+sky west	oo
+grand airways	qd
+precision	rp
+trans world	rz
+sabena	sn
+christman	sx
+thai	tg
+trans world	tw
+american trans	tz
+united	ua
+usair	us
+southwest	wn
+mesaba	xj
+midwest	yx
+air wisconsin	zw

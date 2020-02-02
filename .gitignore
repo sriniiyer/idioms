@@ -1,0 +1,13 @@
+*.tokens
+*.pyc
+__pycache__/
+concode/
+GeoLexer.py
+GeoParserListener.py
+GeoParserModified.py
+GeoParserModifiedListener.py
+javaCodeProcessor/target/classes/
+data_geo*
+*shuffled*.json
+glove.6B.300d.txt
+scripts/

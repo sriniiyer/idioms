@@ -1,0 +1,448 @@
+{"CITYNAME_0": "'dallas'", "CITYNAME_1": "'phoenix'"}
+{"CITYNAME_0": "'phoenix'", "CITYNAME_1": "'salt lake city'"}
+{"CITYNAME_0": "'milwaukee'", "CITYNAME_1": "'denver'"}
+{"CITYNAME_0": "'denver'"}
+{"CITYNAME_0": "'denver'", "CITYNAME_1": "'st. louis'"}
+{"CITYNAME_0": "'st. louis'"}
+{"CITYNAME_0": "'st. louis'", "CITYNAME_1": "'milwaukee'"}
+{"CITYNAME_0": "'washington'", "CITYNAME_1": "'seattle'"}
+{"CITYNAME_0": "'atlanta'", "CITYNAME_1": "'seattle'"}
+{"CITYNAME_0": "'san diego'", "CITYNAME_1": "'seattle'"}
+{"CITYNAME_0": "'phoenix'", "CITYNAME_1": "'denver'"}
+{"CITYNAME_0": "'salt lake city'", "CITYNAME_1": "'phoenix'"}
+{"CITYNAME_0": "'pittsburgh'", "CITYNAME_1": "'phoenix'"}
+{"CITYNAME_1": "'denver'", "CITYNAME_0": "'washington'", "STATECODE_0": "'dc'"}
+{"DAYNAME_0": "'saturday'", "CITYNAME_0": "'washington'", "CITYNAME_1": "'boston'"}
+{"DAYNAME_0": "'saturday'", "CITYNAME_0": "'washington'", "CITYNAME_1": "'montreal'"}
+{"DAYNAME_0": "'saturday'", "CITYNAME_0": "'washington'", "CITYNAME_1": "'toronto'"}
+{"DAYNAME_0": "'saturday'", "CITYNAME_0": "'boston'", "CITYNAME_1": "'washington'"}
+{"DEPARTURETIME_0": "1200", "CITYNAME_0": "'cleveland'", "CITYNAME_1": "'dallas'"}
+{"CITYNAME_0": "'washington'", "CITYNAME_1": "'boston'"}
+{"DAYNAME_0": "'saturday'", "CITYNAME_0": "'washington'", "CITYNAME_1": "'boston'"}
+{"CITYNAME_0": "'washington'", "CITYNAME_1": "'montreal'"}
+{"DAYNAME_0": "'saturday'", "CITYNAME_0": "'washington'", "CITYNAME_1": "'montreal'"}
+{"DAYNAME_0": "'saturday'", "CITYNAME_0": "'washington'", "CITYNAME_1": "'toronto'"}
+{"DAYNAME_0": "'saturday'", "CITYNAME_0": "'washington'", "CITYNAME_1": "'toronto'"}
+{"DAYNAME_0": "'saturday'", "CITYNAME_0": "'washington'", "CITYNAME_1": "'boston'"}
+{"DAYNAME_0": "'saturday'", "CITYNAME_0": "'boston'", "CITYNAME_1": "'washington'"}
+{"CITYNAME_0": "'milwaukee'", "AIRPORTCODE_0": "'dtw'"}
+{"CITYNAME_0": "'milwaukee'", "CITYNAME_1": "'detroit'"}
+{"CITYNAME_0": "'detroit'", "CITYNAME_1": "'toronto'"}
+{"CITYNAME_0": "'toronto'", "CITYNAME_1": "'milwaukee'"}
+{"CITYNAME_0": "'oakland'", "CITYNAME_1": "'salt lake city'"}
+{"CITYNAME_0": "'oakland'", "CITYNAME_1": "'salt lake city'"}
+{"CITYNAME_0": "'oakland'", "CITYNAME_1": "'salt lake city'"}
+{"CITYNAME_0": "'oakland'", "CITYNAME_1": "'salt lake city'"}
+{"AIRPORTCODE_0": "'dtw'", "CITYNAME_0": "'toronto'", "CITYNAME_1": "'san diego'"}
+{"CITYNAME_0": "'st. petersburg'", "CITYNAME_1": "'charlotte'"}
+{"DEPARTURETIME_0": "900", "CITYNAME_0": "'milwaukee'", "CITYNAME_1": "'indianapolis'"}
+{"DEPARTURETIME_0": "800", "CITYNAME_0": "'milwaukee'", "CITYNAME_1": "'indianapolis'"}
+{"CITYNAME_0": "'indianapolis'"}
+{"DEPARTURETIME_0": "1200", "CITYNAME_0": "'indianapolis'", "CITYNAME_1": "'cleveland'"}
+{"DEPARTURETIME_0": "1800", "CITYNAME_0": "'cleveland'", "CITYNAME_1": "'milwaukee'"}
+{"DEPARTURETIME_0": "1700", "CITYNAME_0": "'cleveland'", "CITYNAME_1": "'milwaukee'"}
+{"DEPARTURETIME_0": "1700", "CITYNAME_0": "'cleveland'", "CITYNAME_1": "'milwaukee'"}
+{"DEPARTURETIME_0": "1700", "CITYNAME_0": "'cleveland'", "CITYNAME_1": "'milwaukee'"}
+{"CITYNAME_0": "'denver'", "CITYNAME_1": "'salt lake city'"}
+{"CITYNAME_0": "'denver'"}
+{"DEPARTURETIME_0": "1700", "CITYNAME_0": "'denver'", "CITYNAME_1": "'salt lake city'"}
+{"CITYNAME_0": "'salt lake city'"}
+{"DEPARTURETIME_0": "1700", "CITYNAME_0": "'salt lake city'", "CITYNAME_1": "'phoenix'"}
+{"CITYNAME_0": "'phoenix'"}
+{"DEPARTURETIME_0": "1800", "CITYNAME_0": "'oakland'", "CITYNAME_1": "'salt lake city'"}
+{"DEPARTURETIME_0": "900", "CITYNAME_0": "'oakland'", "CITYNAME_1": "'salt lake city'"}
+{"DEPARTURETIME_0": "800", "CITYNAME_0": "'oakland'", "CITYNAME_1": "'salt lake city'"}
+{"DEPARTURETIME_0": "800", "CITYNAME_0": "'oakland'", "CITYNAME_1": "'salt lake city'"}
+{"DEPARTURETIME_0": "800", "CITYNAME_0": "'oakland'", "CITYNAME_1": "'salt lake city'"}
+{"STATENAME_1": "'nevada'", "STATENAME_0": "'arizona'", "STATENAME_2": "'california'"}
+{"STATENAME_1": "'nevada'", "STATENAME_0": "'california'", "STATENAME_2": "'arizona'"}
+{"STATENAME_0": "'arizona'"}
+{"STATENAME_0": "'california'"}
+{"CITYNAME_0": "'las vegas'", "CITYNAME_1": "'phoenix'"}
+{"STATENAME_0": "'california'"}
+{}
+{"DAYNAME_0": "'wednesday'", "CITYNAME_0": "'oakland'", "CITYNAME_1": "'salt lake city'"}
+{"DEPARTURETIME_0": "600", "CITYNAME_0": "'oakland'", "CITYNAME_1": "'salt lake city'"}
+{"CITYNAME_0": "'toronto'", "CITYNAME_1": "'san diego'"}
+{"CITYNAME_0": "'st. petersburg'", "CITYNAME_1": "'charlotte'"}
+{"AIRPORTCODE_0": "'tpa'"}
+{"CITYNAME_0": "'cleveland'", "CITYNAME_1": "'dallas'"}
+{"DEPARTURETIME_0": "1200", "CITYNAME_0": "'cleveland'", "CITYNAME_1": "'dallas'"}
+{"DEPARTURETIME_0": "1200", "CITYNAME_0": "'cleveland'", "CITYNAME_1": "'dallas'"}
+{"CITYNAME_0": "'indianapolis'", "CITYNAME_1": "'seattle'"}
+{"CITYNAME_0": "'memphis'", "CITYNAME_1": "'seattle'"}
+{"CITYNAME_0": "'nashville'", "CITYNAME_1": "'seattle'"}
+{"STATENAME_0": "'tennessee'", "CITYNAME_0": "'nashville'", "CITYNAME_1": "'seattle'"}
+{"CITYNAME_0": "'milwaukee'", "CITYNAME_1": "'tampa'"}
+{"CITYNAME_0": "'tampa'"}
+{"CITYNAME_0": "'st. louis'", "CITYNAME_1": "'milwaukee'"}
+{"CITYNAME_0": "'oakland'", "CITYNAME_1": "'salt lake city'"}
+{"CITYNAME_0": "'toronto'", "CITYNAME_1": "'san diego'"}
+{"CITYNAME_0": "'toronto'", "CITYNAME_1": "'san diego'"}
+{"CITYNAME_0": "'toronto'", "CITYNAME_1": "'san diego'"}
+{"CITYNAME_0": "'st. petersburg'", "CITYNAME_1": "'charlotte'"}
+{"CITYNAME_0": "'cleveland'", "CITYNAME_1": "'dallas'"}
+{"CITYNAME_0": "'new york'", "CITYNAME_1": "'miami'"}
+{"FAREBASISCODE_0": "'qo'"}
+{"CITYNAME_0": "'milwaukee'", "CITYNAME_1": "'orlando'"}
+{"AIRLINECODE_0": "'us'"}
+{"CITYNAME_0": "'milwaukee'", "CITYNAME_1": "'orlando'"}
+{"CITYNAME_0": "'milwaukee'", "CITYNAME_1": "'orlando'"}
+{}
+{}
+{"FAREBASISCODE_0": "'y'"}
+{"RESTRICTIONCODE_0": "'ap/57'"}
+{"DEPARTURETIME_0": "1000", "CLASSTYPE_0": "'first'", "CITYNAME_0": "'indianapolis'", "CITYNAME_1": "'memphis'"}
+{"ARRIVALTIME_0": "1900", "CITYNAME_0": "'burbank'", "CITYNAME_1": "'seattle'"}
+{"CITYNAME_0": "'orlando'", "CITYNAME_1": "'montreal'"}
+{"AIRLINECODE_0": "'dl'"}
+{"AIRLINECODE_0": "'dl'", "CITYNAME_0": "'montreal'", "CITYNAME_1": "'orlando'"}
+{"CITYNAME_0": "'orlando'", "CITYNAME_1": "'montreal'"}
+{"AIRLINECODE_0": "'kw'"}
+{"CITYNAME_0": "'new york'", "CITYNAME_1": "'miami'"}
+{"FAREBASISCODE_0": "'bh'"}
+{"CITYNAME_0": "'miami'", "AIRPORTCODE_0": "'jfk'"}
+{"FAREBASISCODE_0": "'bh'"}
+{"FAREBASISCODE_0": "'bh'"}
+{"FAREBASISCODE_0": "'bh'"}
+{"FAREBASISCODE_0": "'bh'"}
+{"DEPARTURETIME_0": "1800", "CITYNAME_0": "'milwaukee'", "CITYNAME_1": "'orlando'"}
+{"CITYNAME_0": "'indianapolis'", "CITYNAME_1": "'memphis'"}
+{"CITYNAME_0": "'burbank'", "CITYNAME_1": "'seattle'"}
+{"CITYNAME_0": "'orlando'", "CITYNAME_1": "'montreal'"}
+{"CITYNAME_0": "'montreal'", "CITYNAME_1": "'orlando'"}
+{"CITYNAME_0": "'montreal'", "CITYNAME_1": "'orlando'"}
+{"CITYNAME_0": "'montreal'", "CITYNAME_1": "'orlando'"}
+{"CITYNAME_0": "'montreal'", "CITYNAME_1": "'orlando'"}
+{"CITYNAME_0": "'orlando'", "CITYNAME_1": "'montreal'"}
+{"CITYNAME_0": "'miami'", "CITYNAME_1": "'new york'"}
+{"CITYNAME_0": "'kansas city'", "CITYNAME_1": "'las vegas'"}
+{"CITYNAME_0": "'kansas city'", "CITYNAME_1": "'las vegas'"}
+{"AIRLINECODE_0": "'hp'"}
+{"CITYNAME_0": "'las vegas'"}
+{"CITYNAME_0": "'las vegas'"}
+{"CITYNAME_0": "'las vegas'", "CITYNAME_1": "'baltimore'"}
+{"CITYNAME_0": "'las vegas'", "CITYNAME_1": "'baltimore'"}
+{"CITYNAME_0": "'baltimore'", "CITYNAME_1": "'kansas city'"}
+{"AIRLINECODE_0": "'us'"}
+{"AIRLINECODE_0": "'us'"}
+{"AIRLINECODE_0": "'us'"}
+{"AIRLINECODE_0": "'us'"}
+{"AIRLINECODE_0": "'us'"}
+{"DEPARTURETIME_0": "1000", "CITYNAME_0": "'columbus'", "CITYNAME_1": "'chicago'"}
+{"AIRLINECODE_0": "'hp'"}
+{"CITYNAME_0": "'st. petersburg'", "CITYNAME_1": "'detroit'"}
+{"DEPARTURETIME_0": "1700", "CITYNAME_0": "'milwaukee'", "CITYNAME_1": "'orlando'"}
+{"DEPARTURETIME_0": "1000", "CITYNAME_0": "'milwaukee'", "CITYNAME_1": "'atlanta'"}
+{"AIRLINECODE_0": "'yx'"}
+{"CITYNAME_0": "'san jose'", "CITYNAME_1": "'phoenix'"}
+{"CITYNAME_0": "'san jose'", "CITYNAME_1": "'phoenix'"}
+{"AIRLINECODE_0": "'hp'"}
+{"CITYNAME_0": "'phoenix'"}
+{"CITYNAME_0": "'phoenix'", "CITYNAME_1": "'fort worth'"}
+{"CITYNAME_0": "'fort worth'"}
+{"CITYNAME_0": "'fort worth'", "CITYNAME_1": "'san jose'"}
+{"CLASSTYPE_0": "'first'", "CITYNAME_0": "'new york'", "CITYNAME_1": "'miami'"}
+{"CLASSTYPE_0": "'first'", "CITYNAME_0": "'new york'", "CITYNAME_1": "'miami'"}
+{"CITYNAME_0": "'new york'", "CITYNAME_1": "'miami'"}
+{"CITYNAME_0": "'miami'", "CITYNAME_1": "'new york'"}
+{"DEPARTURETIME_0": "1000", "CITYNAME_0": "'indianapolis'", "CITYNAME_1": "'memphis'"}
+{}
+{"CITYNAME_0": "'burbank'", "CITYNAME_1": "'tacoma'"}
+{}
+{}
+{"AIRLINECODE_0": "'as'"}
+{"AIRLINECODE_0": "'as'"}
+{"AIRLINECODE_0": "'as'"}
+{"AIRLINECODE_0": "'as'"}
+{"CITYNAME_0": "'st. petersburg'", "CITYNAME_1": "'toronto'"}
+{"CITYNAME_0": "'toronto'", "CITYNAME_1": "'st. petersburg'"}
+{"CITYNAME_0": "'toronto'", "CITYNAME_1": "'st. petersburg'"}
+{"CITYNAME_0": "'toronto'", "CITYNAME_1": "'st. petersburg'"}
+{"CITYNAME_0": "'milwaukee'", "CITYNAME_1": "'orlando'"}
+{"CITYNAME_0": "'milwaukee'", "CITYNAME_1": "'orlando'"}
+{"AIRLINECODE_0": "'hp'"}
+{"CITYNAME_0": "'chicago'", "CITYNAME_1": "'san diego'"}
+{"CITYNAME_0": "'chicago'", "CITYNAME_1": "'san diego'"}
+{"CITYNAME_0": "'kansas city'", "CITYNAME_1": "'denver'"}
+{"CITYNAME_0": "'denver'", "CITYNAME_1": "'phoenix'"}
+{"CITYNAME_0": "'phoenix'", "CITYNAME_1": "'las vegas'"}
+{"CITYNAME_0": "'las vegas'", "CITYNAME_1": "'san diego'"}
+{"CITYNAME_0": "'chicago'", "CITYNAME_1": "'kansas city'"}
+{"CITYNAME_0": "'houston'", "CITYNAME_1": "'san jose'"}
+{"CITYNAME_0": "'houston'", "CITYNAME_1": "'milwaukee'"}
+{"CITYNAME_0": "'milwaukee'", "CITYNAME_1": "'san jose'"}
+{"CITYNAME_0": "'san jose'", "CITYNAME_1": "'dallas'"}
+{"CITYNAME_0": "'dallas'", "CITYNAME_1": "'houston'"}
+{"CITYNAME_0": "'new york'"}
+{"STATENAME_0": "'new york'"}
+{"STATENAME_0": "'new york'"}
+{"CITYNAME_0": "'los angeles'"}
+{}
+{"CITYNAME_0": "'los angeles'"}
+{"CITYNAME_0": "'los angeles'"}
+{"CITYNAME_0": "'los angeles'"}
+{"CITYNAME_0": "'los angeles'"}
+{"CITYNAME_0": "'los angeles'"}
+{"CITYNAME_0": "'new york'", "CITYNAME_1": "'los angeles'"}
+{"CITYNAME_0": "'burbank'", "AIRPORTCODE_0": "'lga'"}
+{"CITYNAME_0": "'los angeles'", "CITYNAME_1": "'orlando'"}
+{"STATENAME_0": "'california'", "CITYNAME_0": "'orlando'"}
+{"STATENAME_0": "'california'", "CITYNAME_0": "'orlando'"}
+{"CITYNAME_0": "'indianapolis'", "CITYNAME_1": "'memphis'"}
+{"CITYNAME_0": "'indianapolis'", "CITYNAME_1": "'memphis'"}
+{"CITYNAME_0": "'memphis'", "CITYNAME_1": "'miami'"}
+{"CITYNAME_0": "'miami'", "CITYNAME_1": "'indianapolis'"}
+{"CITYNAME_0": "'charlotte'"}
+{"CITYNAME_0": "'charlotte'"}
+{"CITYNAME_0": "'tacoma'", "CITYNAME_1": "'orlando'"}
+{}
+{"FAREBASISCODE_0": "'q'", "CITYNAME_0": "'orlando'", "CITYNAME_1": "'tacoma'"}
+{"CLASSTYPE_0": "'first'", "CITYNAME_0": "'detroit'", "CITYNAME_1": "'st. petersburg'"}
+{"CLASSTYPE_0": "'coach'", "CITYNAME_0": "'detroit'", "CITYNAME_1": "'st. petersburg'"}
+{"CITYNAME_0": "'pittsburgh'", "CITYNAME_1": "'newark'"}
+{"CITYNAME_0": "'minneapolis'", "CITYNAME_1": "'pittsburgh'"}
+{"DEPARTURETIME_0": "900", "CITYNAME_0": "'cincinnati'", "CITYNAME_1": "'tampa'"}
+{"DEPARTURETIME_0": "1200", "CITYNAME_0": "'cincinnati'", "CITYNAME_1": "'tampa'"}
+{"DEPARTURETIME_0": "1500", "CITYNAME_0": "'tampa'", "CITYNAME_1": "'cincinnati'"}
+{"CITYNAME_0": "'seattle'", "CITYNAME_1": "'salt lake city'"}
+{"AIRLINECODE_0": "'dl'", "CITYNAME_0": "'seattle'", "CITYNAME_1": "'salt lake city'"}
+{"AIRLINECODE_0": "'dl'", "CITYNAME_0": "'seattle'", "CITYNAME_1": "'salt lake city'"}
+{"AIRLINECODE_0": "'dl'", "CITYNAME_0": "'seattle'", "CITYNAME_1": "'salt lake city'"}
+{"CITYNAME_0": "'baltimore'"}
+{"CITYNAME_0": "'baltimore'"}
+{"CITYNAME_0": "'baltimore'", "CITYNAME_1": "'san francisco'"}
+{"CITYNAME_0": "'los angeles'", "CITYNAME_1": "'pittsburgh'"}
+{"CITYNAME_0": "'pittsburgh'", "CITYNAME_1": "'los angeles'"}
+{"CITYNAME_0": "'cleveland'", "CITYNAME_1": "'miami'"}
+{"CITYNAME_0": "'cleveland'", "CITYNAME_1": "'miami'"}
+{"CITYNAME_0": "'cleveland'", "CITYNAME_1": "'miami'"}
+{"CITYNAME_0": "'miami'", "CITYNAME_1": "'cleveland'"}
+{"AIRLINECODE_0": "'aa'", "CITYNAME_0": "'milwaukee'", "CITYNAME_1": "'phoenix'"}
+{"CITYNAME_0": "'phoenix'", "CITYNAME_1": "'milwaukee'"}
+{"AIRLINECODE_0": "'aa'", "CITYNAME_0": "'phoenix'", "CITYNAME_1": "'milwaukee'"}
+{"AIRLINECODE_0": "'aa'", "CITYNAME_0": "'phoenix'", "CITYNAME_1": "'milwaukee'"}
+{"CITYNAME_0": "'phoenix'", "CITYNAME_1": "'milwaukee'"}
+{"CITYNAME_0": "'chicago'", "CITYNAME_1": "'seattle'"}
+{"CITYNAME_0": "'chicago'", "CITYNAME_1": "'seattle'"}
+{"AIRLINECODE_0": "'co'", "CITYNAME_0": "'seattle'", "CITYNAME_1": "'chicago'"}
+{"AIRLINECODE_0": "'co'", "CITYNAME_0": "'seattle'", "CITYNAME_1": "'chicago'"}
+{"AIRLINECODE_0": "'co'", "CITYNAME_0": "'chicago'", "CITYNAME_1": "'seattle'"}
+{"AIRLINECODE_0": "'co'", "CITYNAME_0": "'chicago'", "CITYNAME_1": "'seattle'"}
+{"CITYNAME_0": "'chicago'", "CITYNAME_1": "'minneapolis'"}
+{"AIRLINECODE_0": "'co'", "CITYNAME_0": "'chicago'", "CITYNAME_1": "'minneapolis'"}
+{"AIRLINECODE_0": "'co'", "CITYNAME_0": "'chicago'", "CITYNAME_1": "'st. paul'"}
+{"CITYNAME_0": "'new york'", "CITYNAME_1": "'las vegas'"}
+{"CITYNAME_0": "'memphis'", "CITYNAME_1": "'las vegas'"}
+{"CITYNAME_0": "'indianapolis'", "CITYNAME_1": "'orlando'"}
+{"CITYNAME_0": "'newark'", "CITYNAME_1": "'tampa'"}
+{"CITYNAME_0": "'tampa'", "CITYNAME_1": "'charlotte'"}
+{"CITYNAME_0": "'charlotte'", "CITYNAME_1": "'baltimore'"}
+{"CITYNAME_0": "'baltimore'", "CITYNAME_1": "'newark'"}
+{"CITYNAME_0": "'indianapolis'", "CITYNAME_1": "'orlando'"}
+{"CITYNAME_0": "'indianapolis'", "CITYNAME_1": "'orlando'"}
+{"CITYNAME_0": "'dallas'", "CITYNAME_1": "'houston'"}
+{"CITYNAME_0": "'houston'", "CITYNAME_1": "'dallas'"}
+{"AIRLINECODE_0": "'aa'", "CITYNAME_0": "'milwaukee'", "CITYNAME_1": "'phoenix'"}
+{"AIRLINECODE_0": "'aa'", "CITYNAME_0": "'phoenix'", "CITYNAME_1": "'milwaukee'"}
+{"CITYNAME_0": "'chicago'", "CITYNAME_1": "'seattle'"}
+{"AIRLINECODE_0": "'co'", "CITYNAME_0": "'chicago'", "CITYNAME_1": "'seattle'"}
+{"AIRLINECODE_0": "'co'", "CITYNAME_0": "'seattle'", "CITYNAME_1": "'chicago'"}
+{"ONEDIRECTIONCOST_0": "200", "CITYNAME_0": "'pittsburgh'", "CITYNAME_1": "'cleveland'"}
+{"CLASSTYPE_0": "'coach'", "CITYNAME_0": "'pittsburgh'", "CITYNAME_1": "'atlanta'"}
+{"CITYNAME_0": "'newark'", "CITYNAME_1": "'tampa'"}
+{"CITYNAME_0": "'tampa'", "CITYNAME_1": "'charlotte'"}
+{"CITYNAME_0": "'charlotte'", "CITYNAME_1": "'baltimore'"}
+{"CITYNAME_0": "'baltimore'", "CITYNAME_1": "'newark'"}
+{"DEPARTURETIME_0": "1", "CITYNAME_0": "'dallas'", "CITYNAME_1": "'houston'"}
+{"DEPARTURETIME_0": "0", "CITYNAME_0": "'houston'", "CITYNAME_1": "'dallas'"}
+{"CITYNAME_0": "'indianapolis'", "CITYNAME_1": "'orlando'"}
+{"CITYNAME_0": "'indianapolis'", "CITYNAME_1": "'orlando'"}
+{"CITYNAME_0": "'indianapolis'", "CITYNAME_1": "'orlando'"}
+{"ARRIVALTIME_0": "1600", "CITYNAME_0": "'cleveland'", "CITYNAME_1": "'miami'"}
+{"CITYNAME_0": "'miami'", "CITYNAME_1": "'cleveland'"}
+{"CITYNAME_2": "'memphis'", "CITYNAME_0": "'new york'", "CITYNAME_1": "'las vegas'"}
+{"CITYNAME_2": "'memphis'", "CITYNAME_0": "'new york'", "CITYNAME_1": "'las vegas'"}
+{"CITYNAME_0": "'new york'", "CITYNAME_1": "'las vegas'"}
+{"CITYNAME_0": "'memphis'", "CITYNAME_1": "'las vegas'"}
+{"CITYNAME_0": "'new york'", "CITYNAME_1": "'las vegas'"}
+{"CITYNAME_0": "'chicago'", "CITYNAME_1": "'seattle'"}
+{"CITYNAME_0": "'chicago'", "CITYNAME_1": "'las vegas'"}
+{"DAYNAME_0": "'tuesday'", "CITYNAME_0": "'los angeles'", "CITYNAME_1": "'pittsburgh'"}
+{"DAYNAME_0": "'monday'", "CITYNAME_0": "'los angeles'", "CITYNAME_1": "'pittsburgh'"}
+{"CITYNAME_0": "'pittsburgh'", "CITYNAME_1": "'los angeles'"}
+{"CITYNAME_0": "'milwaukee'", "CITYNAME_1": "'phoenix'"}
+{"CITYNAME_0": "'phoenix'", "CITYNAME_1": "'milwaukee'"}
+{"CITYNAME_0": "'phoenix'", "CITYNAME_1": "'milwaukee'"}
+{"ARRIVALTIME_1": "2000", "ARRIVALTIME_0": "1700", "CITYNAME_0": "'baltimore'", "CITYNAME_1": "'san francisco'"}
+{"AIRLINECODE_0": "'nw'", "CITYNAME_0": "'st. paul'"}
+{"AIRLINECODE_0": "'nw'", "CITYNAME_0": "'washington'", "STATECODE_0": "'dc'"}
+{"AIRLINECODE_0": "'nw'"}
+{"AIRLINECODE_0": "'nw'"}
+{"AIRLINECODE_0": "'nw'"}
+{"AIRLINECODE_0": "'nw'"}
+{"DEPARTURETIME_0": "400", "CITYNAME_0": "'dallas'", "CITYNAME_1": "'san francisco'"}
+{"CITYNAME_0": "'dallas'", "CITYNAME_1": "'san francisco'"}
+{"AIRLINECODE_0": "'aa'", "CITYNAME_0": "'philadelphia'", "CITYNAME_1": "'dallas'"}
+{"CITYNAME_0": "'philadelphia'", "CITYNAME_1": "'dallas'"}
+{"AIRCRAFTCODE_0": "'d9s'"}
+{"AIRCRAFTCODE_0": "'d9s'"}
+{"AIRCRAFTCODE_0": "'d9s'"}
+{"AIRLINECODE_0": "'ff'"}
+{"CLASSTYPE_1": "'coach'", "CLASSTYPE_0": "'first'", "CITYNAME_0": "'orlando'", "AIRPORTCODE_0": "'jfk'"}
+{"CLASSTYPE_1": "'coach'", "CLASSTYPE_0": "'first'", "CITYNAME_0": "'miami'"}
+{"CLASSTYPE_1": "'coach'", "CLASSTYPE_0": "'first'", "CITYNAME_0": "'miami'", "AIRPORTCODE_0": "'jfk'"}
+{"AIRLINECODE_0": "'ff'"}
+{"AIRLINECODE_0": "'ff'"}
+{"AIRLINECODE_0": "'dl'", "CITYNAME_0": "'miami'", "AIRPORTCODE_0": "'jfk'"}
+{"AIRLINECODE_0": "'dl'", "CITYNAME_0": "'boston'"}
+{"AIRLINECODE_0": "'dl'", "CITYNAME_0": "'boston'"}
+{"AIRLINECODE_0": "'dl'", "CITYNAME_0": "'boston'", "CITYNAME_1": "'salt lake city'"}
+{"STATECODE_0": "'dc'", "CITYNAME_0": "'boston'", "CITYNAME_1": "'washington'"}
+{"CITYNAME_0": "'boston'", "CITYNAME_1": "'salt lake city'"}
+{"CITYNAME_1": "'salt lake city'", "CITYNAME_0": "'washington'", "STATECODE_0": "'dc'"}
+{"CITYNAME_0": "'salt lake city'", "AIRPORTCODE_0": "'bwi'"}
+{"CLASSTYPE_0": "'first'", "CITYNAME_0": "'detroit'", "CITYNAME_1": "'las vegas'"}
+{"STATECODE_0": "'dc'", "CITYNAME_0": "'boston'", "CITYNAME_1": "'washington'"}
+{"STATECODE_0": "'dc'", "CITYNAME_0": "'boston'", "CITYNAME_1": "'washington'"}
+{"STATECODE_0": "'dc'", "CITYNAME_0": "'boston'", "CITYNAME_1": "'washington'"}
+{"CITYNAME_0": "'houston'", "CITYNAME_1": "'orlando'"}
+{"CITYNAME_0": "'houston'", "CITYNAME_1": "'orlando'"}
+{"CITYNAME_0": "'houston'", "CITYNAME_1": "'orlando'"}
+{"CITYNAME_0": "'houston'", "CITYNAME_1": "'orlando'"}
+{"CITYNAME_0": "'houston'", "CITYNAME_1": "'orlando'"}
+{"DEPARTURETIME_0": "2000", "DEPARTURETIME_1": "2100", "CITYNAME_0": "'denver'"}
+{"AIRCRAFTCODE_0": "733"}
+{"AIRCRAFTCODE_0": "'72s'"}
+{"AIRCRAFTCODE_0": "'72s'"}
+{"AIRCRAFTCODE_0": "'m80'"}
+{"AIRCRAFTCODE_0": "'m80'"}
+{"AIRCRAFTCODE_0": "'m80'"}
+{"CITYNAME_0": "'denver'"}
+{"CITYNAME_0": "'denver'"}
+{"CITYNAME_0": "'denver'"}
+{"ARRIVALTIME_1": "2100", "ARRIVALTIME_0": "2000", "CITYNAME_0": "'denver'"}
+{"AIRCRAFTCODE_0": "'73s'"}
+{"AIRCRAFTCODE_0": "'73s'"}
+{"AIRCRAFTCODE_0": "'73s'"}
+{"AIRCRAFTCODE_0": "757"}
+{"AIRCRAFTCODE_0": "757"}
+{"AIRCRAFTCODE_0": "757"}
+{"ARRIVALTIME_1": "2100", "ARRIVALTIME_0": "2000", "CITYNAME_0": "'denver'"}
+{"ARRIVALTIME_0": "2100", "CITYNAME_0": "'denver'"}
+{"ARRIVALTIME_1": "2100", "ARRIVALTIME_0": "2000", "CITYNAME_0": "'denver'"}
+{"AIRCRAFTCODE_0": "757"}
+{"AIRCRAFTCODE_0": "'m80'"}
+{"AIRCRAFTCODE_0": "'m80'"}
+{"AIRCRAFTCODE_0": "'m80'"}
+{"AIRCRAFTCODE_0": "733"}
+{"AIRCRAFTCODE_0": "'m80'"}
+{"AIRCRAFTCODE_0": "'m80'"}
+{"DEPARTURETIME_0": "2000", "DEPARTURETIME_1": "2100", "CITYNAME_0": "'denver'"}
+{"ARRIVALTIME_1": "2100", "ARRIVALTIME_0": "2000", "CITYNAME_0": "'denver'"}
+{"ARRIVALTIME_1": "2100", "ARRIVALTIME_0": "2000", "CITYNAME_0": "'denver'"}
+{"CITYNAME_0": "'nashville'", "CITYNAME_1": "'memphis'"}
+{"CITYNAME_0": "'nashville'", "CITYNAME_1": "'memphis'"}
+{}
+{"DAYNAME_0": "'monday'", "CITYNAME_0": "'memphis'", "CITYNAME_1": "'new york'"}
+{"AIRPORTCODE_0": "'cvg'"}
+{"CITYNAME_0": "'new york'", "AIRPORTCODE_0": "'lga'"}
+{"CITYNAME_0": "'new york'", "AIRPORTCODE_0": "'lga'"}
+{"CITYNAME_0": "'new york'", "AIRPORTCODE_0": "'lga'"}
+{"CITYNAME_0": "'new york'", "AIRPORTCODE_0": "'ewr'"}
+{"CITYNAME_0": "'memphis'", "CITYNAME_1": "'new york'"}
+{"DEPARTURETIME_0": "1700", "CITYNAME_0": "'new york'", "CITYNAME_1": "'nashville'"}
+{"CITYNAME_0": "'nashville'"}
+{"DEPARTURETIME_0": "1200", "ARRIVALTIME_0": "1900", "CITYNAME_0": "'cincinnati'", "CITYNAME_1": "'charlotte'"}
+{"AIRLINECODE_0": "'as'", "CITYNAME_0": "'burbank'"}
+{"AIRLINECODE_0": "'as'", "CITYNAME_0": "'burbank'"}
+{"AIRLINECODE_0": "'as'", "CITYNAME_0": "'burbank'"}
+{"AIRLINECODE_0": "'as'"}
+{"AIRLINECODE_0": "'as'", "CITYNAME_0": "'burbank'"}
+{"AIRLINECODE_0": "'as'", "CITYNAME_0": "'burbank'"}
+{"AIRLINECODE_0": "'as'"}
+{"CITYNAME_0": "'seattle'"}
+{"DEPARTURETIME_0": "1200", "CITYNAME_0": "'indianapolis'", "CITYNAME_1": "'memphis'"}
+{"CITYNAME_0": "'charlotte'", "CITYNAME_1": "'las vegas'"}
+{"CITYNAME_0": "'los angeles'", "CITYNAME_1": "'charlotte'"}
+{"CITYNAME_0": "'charlotte'", "CITYNAME_1": "'newark'"}
+{"CITYNAME_0": "'newark'", "CITYNAME_1": "'los angeles'"}
+{"CITYNAME_0": "'newark'", "CITYNAME_1": "'los angeles'"}
+{"STATENAME_1": "'california'", "STATENAME_0": "'quebec'", "CITYNAME_0": "'montreal'", "CITYNAME_1": "'san diego'"}
+{"STATENAME_0": "'indiana'", "CITYNAME_0": "'san diego'", "CITYNAME_1": "'indianapolis'"}
+{"CITYNAME_0": "'indianapolis'", "CITYNAME_1": "'toronto'"}
+{"CITYNAME_0": "'toronto'", "CITYNAME_1": "'montreal'"}
+{"AIRLINECODE_0": "'aa'", "CITYNAME_0": "'cincinnati'", "CITYNAME_1": "'burbank'"}
+{"DEPARTURETIME_0": "1619", "AIRLINECODE_0": "'aa'"}
+{"CITYNAME_0": "'kansas city'", "CITYNAME_1": "'chicago'"}
+{"CITYNAME_0": "'long beach'", "CITYNAME_1": "'st. louis'"}
+{"CITYNAME_0": "'memphis'", "CITYNAME_1": "'las vegas'"}
+{"CITYNAME_0": "'las vegas'"}
+{"CITYNAME_0": "'memphis'"}
+{"CITYNAME_0": "'las vegas'"}
+{"TRANSPORTTYPE_0": "'taxi'"}
+{"CITYNAME_0": "'tampa'", "CITYNAME_1": "'milwaukee'"}
+{"CITYNAME_0": "'milwaukee'", "CITYNAME_1": "'seattle'"}
+{"AIRLINECODE_0": "'ua'", "CITYNAME_0": "'san jose'", "AIRPORTCODE_0": "'lga'"}
+{"STATENAME_1": "'arizona'", "STATENAME_0": "'north carolina'", "CITYNAME_0": "'charlotte'", "CITYNAME_1": "'phoenix'"}
+{"STATENAME_1": "'minnesota'", "STATENAME_0": "'arizona'", "CITYNAME_0": "'phoenix'", "CITYNAME_1": "'st. paul'"}
+{"STATENAME_0": "'minnesota'", "CITYNAME_0": "'st. paul'", "CITYNAME_1": "'st. louis'"}
+{"STATENAME_0": "'north carolina'", "CITYNAME_0": "'st. louis'", "CITYNAME_1": "'charlotte'"}
+{"CITYNAME_2": "'new york'", "CITYNAME_0": "'boston'", "CITYNAME_1": "'orlando'"}
+{"CITYNAME_0": "'burbank'", "CITYNAME_1": "'milwaukee'"}
+{"CITYNAME_0": "'milwaukee'", "CITYNAME_1": "'st. louis'"}
+{"CITYNAME_0": "'st. louis'", "CITYNAME_1": "'burbank'"}
+{"CITYNAME_0": "'st. louis'", "CITYNAME_1": "'burbank'"}
+{"ARRIVALTIME_0": "1800"}
+{"ARRIVALTIME_0": "1800", "CITYNAME_0": "'cincinnati'"}
+{"AIRLINECODE_0": "'aa'", "CITYNAME_0": "'miami'", "CITYNAME_1": "'chicago'"}
+{"CITYNAME_2": "'los angeles'", "CITYNAME_0": "'memphis'", "CITYNAME_1": "'tacoma'"}
+{"DEPARTURETIME_0": "1800", "STATENAME_0": "'california'", "CITYNAME_0": "'cincinnati'", "CITYNAME_1": "'san jose'"}
+{"STATENAME_0": "'texas'", "CITYNAME_0": "'san jose'", "CITYNAME_1": "'houston'"}
+{"CITYNAME_0": "'houston'", "CITYNAME_1": "'memphis'"}
+{"CITYNAME_0": "'memphis'", "CITYNAME_1": "'cincinnati'"}
+{"AIRLINECODE_0": "'aa'", "CITYNAME_0": "'newark'", "CITYNAME_1": "'nashville'"}
+{"CITYNAME_0": "'chicago'"}
+{"CITYNAME_0": "'los angeles'", "CITYNAME_1": "'charlotte'"}
+{"CITYNAME_0": "'charlotte'", "CITYNAME_1": "'newark'"}
+{"CITYNAME_0": "'newark'", "CITYNAME_1": "'los angeles'"}
+{"AIRLINECODE_0": "'aa'", "CITYNAME_0": "'cincinnati'", "CITYNAME_1": "'burbank'"}
+{"CITYNAME_0": "'kansas city'", "CITYNAME_1": "'chicago'"}
+{"CITYNAME_0": "'chicago'", "CITYNAME_1": "'kansas city'"}
+{"CITYNAME_0": "'kansas city'", "CITYNAME_1": "'chicago'"}
+{"CITYNAME_0": "'chicago'", "CITYNAME_1": "'kansas city'"}
+{"CITYNAME_0": "'burbank'", "CITYNAME_1": "'milwaukee'"}
+{"ARRIVALTIME_0": "1800", "DAYNAME_0": "'saturday'", "CITYNAME_0": "'salt lake city'", "CITYNAME_1": "'new york'"}
+{"DEPARTURETIME_0": "1800", "CITYNAME_0": "'cincinnati'", "CITYNAME_1": "'new york'"}
+{"ARRIVALTIME_0": "1800", "AIRLINECODE_0": "'dl'", "CITYNAME_0": "'salt lake city'", "CITYNAME_1": "'new york'"}
+{"AIRLINECODE_0": "'aa'", "CITYNAME_0": "'miami'", "CITYNAME_1": "'chicago'"}
+{"CITYNAME_0": "'kansas city'", "CITYNAME_1": "'chicago'"}
+{"ARRIVALTIME_0": "1900", "CITYNAME_0": "'kansas city'", "CITYNAME_1": "'chicago'"}
+{"CITYNAME_2": "'los angeles'", "CITYNAME_0": "'memphis'", "CITYNAME_1": "'tacoma'"}
+{"CITYNAME_0": "'san diego'", "CITYNAME_1": "'phoenix'"}
+{"CITYNAME_0": "'phoenix'", "CITYNAME_1": "'detroit'"}
+{"CITYNAME_0": "'detroit'", "CITYNAME_1": "'san diego'"}
+{"CITYNAME_0": "'cincinnati'", "CITYNAME_1": "'san jose'"}
+{"CITYNAME_0": "'san jose'", "CITYNAME_1": "'houston'"}
+{"CITYNAME_0": "'houston'", "CITYNAME_1": "'memphis'"}
+{"CITYNAME_0": "'memphis'", "CITYNAME_1": "'cincinnati'"}
+{"AIRLINECODE_0": "'aa'", "CITYNAME_0": "'newark'", "CITYNAME_1": "'nashville'"}
+{"STATENAME_0": "'washington'", "ROUNDTRIPCOST_0": "300", "CITYNAME_2": "'san francisco'", "CITYNAME_0": "'los angeles'", "CITYNAME_1": "'tacoma'"}
+{"CITYNAME_0": "'burbank'", "CITYNAME_1": "'tacoma'"}
+{"MEALDESCRIPTION_0": "'dinner'", "CITYNAME_0": "'chicago'"}
+{"CITYNAME_0": "'burbank'", "CITYNAME_1": "'milwaukee'"}
+{"CITYNAME_0": "'burbank'", "CITYNAME_1": "'milwaukee'"}
+{"CITYNAME_0": "'milwaukee'", "CITYNAME_1": "'st. louis'"}
+{"CITYNAME_0": "'st. louis'", "CITYNAME_1": "'burbank'"}
+{"CITYNAME_2": "'st. louis'", "CITYNAME_0": "'burbank'", "CITYNAME_1": "'milwaukee'"}
+{"CITYNAME_2": "'st. louis'", "CITYNAME_0": "'burbank'", "CITYNAME_1": "'milwaukee'"}
+{"CITYNAME_0": "'westchester county'"}
+{"CITYNAME_0": "'salt lake city'", "CITYNAME_1": "'westchester county'"}
+{"CITYNAME_0": "'westchester county'"}
+{"AIRLINECODE_0": "'ua'", "CITYNAME_0": "'cincinnati'", "CITYNAME_1": "'new york'"}
+{"CITYNAME_0": "'new york'"}
+{"ARRIVALTIME_0": "1800", "CITYNAME_0": "'cincinnati'", "CITYNAME_1": "'new york'"}
+{"CITYNAME_0": "'cincinnati'", "CITYNAME_1": "'new york'"}
+{"AIRLINECODE_0": "'aa'", "CITYNAME_0": "'miami'", "CITYNAME_1": "'chicago'"}
+{"CITYNAME_0": "'kansas city'", "CITYNAME_1": "'chicago'"}
+{"CITYNAME_0": "'memphis'", "CITYNAME_1": "'tacoma'"}

@@ -1,0 +1,7747 @@
+Doing idiom_number 0
+36.76037836074829
+1.552675724029541
+ MemberDeclaration_NT┐
+                     │                    ┌TypeTypeOrVoid_NT
+                     │                    ├Identifier_NT
+                     └MethodDeclaration_NT┤
+                                          ├MethodBody_NT
+                                          └FormalParameters_NT
+
+17.434016466140747
+Doing idiom_number 1
+38.253121852874756
+1.4726808071136475
+                     ┌TypeTypeOrVoid_NT
+                     ├Identifier_NT
+ MemberDeclaration_NT┤
+                     ├MethodBody_NT┐
+                     │             └Block_NT
+                     └FormalParameters_NT
+
+17.29711675643921
+Doing idiom_number 2
+38.5748507976532
+1.5470991134643555
+                     ┌TypeTypeOrVoid_NT
+                     ├FormalParameters_NT
+ MemberDeclaration_NT┤
+                     ├Identifier_NT┐
+                     │             └function
+                     └Block_NT
+
+17.0445613861084
+Doing idiom_number 3
+35.70348262786865
+1.2907195091247559
+                     ┌TypeTypeOrVoid_NT
+                     ├function
+                     ├FormalParameters_NT
+ MemberDeclaration_NT┤
+                     │        ┌{
+                     └Block_NT┤
+                              ├}
+                              └Star_26_NT
+
+17.121102571487427
+Doing idiom_number 4
+35.343599796295166
+1.3723266124725342
+ Star_26_NT┐
+           └BlockStatement_NT┐
+                             └Statement_NT
+
+24.692151308059692
+Doing idiom_number 5
+34.729933977127075
+1.303034782409668
+ Expression_NT┐
+              └Primary_NT┐
+                         └Identifier_NT
+
+39.91545486450195
+Doing idiom_number 6
+34.866034746170044
+1.307558298110962
+ TypeType_NT┐
+            └Nt_41_NT┐
+                     └ClassOrInterfaceType_NT
+
+20.324491262435913
+Doing idiom_number 7
+34.449547290802
+1.2854158878326416
+ TypeType_NT┐
+            └ClassOrInterfaceType_NT┐
+                                    └Identifier_NT
+
+18.15653085708618
+Doing idiom_number 8
+33.40891218185425
+1.2890191078186035
+                     ┌TypeTypeOrVoid_NT
+                     ├function
+                     ├FormalParameters_NT
+ MemberDeclaration_NT┤
+                     ├Star_26_NT┐
+                     │          └Statement_NT
+                     ├}
+                     └{
+
+12.138360023498535
+Doing idiom_number 9
+32.82908749580383
+1.316155195236206
+              ┌Expression_NT
+              ├.
+ Expression_NT┤
+              └Nt_33_NT┐
+                       └Identifier_NT
+
+21.36341953277588
+Doing idiom_number 10
+33.716697216033936
+1.3373334407806396
+ VariableDeclaratorId_NT┐
+                        └Identifier_NT┐
+                                      └arg0
+
+11.623364686965942
+Doing idiom_number 11
+32.44865441322327
+1.2655243873596191
+ Expression_NT┐
+              └Identifier_NT┐
+                            └arg0
+
+14.41808032989502
+Doing idiom_number 12
+33.30688118934631
+1.2855873107910156
+                   ┌TypeType_NT
+ FormalParameter_NT┤
+                   └VariableDeclaratorId_NT┐
+                                           └arg0
+
+11.0715172290802
+Doing idiom_number 13
+32.559407472610474
+1.235476016998291
+                     ┌function
+                     ├FormalParameters_NT
+                     ├{
+ MemberDeclaration_NT┤
+                     ├TypeTypeOrVoid_NT┐
+                     │                 └TypeType_NT
+                     ├}
+                     └Statement_NT
+
+10.063103914260864
+Doing idiom_number 14
+32.274861097335815
+1.2250747680664062
+                     ┌TypeType_NT
+                     ├function
+                     ├FormalParameters_NT
+                     ├{
+ MemberDeclaration_NT┤
+                     │            ┌return
+                     ├Statement_NT┤
+                     │            ├;
+                     │            └Expression_NT
+                     └}
+
+9.813037633895874
+Doing idiom_number 15
+32.30810022354126
+1.2973086833953857
+                    ┌(
+                    ├)
+ FormalParameters_NT┤
+                    └FormalParameterList_NT┐
+                                           └FormalParameter_NT
+
+10.024504661560059
+Doing idiom_number 16
+32.74891781806946
+1.2102298736572266
+              ┌.
+              ├Identifier_NT
+ Expression_NT┤
+              └Expression_NT┐
+                            └Identifier_NT
+
+15.554715871810913
+Doing idiom_number 17
+32.33235836029053
+1.1943180561065674
+                    ┌(
+                    ├)
+ FormalParameters_NT┤
+                    │                  ┌TypeType_NT
+                    └FormalParameter_NT┤
+                                       └arg0
+
+9.524115562438965
+Doing idiom_number 18
+78.48005390167236
+1.2766778469085693
+ Expression_NT┐
+              └Primary_NT┐
+                         └Literal_NT
+
+19.70636248588562
+Doing idiom_number 19
+77.4937002658844
+1.1927680969238281
+           ┌Star_26_NT
+ Star_26_NT┤
+           └Star_26_NT┐
+                      └Statement_NT
+
+13.520359992980957
+Doing idiom_number 20
+79.06158518791199
+1.286086082458496
+              ┌Expression_NT
+              ├(
+ Expression_NT┤
+              ├ExpressionList_NT┐
+              │                 └Expression_NT
+              └)
+
+18.899747610092163
+Doing idiom_number 21
+76.4164297580719
+1.1910231113433838
+ TypeType_NT┐
+            └Nt_41_NT┐
+                     └PrimitiveType_NT
+
+10.652969121932983
+Doing idiom_number 22
+74.64759111404419
+1.178342580795288
+ TypeType_NT┐
+            └Identifier_NT┐
+                          └String
+
+9.565441370010376
+Doing idiom_number 23
+75.76862573623657
+1.1720926761627197
+                     ┌TypeTypeOrVoid_NT
+                     ├function
+                     ├FormalParameters_NT
+                     ├{
+ MemberDeclaration_NT┤
+                     │          ┌Star_26_NT
+                     ├Star_26_NT┤
+                     │          └Statement_NT
+                     └}
+
+9.966545581817627
+Doing idiom_number 24
+75.86425232887268
+1.2528307437896729
+                     ┌TypeType_NT
+                     ├function
+                     ├{
+                     ├return
+                     ├Expression_NT
+ MemberDeclaration_NT┤
+                     │                   ┌(
+                     ├FormalParameters_NT┤
+                     │                   └)
+                     ├}
+                     └;
+
+8.220699548721313
+Doing idiom_number 25
+75.99216842651367
+1.4660329818725586
+             ┌;
+ Statement_NT┤
+             │             ┌Expression_NT
+             └Expression_NT┤
+                           ├Expression_NT
+                           └Nt_68_NT
+
+8.910587072372437
+Doing idiom_number 26
+76.89339971542358
+1.2111811637878418
+                     ┌function
+                     ├FormalParameters_NT
+                     ├{
+ MemberDeclaration_NT┤
+                     ├TypeTypeOrVoid_NT┐
+                     │                 └void
+                     ├}
+                     └Statement_NT
+
+9.36766242980957
+Doing idiom_number 27
+74.15028429031372
+1.1819071769714355
+ Star_32_NT┐
+           │        ┌,
+           └Nt_32_NT┤
+                    └Expression_NT
+
+10.962787866592407
+Doing idiom_number 28
+78.32175374031067
+1.2050952911376953
+             ┌Expression_NT
+             ┌Expression_NT
+ Statement_NT┤
+             ├Nt_68_NT┐
+             │        └=
+             └;
+
+18.44927430152893
+Doing idiom_number 29
+74.48184013366699
+1.1423470973968506
+ Expression_NT┐
+              └Primary_NT┐
+                         └this
+
+8.315288782119751
+Doing idiom_number 30
+75.39592671394348
+1.1296725273132324
+                     ┌function
+                     ├FormalParameters_NT
+                     ├{
+                     ├Star_26_NT
+ MemberDeclaration_NT┤
+                     ├TypeTypeOrVoid_NT┐
+                     │                 └TypeType_NT
+                     ├}
+                     └Statement_NT
+
+12.315110206604004
+Doing idiom_number 31
+76.59618258476257
+1.1317005157470703
+              ┌(
+              ├Expression_NT
+              ├)
+ Expression_NT┤
+              │             ┌Identifier_NT
+              └Expression_NT┤
+                            ├Identifier_NT
+                            └.
+
+9.297311305999756
+Doing idiom_number 32
+77.14523434638977
+1.2239820957183838
+              ┌Expression_NT
+              ├(
+              ├)
+ Expression_NT┤
+              │                 ┌Expression_NT
+              └ExpressionList_NT┤
+                                └Star_32_NT
+
+10.644256591796875
+Doing idiom_number 33
+76.67573404312134
+1.2707431316375732
+              ┌.
+              ├Identifier_NT
+ Expression_NT┤
+              └Expression_NT┐
+                            └this
+
+9.882450580596924
+Doing idiom_number 34
+81.65931868553162
+1.161390781402588
+                     ┌TypeType_NT
+                     ├function
+                     ├FormalParameters_NT
+                     ├{
+                     ├Star_26_NT
+ MemberDeclaration_NT┤
+                     │            ┌return
+                     ├Statement_NT┤
+                     │            ├;
+                     │            └Expression_NT
+                     └}
+
+20.840923309326172
+Doing idiom_number 35
+79.36129665374756
+1.1870019435882568
+ VariableDeclaratorId_NT┐
+                        └Identifier_NT┐
+                                      └loc0
+
+8.21950912475586
+Doing idiom_number 36
+88.65844249725342
+1.2245707511901855
+              ┌new
+ Expression_NT┤
+              │          ┌CreatedName_NT
+              └Creator_NT┤
+                         └Nt_37_NT
+
+22.49519658088684
+Doing idiom_number 37
+111.32825541496277
+1.2283892631530762
+                      ┌VariableDeclaratorId_NT
+ VariableDeclarator_NT┤
+                      │        ┌=
+                      └Nt_15_NT┤
+                               └VariableInitializer_NT
+
+9.414872407913208
+Doing idiom_number 38
+32.14432120323181
+1.1471168994903564
+ VariableDeclarators_NT┐
+                       │                     ┌VariableDeclaratorId_NT
+                       └VariableDeclarator_NT┤
+                                             ├VariableInitializer_NT
+                                             └=
+
+9.075655221939087
+Doing idiom_number 39
+32.23070216178894
+1.1870274543762207
+                       ┌VariableDeclaratorId_NT
+                       ├=
+ VariableDeclarators_NT┤
+                       └VariableInitializer_NT┐
+                                              └Expression_NT
+
+9.07252812385559
+Doing idiom_number 40
+33.39565896987915
+1.1375527381896973
+ Star_26_NT┐
+           │                 ┌LocalVariableDeclaration_NT
+           └BlockStatement_NT┤
+                             └;
+
+8.730923652648926
+Doing idiom_number 41
+34.254103660583496
+1.1254863739013672
+                       ┌=
+                       ├Expression_NT
+ VariableDeclarators_NT┤
+                       └VariableDeclaratorId_NT┐
+                                               └loc0
+
+7.744164705276489
+Doing idiom_number 42
+33.882169246673584
+1.2003161907196045
+              ┌new
+              ├CreatedName_NT
+ Expression_NT┤
+              └Nt_37_NT┐
+                       └ClassCreatorRest_NT
+
+8.100141525268555
+Doing idiom_number 43
+38.747840881347656
+1.1464173793792725
+                     ┌TypeType_NT
+                     ├function
+                     ├(
+                     ├)
+                     ├{
+ MemberDeclaration_NT┤
+                     ├Expression_NT┐
+                     │             └Identifier_NT
+                     ├}
+                     ├;
+                     └return
+
+9.20973801612854
+Doing idiom_number 44
+49.044408082962036
+2.150667667388916
+              ┌new
+              ├CreatedName_NT
+ Expression_NT┤
+              └ClassCreatorRest_NT┐
+                                  └Arguments_NT
+
+11.406857252120972
+Doing idiom_number 45
+51.26451659202576
+1.623112678527832
+ Statement_NT┐
+             │        ┌{
+             └Block_NT┤
+                      ├}
+                      └Star_26_NT
+
+11.474945306777954
+Doing idiom_number 46
+50.92680382728577
+2.2097268104553223
+              ┌(
+              ├)
+ Expression_NT┤
+              │             ┌Identifier_NT
+              └Expression_NT┤
+                            ├Identifier_NT
+                            └.
+
+11.597161054611206
+Doing idiom_number 47
+50.266196966171265
+1.5842678546905518
+                     ┌void
+                     ├function
+                     ├{
+                     ├Statement_NT
+                     ├}
+ MemberDeclaration_NT┤
+                     │                   ┌(
+                     │                   ├TypeType_NT
+                     └FormalParameters_NT┤
+                                         ├)
+                                         └arg0
+
+10.180273056030273
+Doing idiom_number 48
+45.3393759727478
+1.2365622520446777
+ TypeType_NT┐
+            └PrimitiveType_NT┐
+                             └int
+
+9.811556100845337
+Doing idiom_number 49
+43.02442932128906
+1.67535400390625
+ VariableDeclaratorId_NT┐
+                        └Identifier_NT┐
+                                      └arg1
+
+8.463753461837769
+Doing idiom_number 50
+43.648130655288696
+1.45289945602417
+           ┌;
+ Star_26_NT┤
+           │                           ┌TypeType_NT
+           └LocalVariableDeclaration_NT┤
+                                       └VariableDeclarators_NT
+
+10.08774209022522
+Doing idiom_number 51
+42.722238540649414
+1.569288730621338
+ Star_20_NT┐
+           │        ┌,
+           └Nt_21_NT┤
+                    └FormalParameter_NT
+
+8.997716426849365
+Doing idiom_number 52
+46.43659472465515
+1.5472586154937744
+                    ┌(
+                    ├)
+ FormalParameters_NT┤
+                    │                      ┌FormalParameter_NT
+                    └FormalParameterList_NT┤
+                                           └Star_20_NT
+
+10.259923219680786
+Doing idiom_number 53
+51.38449144363403
+2.344583034515381
+ Expression_NT┐
+              └Identifier_NT┐
+                            └loc0
+
+12.280442476272583
+Doing idiom_number 54
+50.56938552856445
+1.3706574440002441
+             ┌if
+             ├Statement_NT
+ Statement_NT┤
+             │                ┌(
+             └ParExpression_NT┤
+                              ├)
+                              └Expression_NT
+
+10.641420364379883
+Doing idiom_number 55
+42.595704793930054
+1.378751277923584
+           ┌TypeType_NT
+           ├;
+ Star_26_NT┤
+           │                      ┌loc0
+           └VariableDeclarators_NT┤
+                                  ├Expression_NT
+                                  └=
+
+8.21523904800415
+Doing idiom_number 56
+41.87445068359375
+1.4125316143035889
+ Expression_NT┐
+              └Literal_NT┐
+                         └Nt_null_literal_NT
+
+8.824430227279663
+Doing idiom_number 57
+40.700098276138306
+1.157475471496582
+ Expression_NT┐
+              └Nt_null_literal_NT┐
+                                 └null
+
+8.608818531036377
+Doing idiom_number 58
+49.12849402427673
+2.0141243934631348
+                   ┌TypeType_NT
+ FormalParameter_NT┤
+                   └VariableDeclaratorId_NT┐
+                                           └arg1
+
+9.46394681930542
+Doing idiom_number 59
+49.05705976486206
+2.2534196376800537
+           ┌,
+ Star_20_NT┤
+           │                  ┌TypeType_NT
+           └FormalParameter_NT┤
+                              └arg1
+
+9.080596446990967
+Doing idiom_number 60
+46.99595665931702
+1.183049201965332
+              ┌Expression_NT
+              ├(
+              ┌Expression_NT
+ Expression_NT┤
+              │          ┌,
+              ├Star_32_NT┤
+              │          └Expression_NT
+              └)
+
+8.472683429718018
+Doing idiom_number 61
+40.93890118598938
+1.2802798748016357
+                    ┌(
+                    ├Star_20_NT
+                    ├)
+ FormalParameters_NT┤
+                    │                  ┌TypeType_NT
+                    └FormalParameter_NT┤
+                                       └arg0
+
+7.803378343582153
+Doing idiom_number 62
+40.98600792884827
+1.4641687870025635
+             ┌Expression_NT
+             ├=
+ Statement_NT┤
+             ├Expression_NT┐
+             │             └arg0
+             └;
+
+7.126014947891235
+Doing idiom_number 63
+48.10837697982788
+2.1114604473114014
+             ┌{
+             ├}
+ Statement_NT┤
+             └Star_26_NT┐
+                        └Statement_NT
+
+10.40952205657959
+Doing idiom_number 64
+170.10180735588074
+10.319738864898682
+ Expression_NT┐
+              └Identifier_NT┐
+                            └arg1
+
+15.472455978393555
+Doing idiom_number 65
+251.9032244682312
+7.180450439453125
+              ┌new
+              ├Arguments_NT
+ Expression_NT┤
+              └CreatedName_NT┐
+                             └Identifier_NT
+
+15.771654844284058
+Doing idiom_number 66
+240.1467912197113
+11.197736740112305
+ Expression_NT┐
+              └Literal_NT┐
+                         └Nt_string_literal_NT
+
+16.369340419769287
+Doing idiom_number 67
+202.91860938072205
+3.0427815914154053
+ Expression_NT┐
+              └Nt_string_literal_NT┐
+                                   └"srini_string"
+
+48.34778904914856
+Doing idiom_number 68
+176.30595922470093
+12.477433204650879
+ Expression_NT┐
+              └Literal_NT┐
+                         └IntegerLiteral_NT
+
+33.62931752204895
+Doing idiom_number 69
+139.118150472641
+1.2263731956481934
+             ┌=
+             ├arg0
+             ├;
+ Statement_NT┤
+             │             ┌this
+             └Expression_NT┤
+                           ├Identifier_NT
+                           └.
+
+6.99670672416687
+Doing idiom_number 70
+176.69341921806335
+7.372600793838501
+ Expression_NT┐
+              └IntegerLiteral_NT┐
+                                └Nt_decimal_literal_NT
+
+9.623300075531006
+Doing idiom_number 71
+210.9658498764038
+6.672563791275024
+ TypeType_NT┐
+            └PrimitiveType_NT┐
+                             └boolean
+
+7.6356542110443115
+Doing idiom_number 72
+182.16620683670044
+4.913175582885742
+                     ┌function
+                     ├FormalParameters_NT
+                     ├{
+                     ├Star_26_NT
+ MemberDeclaration_NT┤
+                     ├TypeTypeOrVoid_NT┐
+                     │                 └void
+                     ├}
+                     └Statement_NT
+
+7.7435057163238525
+Doing idiom_number 73
+107.21348333358765
+1.1640424728393555
+              ┌(
+              ├)
+ Expression_NT┤
+              │             ┌Expression_NT
+              └Expression_NT┤
+                            ├Identifier_NT
+                            └.
+
+9.597038269042969
+Doing idiom_number 74
+108.1513135433197
+1.1984500885009766
+              ┌Expression_NT
+              ├Nt_67_NT
+ Expression_NT┤
+              └Expression_NT┐
+                            └null
+
+7.185738563537598
+Doing idiom_number 75
+106.93620824813843
+1.833996057510376
+              ┌new
+              ├Identifier_NT
+ Expression_NT┤
+              │            ┌(
+              └Arguments_NT┤
+                           ├)
+                           └ExpressionList_NT
+
+26.584832429885864
+Doing idiom_number 76
+99.99391031265259
+1.3088574409484863
+             ┌if
+             ├(
+             ├Expression_NT
+             ├)
+ Statement_NT┤
+             │            ┌{
+             └Statement_NT┤
+                          ├}
+                          └Statement_NT
+
+34.098416328430176
+Doing idiom_number 77
+105.93354511260986
+0.977898120880127
+             ┌;
+ Statement_NT┤
+             │             ┌Identifier_NT
+             │             ├.
+             │             ┌Identifier_NT
+             └Expression_NT┤
+                           ├)
+                           ├Expression_NT
+                           └(
+
+6.292449951171875
+Doing idiom_number 78
+74.10454630851746
+0.9979674816131592
+                     ┌void
+                     ├function
+                     ├(
+                     ├TypeType_NT
+                     ├arg0
+                     ├)
+                     ├{
+ MemberDeclaration_NT┤
+                     │            ┌this
+                     │            ├.
+                     │            ├Identifier_NT
+                     ├Statement_NT┤
+                     │            ├;
+                     │            ├arg0
+                     │            └=
+                     └}
+
+7.665939092636108
+Doing idiom_number 79
+79.66264772415161
+0.9790194034576416
+                     ┌TypeType_NT
+                     ├function
+                     ├FormalParameters_NT
+                     ├{
+                     ├return
+ MemberDeclaration_NT┤
+                     │          ┌Star_26_NT
+                     ├Star_26_NT┤
+                     │          └Statement_NT
+                     ├}
+                     ├;
+                     └Expression_NT
+
+17.06143808364868
+Doing idiom_number 80
+79.17347407341003
+1.198739767074585
+                    ┌(
+                    ├arg0
+ FormalParameters_NT┤
+                    ├TypeType_NT┐
+                    │           └Identifier_NT
+                    └)
+
+24.094274282455444
+Doing idiom_number 81
+83.68292880058289
+1.108961582183838
+ TypeType_NT┐
+            │                       ┌Identifier_NT
+            └ClassOrInterfaceType_NT┤
+                                    └TypeArguments_NT
+
+18.038650274276733
+Doing idiom_number 82
+127.45561599731445
+1.2904284000396729
+              ┌(
+              ├Expression_NT
+              ├)
+ Expression_NT┤
+              │             ┌Expression_NT
+              └Expression_NT┤
+                            ├Identifier_NT
+                            └.
+
+27.163370609283447
+Doing idiom_number 83
+80.4994809627533
+1.1167759895324707
+                    ┌(
+                    ├TypeType_NT
+                    ├arg0
+                    ├)
+ FormalParameters_NT┤
+                    │          ┌,
+                    └Star_20_NT┤
+                               ├arg1
+                               └TypeType_NT
+
+21.43717336654663
+Doing idiom_number 84
+77.84813332557678
+1.1667218208312988
+              ┌(
+              ├Expression_NT
+ Expression_NT┤
+              ├Expression_NT┐
+              │             └Identifier_NT
+              └)
+
+45.32681179046631
+Doing idiom_number 85
+106.6017255783081
+1.1499707698822021
+           ┌Star_32_NT
+ Star_32_NT┤
+           │          ┌,
+           └Star_32_NT┤
+                      └Expression_NT
+
+18.603976011276245
+Doing idiom_number 86
+40.368590116500854
+1.1013479232788086
+           ┌,
+           ├Expression_NT
+ Star_32_NT┤
+           │          ┌,
+           └Star_32_NT┤
+                      └Expression_NT
+
+5.917268991470337
+Doing idiom_number 87
+32.15523409843445
+1.0778543949127197
+ Expression_NT┐
+              └Nt_decimal_literal_NT┐
+                                    └0
+
+6.264257907867432
+Doing idiom_number 88
+31.810816287994385
+1.0746290683746338
+            ┌Identifier_NT
+ TypeType_NT┤
+            │                ┌<
+            └TypeArguments_NT┤
+                             ├>
+                             └TypeArgument_NT
+
+5.8404929637908936
+Doing idiom_number 89
+31.497146368026733
+1.0883872509002686
+           ┌loc0
+           ├=
+           ├Expression_NT
+ Star_26_NT┤
+           ├TypeType_NT┐
+           │           └Identifier_NT
+           └;
+
+5.853201150894165
+Doing idiom_number 90
+31.745026350021362
+1.1159098148345947
+             ┌;
+ Statement_NT┤
+             │             ┌Expression_NT
+             │             ├(
+             │             ┌Expression_NT
+             └Expression_NT┤
+                           ├)
+                           ├Expression_NT
+                           └,
+
+5.915160894393921
+Doing idiom_number 91
+30.95953917503357
+1.0876574516296387
+ TypeArgument_NT┐
+                └TypeType_NT┐
+                            └Identifier_NT
+
+5.845509052276611
+Doing idiom_number 92
+31.178529262542725
+1.0792410373687744
+ VariableDeclaratorId_NT┐
+                        └Identifier_NT┐
+                                      └loc1
+
+5.563867092132568
+Doing idiom_number 93
+31.33061385154724
+1.0648064613342285
+                     ┌TypeType_NT
+                     ├function
+                     ├FormalParameters_NT
+                     ├{
+                     ├return
+ MemberDeclaration_NT┤
+                     ├Star_26_NT┐
+                     │          └Statement_NT
+                     ├}
+                     ├;
+                     └Expression_NT
+
+5.5547425746917725
+Doing idiom_number 94
+31.454936265945435
+1.0734310150146484
+              ┌(
+              ├)
+ Expression_NT┤
+              └Expression_NT┐
+                            └Identifier_NT
+
+5.719803333282471
+Doing idiom_number 95
+31.704880714416504
+1.0733873844146729
+              ┌new
+              ├Identifier_NT
+              ├(
+ Expression_NT┤
+              ├ExpressionList_NT┐
+              │                 └Expression_NT
+              └)
+
+5.769881010055542
+Doing idiom_number 96
+31.74581003189087
+1.1198887825012207
+           ┌Statement_NT
+ Star_26_NT┤
+           └Star_26_NT┐
+                      └Statement_NT
+
+5.490339040756226
+Doing idiom_number 97
+31.44914984703064
+1.0717356204986572
+                       ┌=
+                       ├Expression_NT
+ VariableDeclarators_NT┤
+                       └VariableDeclaratorId_NT┐
+                                               └loc1
+
+5.487276554107666
+Doing idiom_number 98
+31.766751289367676
+1.0811131000518799
+ Expression_NT┐
+              └Identifier_NT┐
+                            └loc1
+
+6.227452278137207
+Doing idiom_number 99
+31.28690266609192
+1.0676283836364746
+              ┌Expression_NT
+              ├null
+ Expression_NT┤
+              └Nt_67_NT┐
+                       └==
+
+5.555744647979736
+Doing idiom_number 100
+31.51206684112549
+1.0577037334442139
+ Expression_NT┐
+              └Literal_NT┐
+                         └Nt_bool_literal_NT
+
+5.68998908996582
+Doing idiom_number 101
+31.373616695404053
+1.066237449645996
+              ┌.
+              ├Identifier_NT
+              ├(
+ Expression_NT┤
+              ├Expression_NT┐
+              │             └arg0
+              └)
+
+5.664172410964966
+Doing idiom_number 102
+31.252257108688354
+1.0739374160766602
+              ┌Expression_NT
+              ┌Expression_NT
+ Expression_NT┤
+              └Nt_64_NT┐
+                       └+
+
+6.056581020355225
+Doing idiom_number 103
+31.039759635925293
+1.0477638244628906
+ VariableDeclaratorId_NT┐
+                        └Identifier_NT┐
+                                      └arg2
+
+5.304661273956299
+Doing idiom_number 104
+31.461126804351807
+1.0625758171081543
+ TypeType_NT┐
+            │                       ┌Identifier_NT
+            └ClassOrInterfaceType_NT┤
+                                    └Star_18_NT
+
+5.540791988372803
+Doing idiom_number 105
+31.412933349609375
+1.0567896366119385
+ Star_18_NT┐
+           │        ┌.
+           └Nt_18_NT┤
+                    └Identifier_NT
+
+6.515571594238281
+Doing idiom_number 106
+31.696601390838623
+1.051680326461792
+                     ┌function
+                     ├(
+                     ├)
+                     ├{
+                     ├return
+ MemberDeclaration_NT┤
+                     ├TypeType_NT┐
+                     │           └Identifier_NT
+                     ├}
+                     ├;
+                     └Identifier_NT
+
+5.198392629623413
+Doing idiom_number 107
+31.290305137634277
+1.0614771842956543
+ Star_39_NT┐
+           │        ┌[
+           └Nt_55_NT┤
+                    └]
+
+5.306558132171631
+Doing idiom_number 108
+31.196675300598145
+1.040666103363037
+            ┌Identifier_NT
+            ├<
+ TypeType_NT┤
+            ├TypeArgument_NT┐
+            │               └Identifier_NT
+            └>
+
+5.387507677078247
+Doing idiom_number 109
+31.387195348739624
+1.0508160591125488
+            ┌Nt_41_NT
+ TypeType_NT┤
+            │          ┌[
+            └Star_39_NT┤
+                       └]
+
+5.365578889846802
+Doing idiom_number 110
+30.868624925613403
+1.042781114578247
+           ┌Star_20_NT
+ Star_20_NT┤
+           │          ┌,
+           └Star_20_NT┤
+                      └FormalParameter_NT
+
+5.398965120315552
+Doing idiom_number 111
+30.57717490196228
+1.029087781906128
+ Star_21_NT┐
+           └VariableModifier_NT┐
+                               └final
+
+5.276900768280029
+Doing idiom_number 112
+30.65501832962036
+1.0391185283660889
+                    ┌(
+                    ├arg0
+ FormalParameters_NT┤
+                    ├TypeType_NT┐
+                    │           └String
+                    └)
+
+5.050545692443848
+Doing idiom_number 113
+70.55235505104065
+1.0463297367095947
+                     ┌function
+                     ├(
+                     ├)
+                     ├{
+                     ├return
+ MemberDeclaration_NT┤
+                     ├TypeType_NT┐
+                     │           └String
+                     ├}
+                     ├;
+                     └Identifier_NT
+
+5.0998146533966064
+Doing idiom_number 114
+100.58969950675964
+1.119170904159546
+                   ┌TypeType_NT
+ FormalParameter_NT┤
+                   └VariableDeclaratorId_NT┐
+                                           └arg2
+
+9.342246770858765
+Doing idiom_number 115
+79.11891102790833
+1.0428848266601562
+ Expression_NT┐
+              └Identifier_NT┐
+                            └arg2
+
+5.4803996086120605
+Doing idiom_number 116
+147.72675895690918
+13.64288878440857
+           ┌Star_18_NT
+ Star_18_NT┤
+           │          ┌.
+           └Star_18_NT┤
+                      └Identifier_NT
+
+12.212985515594482
+Doing idiom_number 117
+98.74536561965942
+1.03218674659729
+           ┌,
+           ├FormalParameter_NT
+ Star_20_NT┤
+           │          ┌,
+           └Star_20_NT┤
+                      ├arg1
+                      └TypeType_NT
+
+5.1192381381988525
+Doing idiom_number 118
+100.60796117782593
+1.0941705703735352
+ Expression_NT┐
+              │          ┌(
+              └Primary_NT┤
+                         ├)
+                         └Expression_NT
+
+8.537961959838867
+Doing idiom_number 119
+85.40342307090759
+1.026012659072876
+           ┌,
+           ├TypeType_NT
+           ├arg1
+ Star_20_NT┤
+           │                  ┌TypeType_NT
+           ├FormalParameter_NT┤
+           │                  └arg2
+           └,
+
+5.1088502407073975
+Doing idiom_number 120
+86.36627554893494
+1.0430653095245361
+              ┌Identifier_NT
+              ├.
+              ┌Identifier_NT
+ Expression_NT┤
+              ├Expression_NT┐
+              │             └arg0
+              ├)
+              └(
+
+53.52132725715637
+Doing idiom_number 121
+74.65133953094482
+1.140559196472168
+              ┌.
+              ├Identifier_NT
+              ├(
+ Expression_NT┤
+              ├Identifier_NT┐
+              │             └loc0
+              └)
+
+10.25386118888855
+Doing idiom_number 122
+80.42872023582458
+1.027228832244873
+              ┌Expression_NT
+              ├null
+ Expression_NT┤
+              └Nt_67_NT┐
+                       └!=
+
+23.990793704986572
+Doing idiom_number 123
+71.93994569778442
+1.020906686782837
+             ┌=
+             ├Expression_NT
+ Statement_NT┤
+             ├Expression_NT┐
+             │             └Identifier_NT
+             └;
+
+5.639515161514282
+Doing idiom_number 124
+73.86728763580322
+1.152588129043579
+           ┌TypeType_NT
+           ├;
+ Star_26_NT┤
+           │                      ┌loc1
+           └VariableDeclarators_NT┤
+                                  ├Expression_NT
+                                  └=
+
+27.871199369430542
+Doing idiom_number 125
+71.98434567451477
+1.017676830291748
+                     ┌function
+                     ├FormalParameters_NT
+                     ├{
+                     ├return
+ MemberDeclaration_NT┤
+                     ├TypeType_NT┐
+                     │           └Identifier_NT
+                     ├}
+                     ├;
+                     └Expression_NT
+
+16.112367868423462
+Doing idiom_number 126
+71.53605055809021
+1.0305533409118652
+           ┌.
+           ├Identifier_NT
+ Star_18_NT┤
+           │          ┌.
+           └Star_18_NT┤
+                      └Identifier_NT
+
+16.150871753692627
+Doing idiom_number 127
+83.9610698223114
+1.0653419494628906
+ TypeType_NT┐
+            └PrimitiveType_NT┐
+                             └long
+
+39.322192430496216
+Doing idiom_number 128
+87.89119815826416
+1.0108892917633057
+              ┌Expression_NT
+              ├(
+              ┌Expression_NT
+              ├)
+ Expression_NT┤
+              │          ┌,
+              │          ├Expression_NT
+              └Star_32_NT┤
+                         ├Expression_NT
+                         └,
+
+16.597158193588257
+Doing idiom_number 129
+76.03108239173889
+1.0972912311553955
+             ┌(
+             ├Expression_NT
+             ├,
+             ├Expression_NT
+             ├)
+ Statement_NT┤
+             │             ┌Identifier_NT
+             ├Expression_NT┤
+             │             ├Identifier_NT
+             │             └.
+             └;
+
+37.578779458999634
+Doing idiom_number 130
+104.30359148979187
+1.0783171653747559
+              ┌new
+              ├Identifier_NT
+ Expression_NT┤
+              │            ┌(
+              └Arguments_NT┤
+                           └)
+
+21.931789875030518
+Doing idiom_number 131
+92.16182160377502
+1.1101922988891602
+                   ┌Star_21_NT
+                   ├TypeType_NT
+ FormalParameter_NT┤
+                   └VariableDeclaratorId_NT┐
+                                           └arg0
+
+14.672062158584595
+Doing idiom_number 132
+118.08603072166443
+1.1230850219726562
+             ┌;
+ Statement_NT┤
+             │             ┌Identifier_NT
+             │             ├(
+             └Expression_NT┤
+                           ├)
+                           └Expression_NT
+
+21.336737871170044
+Doing idiom_number 133
+114.25991368293762
+1.0421385765075684
+           ┌Star_26_NT
+ Star_26_NT┤
+           │          ┌TypeType_NT
+           │          ├loc1
+           └Star_26_NT┤
+                      ├;
+                      ├Expression_NT
+                      └=
+
+6.834218263626099
+Doing idiom_number 134
+125.64958047866821
+1.14955472946167
+                   ┌TypeType_NT
+                   ├arg0
+ FormalParameter_NT┤
+                   └Star_21_NT┐
+                              └final
+
+12.167190313339233
+Doing idiom_number 135
+133.1447298526764
+1.1097807884216309
+                     ┌void
+                     ├function
+                     ├FormalParameters_NT
+                     ├{
+ MemberDeclaration_NT┤
+                     ├Star_26_NT┐
+                     │          └Statement_NT
+                     ├}
+                     └Statement_NT
+
+8.168564081192017
+Doing idiom_number 136
+32.39173722267151
+1.0531835556030273
+                     ┌function
+                     ├FormalParameters_NT
+                     ├{
+                     ├Statement_NT
+                     ├return
+ MemberDeclaration_NT┤
+                     ├TypeType_NT┐
+                     │           └Identifier_NT
+                     ├}
+                     ├;
+                     └Expression_NT
+
+4.894751310348511
+Doing idiom_number 137
+40.046847343444824
+1.041649580001831
+ Expression_NT┐
+              └Nt_bool_literal_NT┐
+                                 └false
+
+5.155905485153198
+Doing idiom_number 138
+31.780492544174194
+1.0525615215301514
+ Expression_NT┐
+              └Nt_decimal_literal_NT┐
+                                    └1
+
+5.266506195068359
+Doing idiom_number 139
+31.75008463859558
+1.040290355682373
+                    ┌(
+                    ├arg0
+                    ├,
+                    ├TypeType_NT
+ FormalParameters_NT┤
+                    ├TypeType_NT┐
+                    │           └Identifier_NT
+                    ├)
+                    └arg1
+
+4.82523250579834
+Doing idiom_number 140
+31.88407278060913
+1.043802261352539
+                     ┌function
+                     ├(
+                     ├)
+                     ├{
+                     ├return
+ MemberDeclaration_NT┤
+                     ├TypeType_NT┐
+                     │           └Identifier_NT
+                     ├}
+                     ├;
+                     └Expression_NT
+
+4.891036033630371
+Doing idiom_number 141
+31.645054817199707
+1.0364844799041748
+                     ┌TypeType_NT
+                     ├function
+                     ├FormalParameters_NT
+                     ├{
+                     ├Star_26_NT
+ MemberDeclaration_NT┤
+                     ├Expression_NT┐
+                     │             └loc0
+                     ├}
+                     ├;
+                     ├return
+                     └Statement_NT
+
+4.970823287963867
+Doing idiom_number 142
+31.644407033920288
+1.0255022048950195
+                     ┌void
+                     ├function
+                     ├(
+                     ├arg0
+                     ├)
+                     ├{
+                     ├this
+ MemberDeclaration_NT┤
+                     ├TypeType_NT┐
+                     │           └String
+                     ├}
+                     ├;
+                     ├arg0
+                     ├=
+                     ├Identifier_NT
+                     └.
+
+4.868890285491943
+Doing idiom_number 143
+31.33320164680481
+1.0176184177398682
+             ┌Identifier_NT
+             ├.
+             ┌Identifier_NT
+             ├(
+ Statement_NT┤
+             ├Expression_NT┐
+             │             └arg0
+             ├;
+             └)
+
+4.923923015594482
+Doing idiom_number 144
+31.212626457214355
+1.014021396636963
+              ┌new
+              ├Identifier_NT
+              ├(
+ Expression_NT┤
+              │                 ┌Expression_NT
+              ├ExpressionList_NT┤
+              │                 └Star_32_NT
+              └)
+
+5.034224271774292
+Doing idiom_number 145
+31.0314359664917
+1.0148646831512451
+ Expression_NT┐
+              └Nt_bool_literal_NT┐
+                                 └true
+
+5.022834777832031
+Doing idiom_number 146
+31.55642056465149
+1.0236599445343018
+             ┌;
+ Statement_NT┤
+             │             ┌Expression_NT
+             │             ├.
+             │             ├Identifier_NT
+             └Expression_NT┤
+                           ├)
+                           ├Expression_NT
+                           └(
+
+4.908397436141968
+Doing idiom_number 147
+31.062041997909546
+1.0154638290405273
+           ┌,
+           ├Expression_NT
+ Star_32_NT┤
+           │          ┌,
+           │          ├Expression_NT
+           └Star_32_NT┤
+                      ├Expression_NT
+                      └,
+
+4.7835493087768555
+Doing idiom_number 148
+31.062349319458008
+1.0188426971435547
+              ┌(
+              ├Expression_NT
+              ├,
+              ├Expression_NT
+ Expression_NT┤
+              │             ┌Identifier_NT
+              ├Expression_NT┤
+              │             ├Identifier_NT
+              │             └.
+              └)
+
+4.915552854537964
+Doing idiom_number 149
+31.007638931274414
+1.029937505722046
+              ┌Expression_NT
+              ┌Expression_NT
+ Expression_NT┤
+              └Nt_66_NT┐
+                       └<
+
+5.051565885543823
+Doing idiom_number 150
+31.440560817718506
+1.0480051040649414
+           ┌Statement_NT
+ Star_26_NT┤
+           │          ┌Star_26_NT
+           └Star_26_NT┤
+                      └Statement_NT
+
+4.933577537536621
+Doing idiom_number 151
+31.416723251342773
+1.0247275829315186
+                    ┌(
+                    ├TypeType_NT
+                    ├arg0
+                    ├)
+ FormalParameters_NT┤
+                    │          ┌,
+                    │          ├TypeType_NT
+                    │          ├arg1
+                    └Star_20_NT┤
+                               ├arg2
+                               ├TypeType_NT
+                               └,
+
+4.934249401092529
+Doing idiom_number 152
+31.387017011642456
+1.0354952812194824
+            ┌Star_18_NT
+ TypeType_NT┤
+            └Identifier_NT┐
+                          └java
+
+4.7985899448394775
+Doing idiom_number 153
+31.27521324157715
+1.0315117835998535
+                     ┌void
+                     ├function
+                     ├{
+                     ├Statement_NT
+ MemberDeclaration_NT┤
+                     │                   ┌(
+                     ├FormalParameters_NT┤
+                     │                   └)
+                     └}
+
+4.773277759552002
+Doing idiom_number 154
+31.447800636291504
+1.0281562805175781
+             ┌if
+             ├(
+             ├Expression_NT
+             ├)
+             ├{
+ Statement_NT┤
+             │            ┌return
+             ├Statement_NT┤
+             │            ├;
+             │            └Expression_NT
+             └}
+
+4.94925594329834
+Doing idiom_number 155
+31.53270149230957
+1.0475940704345703
+                     ┌void
+                     ├function
+                     ├(
+                     ├arg0
+                     ├)
+                     ├{
+                     ├this
+ MemberDeclaration_NT┤
+                     ├TypeType_NT┐
+                     │           └Identifier_NT
+                     ├}
+                     ├;
+                     ├arg0
+                     ├=
+                     ├Identifier_NT
+                     └.
+
+4.74780535697937
+Doing idiom_number 156
+31.49118423461914
+1.0164034366607666
+         ┌{
+         ├}
+ Block_NT┤
+         └Star_26_NT┐
+                    └Statement_NT
+
+4.860685110092163
+Doing idiom_number 157
+31.256187915802002
+1.0671451091766357
+              ┌Expression_NT
+              ┌Expression_NT
+ Expression_NT┤
+              └Nt_67_NT┐
+                       └==
+
+4.983977317810059
+Doing idiom_number 158
+31.757965087890625
+1.0807034969329834
+             ┌for
+             ├(
+             ├ForControl_NT
+             ├)
+ Statement_NT┤
+             │            ┌{
+             └Statement_NT┤
+                          ├}
+                          └Statement_NT
+
+4.810107231140137
+Doing idiom_number 159
+31.59323287010193
+1.0181951522827148
+            ┌[
+            ├]
+ TypeType_NT┤
+            └Nt_41_NT┐
+                     └PrimitiveType_NT
+
+4.81547474861145
+Doing idiom_number 160
+31.49784278869629
+1.011277198791504
+             ┌if
+             ├ParExpression_NT
+             ├Statement_NT
+ Statement_NT┤
+             │        ┌else
+             └Nt_52_NT┤
+                      └Statement_NT
+
+4.789915561676025
+Doing idiom_number 161
+31.04147243499756
+1.0364689826965332
+             ┌if
+             ├Statement_NT
+             ├else
+             ├Statement_NT
+ Statement_NT┤
+             │                ┌(
+             └ParExpression_NT┤
+                              ├)
+                              └Expression_NT
+
+4.80618691444397
+Doing idiom_number 162
+30.94006848335266
+1.0348458290100098
+                     ┌void
+                     ├function
+                     ├(
+                     ├arg0
+                     ├)
+ MemberDeclaration_NT┤
+                     ├TypeType_NT┐
+                     │           └Identifier_NT
+                     ├}
+                     ├Statement_NT
+                     └{
+
+4.85410213470459
+Doing idiom_number 163
+58.39942026138306
+1.0165801048278809
+              ┌(
+              ├)
+ Expression_NT┤
+              ├TypeType_NT┐
+              │           └Identifier_NT
+              └Expression_NT
+
+4.749213695526123
+Doing idiom_number 164
+103.256751537323
+1.1849870681762695
+ Nt_41_NT┐
+         └ClassOrInterfaceType_NT┐
+                                 └Identifier_NT
+
+6.506089925765991
+Doing idiom_number 165
+90.57125520706177
+1.0521464347839355
+                     ┌void
+                     ├function
+                     ├{
+                     ├Star_26_NT
+ MemberDeclaration_NT┤
+                     │                   ┌(
+                     ├FormalParameters_NT┤
+                     │                   └)
+                     ├}
+                     └Statement_NT
+
+8.615326404571533
+Doing idiom_number 166
+96.77425837516785
+1.1746413707733154
+              ┌(
+              ├Expression_NT
+              ├,
+ Expression_NT┤
+              ├Expression_NT┐
+              │             └Identifier_NT
+              ├)
+              └Expression_NT
+
+5.393710374832153
+Doing idiom_number 167
+77.71347737312317
+1.0335876941680908
+             ┌throw
+             ├;
+ Statement_NT┤
+             │             ┌new
+             │             ├Identifier_NT
+             └Expression_NT┤
+                           ├)
+                           ├Expression_NT
+                           └(
+
+5.863213539123535
+Doing idiom_number 168
+75.83878636360168
+1.009601354598999
+              ┌.
+              ├Identifier_NT
+ Expression_NT┤
+              └Expression_NT┐
+                            └arg0
+
+39.57406234741211
+Doing idiom_number 169
+80.04847979545593
+1.1547954082489014
+                     ┌function
+                     ├(
+                     ├)
+                     ├{
+                     ├return
+ MemberDeclaration_NT┤
+                     ├TypeType_NT┐
+                     │           └String
+                     ├}
+                     ├;
+                     └Expression_NT
+
+23.86649179458618
+Doing idiom_number 170
+92.01298308372498
+1.0526397228240967
+              ┌Expression_NT
+ Expression_NT┤
+              └Nt_53_NT┐
+                       └++
+
+10.631950378417969
+Doing idiom_number 171
+80.21040797233582
+1.0454585552215576
+                    ┌(
+                    ├)
+ FormalParameters_NT┤
+                    │                  ┌final
+                    └FormalParameter_NT┤
+                                       ├arg0
+                                       └TypeType_NT
+
+33.54246735572815
+Doing idiom_number 172
+77.6500027179718
+1.0872228145599365
+             ┌(
+             ├Expression_NT
+             ├,
+             ├Expression_NT
+ Statement_NT┤
+             ├Expression_NT┐
+             │             └Identifier_NT
+             ├;
+             └)
+
+21.866480112075806
+Doing idiom_number 173
+76.31204271316528
+1.0088450908660889
+                    ┌(
+                    ├arg0
+                    ├,
+                    ├TypeType_NT
+ FormalParameters_NT┤
+                    ├TypeType_NT┐
+                    │           └String
+                    ├)
+                    └arg1
+
+4.761004209518433
+Doing idiom_number 174
+79.5292239189148
+1.1209921836853027
+                    ┌(
+                    ├arg0
+ FormalParameters_NT┤
+                    ├TypeType_NT┐
+                    │           └int
+                    └)
+
+42.49167776107788
+Doing idiom_number 175
+80.05807542800903
+1.0003437995910645
+              ┌+
+              ├Expression_NT
+ Expression_NT┤
+              └Expression_NT┐
+                            └"srini_string"
+
+5.56010627746582
+Doing idiom_number 176
+88.3531882762909
+1.0848238468170166
+            ┌java
+ TypeType_NT┤
+            │          ┌.
+            │          ├Identifier_NT
+            └Star_18_NT┤
+                       ├Identifier_NT
+                       └.
+
+19.977660655975342
+Doing idiom_number 177
+73.55784177780151
+1.0283045768737793
+           ┌Star_18_NT
+ Star_18_NT┤
+           │          ┌.
+           │          ├Identifier_NT
+           └Star_18_NT┤
+                      ├Identifier_NT
+                      └.
+
+50.63627362251282
+Doing idiom_number 178
+81.60356020927429
+1.1652755737304688
+ TypeArgument_NT┐
+                └TypeType_NT┐
+                            └String
+
+27.52528476715088
+Doing idiom_number 179
+89.25516104698181
+1.0962822437286377
+           ┌.
+           ├Identifier_NT
+           ┌.
+ Star_18_NT┤
+           │          ┌.
+           ├Star_18_NT┤
+           │          └Identifier_NT
+           └Identifier_NT
+
+19.892448902130127
+Doing idiom_number 180
+72.69544243812561
+1.0096476078033447
+              ┌new
+              ├Arguments_NT
+ Expression_NT┤
+              │              ┌Identifier_NT
+              └CreatedName_NT┤
+                             └TypeArgumentsOrDiamond_NT
+
+39.182339668273926
+Doing idiom_number 181
+101.5276563167572
+1.0934948921203613
+             ┌;
+ Statement_NT┤
+             │             ┌Identifier_NT
+             │             ├.
+             └Expression_NT┤
+                           ├)
+                           ├(
+                           └Identifier_NT
+
+22.478641033172607
+Doing idiom_number 182
+105.53640365600586
+1.0128238201141357
+              ┌Expression_NT
+ Expression_NT┤
+              └Nt_61_NT┐
+                       └!
+
+10.154826879501343
+Doing idiom_number 183
+125.84090495109558
+1.0944976806640625
+ VariableDeclaratorId_NT┐
+                        └Identifier_NT┐
+                                      └loc2
+
+11.146812677383423
+Doing idiom_number 184
+107.23303413391113
+1.0207738876342773
+             ┌try
+             ├Block_NT
+ Statement_NT┤
+             └Nt_58_NT┐
+                      └Star_27_NT
+
+7.775631904602051
+Doing idiom_number 185
+133.98594856262207
+0.9929053783416748
+             ┌{
+             ├}
+ Statement_NT┤
+             │          ┌Statement_NT
+             └Star_26_NT┤
+                        └Statement_NT
+
+4.777582406997681
+Doing idiom_number 186
+41.58622097969055
+1.0089964866638184
+             ┌;
+ Statement_NT┤
+             │             ┌Expression_NT
+             │             ├(
+             │             ┌Expression_NT
+             │             ├,
+             └Expression_NT┤
+                           ├)
+                           ├Expression_NT
+                           ├,
+                           ├Expression_NT
+
+4.66117000579834
+Doing idiom_number 187
+31.426106452941895
+1.0327575206756592
+            ┌<
+            ├Identifier_NT
+ TypeType_NT┤
+            ├Identifier_NT┐
+            │             └List
+            └>
+
+4.56593918800354
+Doing idiom_number 188
+31.434144735336304
+0.9948503971099854
+ ForInit_NT┐
+           │                           ┌TypeType_NT
+           └LocalVariableDeclaration_NT┤
+                                       └VariableDeclarators_NT
+
+4.590363264083862
+Doing idiom_number 189
+31.376643180847168
+1.0041203498840332
+ Star_27_NT┐
+           │              ┌catch
+           │              ├(
+           │              ├CatchType_NT
+           └CatchClause_NT┤
+                          ├Block_NT
+                          ├)
+                          └Identifier_NT
+
+4.4877097606658936
+Doing idiom_number 190
+31.190719604492188
+1.0149083137512207
+ CatchType_NT┐
+             └QualifiedName_NT┐
+                              └Identifier_NT
+
+4.45855188369751
+Doing idiom_number 191
+31.02644371986389
+1.0083107948303223
+                     ┌Identifier_NT
+                     ├function
+                     ├FormalParameters_NT
+                     ├{
+                     ├Statement_NT
+ MemberDeclaration_NT┤
+                     ├Expression_NT┐
+                     │             └this
+                     ├}
+                     ├;
+                     └return
+
+4.524536371231079
+Doing idiom_number 192
+31.03603959083557
+0.9961705207824707
+            ┌[
+            ├]
+ TypeType_NT┤
+            └Nt_41_NT┐
+                     └Identifier_NT
+
+4.602763652801514
+Doing idiom_number 193
+31.095077514648438
+1.0185847282409668
+                     ┌TypeTypeOrVoid_NT
+                     ├function
+                     ├FormalParameters_NT
+ MemberDeclaration_NT┤
+                     │        ┌{
+                     └Block_NT┤
+                              └}
+
+4.406465291976929
+Doing idiom_number 194
+31.120661973953247
+0.9971837997436523
+              ┌ForInit_NT
+              ├;
+              ├Expression_NT
+ ForControl_NT┤
+              ├ExpressionList_NT┐
+              │                 └Expression_NT
+              └;
+
+4.528722047805786
+Doing idiom_number 195
+30.897677659988403
+0.984635591506958
+           ┌catch
+           ├(
+           ├Identifier_NT
+ Star_27_NT┤
+           ├CatchType_NT┐
+           │            └Identifier_NT
+           ├Block_NT
+           └)
+
+4.438050985336304
+Doing idiom_number 196
+31.126949548721313
+0.9930100440979004
+              ┌.
+              ├Identifier_NT
+              ├(
+ Expression_NT┤
+              ├Expression_NT┐
+              │             └arg0
+              ├)
+              └Expression_NT
+
+4.691145896911621
+Doing idiom_number 197
+31.243760347366333
+1.0686349868774414
+              ┌new
+              ├Identifier_NT
+              ├(
+              ├Expression_NT
+ Expression_NT┤
+              │          ┌,
+              ├Star_32_NT┤
+              │          └Expression_NT
+              └)
+
+4.56971549987793
+Doing idiom_number 198
+31.139532804489136
+0.983119010925293
+             ┌.
+             ├Identifier_NT
+             ├(
+             ├Expression_NT
+ Statement_NT┤
+             ├Identifier_NT┐
+             │             └loc0
+             ├;
+             └)
+
+4.77556586265564
+Doing idiom_number 199
+31.349817276000977
+0.9869358539581299
+              ┌Identifier_NT
+              ├(
+ Expression_NT┤
+              ├Expression_NT┐
+              │             └arg0
+              └)
+
+4.60495138168335
+Doing idiom_number 200
+31.121283054351807
+0.9815638065338135
+              ┌;
+              ├Expression_NT
+              ┌;
+ ForControl_NT┤
+              │          ┌TypeType_NT
+              ├ForInit_NT┤
+              │          └VariableDeclarators_NT
+              └Expression_NT
+
+4.537519216537476
+Doing idiom_number 201
+31.294183492660522
+0.9881727695465088
+                     ┌function
+                     ├FormalParameters_NT
+                     ├{
+ MemberDeclaration_NT┤
+                     ├TypeTypeOrVoid_NT┐
+                     │                 └void
+                     └}
+
+4.420329332351685
+Doing idiom_number 202
+31.194116592407227
+1.0239007472991943
+                     ┌function
+                     ├FormalParameters_NT
+                     ├{
+                     ├Star_26_NT
+                     ├Statement_NT
+ MemberDeclaration_NT┤
+                     ├TypeType_NT┐
+                     │           └Identifier_NT
+                     ├}
+                     ├;
+                     ├Expression_NT
+                     └return
+
+4.492833375930786
+Doing idiom_number 203
+31.72635793685913
+0.9765322208404541
+             ┌if
+             ├(
+             ├Expression_NT
+             ├)
+             ├else
+ Statement_NT┤
+             │            ┌{
+             ├Statement_NT┤
+             │            ├}
+             │            └Statement_NT
+             └Statement_NT
+
+4.590235710144043
+Doing idiom_number 204
+30.904962301254272
+0.9852826595306396
+ ForControl_NT┐
+              │                     ┌TypeType_NT
+              │                     ├VariableDeclaratorId_NT
+              └EnhancedForControl_NT┤
+                                    ├Expression_NT
+                                    └:
+
+4.509765863418579
+Doing idiom_number 205
+31.097477436065674
+0.9825747013092041
+              ┌VariableDeclarators_NT
+              ├;
+              ├Expression_NT
+ ForControl_NT┤
+              ├TypeType_NT┐
+              │           └int
+              ├Expression_NT
+              └;
+
+4.493882179260254
+Doing idiom_number 206
+31.105271100997925
+0.9745187759399414
+ TypeArgumentsOrDiamond_NT┐
+                          │                ┌<
+                          └TypeArguments_NT┤
+                                           ├>
+                                           └TypeArgument_NT
+
+4.446709632873535
+Doing idiom_number 207
+31.495991468429565
+1.005885362625122
+ Star_40_NT┐
+           │        ┌,
+           └Nt_42_NT┤
+                    └TypeArgument_NT
+
+4.478656053543091
+Doing idiom_number 208
+31.469967365264893
+0.9754011631011963
+           ┌Star_18_NT
+ Star_18_NT┤
+           │          ┌.
+           │          ├Identifier_NT
+           │          ┌.
+           └Star_18_NT┤
+                      ├Identifier_NT
+                      ├.
+                      ├Identifier_NT
+
+4.437275648117065
+Doing idiom_number 209
+31.14127826690674
+1.0389792919158936
+             ┌try
+             ├Block_NT
+ Statement_NT┤
+             │          ┌catch
+             │          ├(
+             │          ├Identifier_NT
+             └Star_27_NT┤
+                        ├Block_NT
+                        ├)
+                        └Identifier_NT
+
+4.477870225906372
+Doing idiom_number 210
+30.85526204109192
+0.9876959323883057
+           ┌.
+           ├Identifier_NT
+           ┌.
+           ├Identifier_NT
+ Star_18_NT┤
+           │          ┌.
+           ├Star_18_NT┤
+           │          └Identifier_NT
+           ├Identifier_NT
+           └.
+
+4.459869861602783
+Doing idiom_number 211
+31.3618106842041
+1.0031318664550781
+                    ┌(
+                    ├Identifier_NT
+                    ├arg0
+                    ├,
+ FormalParameters_NT┤
+                    ├TypeType_NT┐
+                    │           └Identifier_NT
+                    ├)
+                    └arg1
+
+4.440661668777466
+Doing idiom_number 212
+31.50090193748474
+0.9945733547210693
+                     ┌function
+                     ├FormalParameters_NT
+                     ├{
+                     ├return
+ MemberDeclaration_NT┤
+                     ├TypeType_NT┐
+                     │           └boolean
+                     ├}
+                     ├;
+                     └Expression_NT
+
+4.478237867355347
+Doing idiom_number 213
+31.057619333267212
+1.0173027515411377
+            ┌java
+            ├.
+            ├.
+ TypeType_NT┤
+            ├Identifier_NT┐
+            │             └lang
+            └Identifier_NT
+
+4.445371389389038
+Doing idiom_number 214
+64.53091144561768
+0.9808547496795654
+ Expression_NT┐
+              └Identifier_NT┐
+                            └loc2
+
+4.8507208824157715
+Doing idiom_number 215
+103.13781881332397
+1.1423554420471191
+                       ┌=
+                       ├Expression_NT
+ VariableDeclarators_NT┤
+                       └VariableDeclaratorId_NT┐
+                                               └loc2
+
+10.622041702270508
+Doing idiom_number 216
+97.45303797721863
+0.9916105270385742
+              ┌Expression_NT
+              ├+
+ Expression_NT┤
+              └Expression_NT┐
+                            └"srini_string"
+
+54.7226779460907
+Doing idiom_number 217
+109.1396324634552
+9.392203569412231
+                 ┌<
+                 ├TypeArgument_NT
+                 ├>
+ TypeArguments_NT┤
+                 │          ┌,
+                 └Star_40_NT┤
+                            └TypeArgument_NT
+
+14.293648719787598
+Doing idiom_number 218
+127.60564804077148
+9.815149784088135
+              ┌==
+              ├null
+ Expression_NT┤
+              └Expression_NT┐
+                            └Identifier_NT
+
+10.47165560722351
+Doing idiom_number 219
+100.91122508049011
+1.1267035007476807
+              ┌==
+              ├null
+ Expression_NT┤
+              └Expression_NT┐
+                            └arg0
+
+33.88846802711487
+Doing idiom_number 220
+93.08422064781189
+1.1037466526031494
+                     ┌function
+                     ├(
+                     ├)
+                     ├{
+                     ├return
+ MemberDeclaration_NT┤
+                     ├TypeType_NT┐
+                     │           └boolean
+                     ├}
+                     ├;
+                     └Expression_NT
+
+4.708003759384155
+Doing idiom_number 221
+74.93023633956909
+1.5179204940795898
+                     ┌function
+                     ├(
+                     ├)
+                     ├{
+                     ├return
+ MemberDeclaration_NT┤
+                     ├TypeType_NT┐
+                     │           └int
+                     ├}
+                     ├;
+                     └Identifier_NT
+
+17.845961332321167
+Doing idiom_number 222
+79.7920274734497
+1.0173428058624268
+             ┌=
+             ├Expression_NT
+ Statement_NT┤
+             ├Expression_NT┐
+             │             └loc0
+             └;
+
+46.62128043174744
+Doing idiom_number 223
+82.96594142913818
+1.1638188362121582
+           ┌Star_26_NT
+ Star_26_NT┤
+           └Star_26_NT┐
+                      └Statement_NT
+
+6.861668586730957
+Doing idiom_number 224
+72.64053869247437
+1.0120890140533447
+              ┌int
+              ├VariableDeclarators_NT
+              ├;
+              ├;
+ ForControl_NT┤
+              │             ┌Expression_NT
+              ├Expression_NT┤
+              │             ├Expression_NT
+              │             └<
+              └Expression_NT
+
+16.061094045639038
+Doing idiom_number 225
+71.19294786453247
+1.0680220127105713
+           ┌loc0
+           ├=
+           ├Expression_NT
+ Star_26_NT┤
+           ├TypeType_NT┐
+           │           └int
+           └;
+
+4.485177040100098
+Doing idiom_number 226
+73.71019673347473
+1.0676026344299316
+             ┌=
+             ├arg0
+ Statement_NT┤
+             ├Expression_NT┐
+             │             └Identifier_NT
+             └;
+
+45.767948389053345
+Doing idiom_number 227
+87.80190563201904
+1.2144038677215576
+            ┌[
+            ├]
+ TypeType_NT┤
+            └PrimitiveType_NT┐
+                             └byte
+
+21.44784688949585
+Doing idiom_number 228
+82.5146131515503
+0.9970393180847168
+ TypeType_NT┐
+            └PrimitiveType_NT┐
+                             └double
+
+10.019878387451172
+Doing idiom_number 229
+74.39685821533203
+0.987548828125
+           ┌Star_26_NT
+           ├loc1
+           ├=
+ Star_26_NT┤
+           ├TypeType_NT┐
+           │           └Identifier_NT
+           ├;
+           └Expression_NT
+
+38.67943286895752
+Doing idiom_number 230
+92.1256594657898
+1.1222612857818604
+              ┌Expression_NT
+              ┌Expression_NT
+ Expression_NT┤
+              └Nt_64_NT┐
+                       └-
+
+18.267395973205566
+Doing idiom_number 231
+89.36121726036072
+1.0229203701019287
+             ┌;
+ Statement_NT┤
+             │             ┌Identifier_NT
+             └Expression_NT┤
+                           ├)
+                           └(
+
+10.639164209365845
+Doing idiom_number 232
+118.14366626739502
+1.1109278202056885
+              ┌int
+              ├VariableDeclarators_NT
+              ├;
+              ├Expression_NT
+              ├<
+ ForControl_NT┤
+              │             ┌Expression_NT
+              ├Expression_NT┤
+              │             └++
+              ├;
+              └Expression_NT
+
+31.729493618011475
+Doing idiom_number 233
+100.88678526878357
+0.968747615814209
+              ┌[
+              ├Expression_NT
+ Expression_NT┤
+              ├Expression_NT┐
+              │             └Identifier_NT
+              └]
+
+12.264444351196289
+Doing idiom_number 234
+122.97383832931519
+1.0947332382202148
+ VariableDeclaratorId_NT┐
+                        └Identifier_NT┐
+                                      └arg3
+
+8.475332260131836
+Doing idiom_number 235
+118.13852572441101
+1.0030617713928223
+             ┌{
+             ├}
+ Statement_NT┤
+             │          ┌Star_26_NT
+             └Star_26_NT┤
+                        └Statement_NT
+
+19.068023920059204
+Doing idiom_number 236
+138.84516668319702
+1.0910093784332275
+           ┌Identifier_NT
+           ├loc0
+           ├=
+           ├;
+ Star_26_NT┤
+           │             ┌new
+           │             ├Identifier_NT
+           └Expression_NT┤
+                         ├)
+                         └(
+
+4.5870201587677
+Doing idiom_number 237
+42.0329110622406
+0.9708611965179443
+            ┌Identifier_NT
+ TypeType_NT┤
+            │                ┌<
+            │                ├TypeArgument_NT
+            └TypeArguments_NT┤
+                             ├>
+                             ├TypeArgument_NT
+                             └,
+
+4.461403131484985
+Doing idiom_number 238
+31.126819133758545
+0.9691784381866455
+            ┌java
+            ├.
+            ├lang
+ TypeType_NT┤
+            ├Identifier_NT┐
+            │             └String
+            └.
+
+4.31497049331665
+Doing idiom_number 239
+31.279269695281982
+1.0042598247528076
+             ┌Identifier_NT
+             ├.
+             ┌Identifier_NT
+             ├(
+             ├,
+ Statement_NT┤
+             ├Expression_NT┐
+             │             └arg0
+             ├;
+             ├)
+             └Expression_NT
+
+4.387364864349365
+Doing idiom_number 240
+31.581607580184937
+0.9661087989807129
+             ┌if
+             ├(
+             ├Expression_NT
+             ├)
+             ├{
+             ├Statement_NT
+ Statement_NT┤
+             │            ┌{
+             ├Statement_NT┤
+             │            ├}
+             │            └Statement_NT
+             ├else
+             └}
+
+4.394200086593628
+Doing idiom_number 241
+31.16934585571289
+0.9624731540679932
+             ┌for
+             ├(
+             ├)
+             ├{
+             ├Statement_NT
+ Statement_NT┤
+             │             ┌TypeType_NT
+             │             ├VariableDeclaratorId_NT
+             ├ForControl_NT┤
+             │             ├Expression_NT
+             │             └:
+             └}
+
+4.350614309310913
+Doing idiom_number 242
+31.734177827835083
+1.0313873291015625
+              ┌!=
+              ├null
+ Expression_NT┤
+              └Expression_NT┐
+                            └Identifier_NT
+
+4.459849119186401
+Doing idiom_number 243
+31.14154601097107
+0.9672260284423828
+                          ┌<
+                          ├>
+ TypeArgumentsOrDiamond_NT┤
+                          └TypeArgument_NT┐
+                                          └Identifier_NT
+
+4.298673868179321
+Doing idiom_number 244
+31.329269409179688
+0.9684431552886963
+             ┌try
+             ├Block_NT
+             ├catch
+             ├(
+ Statement_NT┤
+             ├Identifier_NT┐
+             │             └loc0
+             ├Block_NT
+             ├)
+             └Identifier_NT
+
+4.284876823425293
+Doing idiom_number 245
+30.903500080108643
+0.9712176322937012
+           ┌;
+ Star_26_NT┤
+           │                           ┌Star_21_NT
+           └LocalVariableDeclaration_NT┤
+                                       ├VariableDeclarators_NT
+                                       └TypeType_NT
+
+4.317690849304199
+Doing idiom_number 246
+31.04827308654785
+0.9659366607666016
+              ┌Identifier_NT
+              ├(
+              ├,
+ Expression_NT┤
+              ├Expression_NT┐
+              │             └arg0
+              ├)
+              └Expression_NT
+
+4.361744403839111
+Doing idiom_number 247
+30.88247323036194
+0.9565813541412354
+                   ┌TypeType_NT
+ FormalParameter_NT┤
+                   └VariableDeclaratorId_NT┐
+                                           └arg3
+
+4.243612051010132
+Doing idiom_number 248
+30.73603367805481
+0.9665272235870361
+           ┌TypeType_NT
+           ├VariableDeclarators_NT
+ Star_26_NT┤
+           ├Star_21_NT┐
+           │          └final
+           └;
+
+4.309435129165649
+Doing idiom_number 249
+30.854656219482422
+0.9570460319519043
+                    ┌(
+                    ├TypeType_NT
+                    ├arg0
+                    ├)
+ FormalParameters_NT┤
+                    │          ┌Star_20_NT
+                    └Star_20_NT┤
+                               ├FormalParameter_NT
+                               └,
+
+4.281263828277588
+Doing idiom_number 250
+31.134211540222168
+0.9670097827911377
+                     ┌TypeType_NT
+                     ├function
+                     ├(
+                     ├)
+                     ├{
+                     ├return
+                     ├;
+ MemberDeclaration_NT┤
+                     │             ┌Identifier_NT
+                     │             ├.
+                     ├Expression_NT┤
+                     │             ├)
+                     │             ├(
+                     │             └Identifier_NT
+                     └}
+
+4.335797309875488
+Doing idiom_number 251
+31.061395168304443
+0.9739978313446045
+                     ┌function
+                     ├FormalParameters_NT
+                     ├{
+                     ├Star_26_NT
+                     ├Statement_NT
+ MemberDeclaration_NT┤
+                     ├TypeType_NT┐
+                     │           └Identifier_NT
+                     ├}
+                     ├;
+                     ├loc0
+                     └return
+
+4.285176992416382
+Doing idiom_number 252
+30.855756282806396
+0.9769303798675537
+              ┌Expression_NT
+              ├.
+              ├Identifier_NT
+ Expression_NT┤
+              ├Expression_NT┐
+              │             └arg0
+              ├)
+              └(
+
+4.353482723236084
+Doing idiom_number 253
+30.998929023742676
+0.9721283912658691
+             ┌=
+             ├Expression_NT
+             ├;
+ Statement_NT┤
+             │             ┌this
+             └Expression_NT┤
+                           ├Identifier_NT
+                           └.
+
+4.339479684829712
+Doing idiom_number 254
+30.84217929840088
+0.9604780673980713
+              ┌new
+              ├Identifier_NT
+              ├TypeArgumentsOrDiamond_NT
+ Expression_NT┤
+              │            ┌(
+              └Arguments_NT┤
+                           └)
+
+4.34111213684082
+Doing idiom_number 255
+30.865673542022705
+0.9544253349304199
+              ┌Expression_NT
+              ┌Expression_NT
+ Expression_NT┤
+              └Nt_66_NT┐
+                       └>
+
+4.429381370544434
+Doing idiom_number 256
+31.122819185256958
+0.962822437286377
+           ┌TypeType_NT
+           ├;
+ Star_26_NT┤
+           │                      ┌loc2
+           └VariableDeclarators_NT┤
+                                  ├Expression_NT
+                                  └=
+
+4.314487934112549
+Doing idiom_number 257
+30.819260835647583
+0.9609847068786621
+ Expression_NT┐
+              └Identifier_NT┐
+                            └arg3
+
+4.521824836730957
+Doing idiom_number 258
+30.48606848716736
+0.9655745029449463
+              ┌Expression_NT
+              ├(
+              ┌Expression_NT
+              ├)
+ Expression_NT┤
+              │          ┌,
+              │          ├Expression_NT
+              │          ┌,
+              └Star_32_NT┤
+                         ├Expression_NT
+                         ├,
+                         ├Expression_NT
+
+4.36234188079834
+Doing idiom_number 259
+30.605579137802124
+0.9763579368591309
+                     ┌function
+                     ├FormalParameters_NT
+                     ├{
+                     ├return
+ MemberDeclaration_NT┤
+                     ├TypeType_NT┐
+                     │           └String
+                     ├}
+                     ├;
+                     └Expression_NT
+
+4.260735511779785
+Doing idiom_number 260
+31.07418131828308
+0.9658894538879395
+              ┌new
+              ├CreatedName_NT
+ Expression_NT┤
+              └Nt_37_NT┐
+                       └ArrayCreatorRest_NT
+
+4.394456624984741
+Doing idiom_number 261
+31.27223563194275
+0.9639406204223633
+              ┌new
+              ├CreatedName_NT
+ Expression_NT┤
+              │                   ┌[
+              └ArrayCreatorRest_NT┤
+                                  └Nt_39_NT
+
+4.400999546051025
+Doing idiom_number 262
+31.850698232650757
+0.9663865566253662
+             ┌throw
+             ├new
+             ├Identifier_NT
+             ├(
+ Statement_NT┤
+             ├Expression_NT┐
+             │             └"srini_string"
+             ├;
+             └)
+
+4.254983901977539
+Doing idiom_number 263
+30.748966217041016
+0.968034029006958
+             ┌if
+             ├(
+             ├Expression_NT
+             ├)
+ Statement_NT┤
+             │            ┌{
+             │            ├Statement_NT
+             └Statement_NT┤
+                          ├}
+                          └Statement_NT
+
+4.31291651725769
+Doing idiom_number 264
+30.773113012313843
+0.9643568992614746
+              ┌.
+              ├Identifier_NT
+              ├(
+ Expression_NT┤
+              ├Identifier_NT┐
+              │             └loc1
+              └)
+
+4.389920949935913
+Doing idiom_number 265
+64.51215887069702
+0.9695658683776855
+           ┌final
+           ├TypeType_NT
+           ├;
+ Star_26_NT┤
+           │                      ┌loc0
+           └VariableDeclarators_NT┤
+                                  ├Expression_NT
+                                  └=
+
+4.251729965209961
+Doing idiom_number 266
+94.53401184082031
+1.0853667259216309
+           ┌loc0
+           ├=
+           ├Expression_NT
+ Star_26_NT┤
+           ├TypeType_NT┐
+           │           └String
+           └;
+
+10.145427465438843
+Doing idiom_number 267
+182.5799961090088
+9.157429218292236
+ TypeType_NT┐
+            └Identifier_NT┐
+                          └Object
+
+12.166363954544067
+Doing idiom_number 268
+124.25535202026367
+9.98099660873413
+                   ┌Star_21_NT
+                   ├TypeType_NT
+ FormalParameter_NT┤
+                   └VariableDeclaratorId_NT┐
+                                           └arg1
+
+24.829052686691284
+Doing idiom_number 269
+79.05084896087646
+0.9623358249664307
+           ┌,
+ Star_20_NT┤
+           │                  ┌Star_21_NT
+           └FormalParameter_NT┤
+                              ├arg1
+                              └TypeType_NT
+
+4.240532636642456
+Doing idiom_number 270
+72.9004967212677
+0.9750289916992188
+            ┌Star_18_NT
+ TypeType_NT┤
+            └Identifier_NT┐
+                          └com
+
+41.70148301124573
+Doing idiom_number 271
+91.57720232009888
+1.0521910190582275
+              ┌new
+              ├Identifier_NT
+              ├(
+ Expression_NT┤
+              ├Expression_NT┐
+              │             └arg0
+              └)
+
+17.813244581222534
+Doing idiom_number 272
+108.65179753303528
+1.0309906005859375
+              ┌Expression_NT
+              ┌Expression_NT
+ Expression_NT┤
+              └Nt_67_NT┐
+                       └!=
+
+4.982213973999023
+Doing idiom_number 273
+93.66186499595642
+1.0307843685150146
+                     ┌function
+                     ├FormalParameters_NT
+                     ├{
+                     ├Star_26_NT
+                     ├Statement_NT
+ MemberDeclaration_NT┤
+                     ├TypeType_NT┐
+                     │           └String
+                     ├}
+                     ├;
+                     ├Expression_NT
+                     └return
+
+8.77497124671936
+Doing idiom_number 274
+70.43478918075562
+0.9566104412078857
+           ┌,
+           ├Expression_NT
+ Star_32_NT┤
+           │          ┌,
+           │          ├Expression_NT
+           │          ┌,
+           └Star_32_NT┤
+                      ├Expression_NT
+                      ├,
+                      ├Expression_NT
+
+13.983834981918335
+Doing idiom_number 275
+72.27936697006226
+0.9652211666107178
+                     ┌TypeType_NT
+                     ├function
+                     ├{
+                     ├Statement_NT
+                     ├return
+ MemberDeclaration_NT┤
+                     │                   ┌(
+                     ├FormalParameters_NT┤
+                     │                   └)
+                     ├}
+                     ├;
+                     └Expression_NT
+
+6.295285701751709
+Doing idiom_number 276
+79.86915349960327
+1.1252269744873047
+                    ┌(
+                    ├Star_20_NT
+                    ├)
+ FormalParameters_NT┤
+                    │                  ┌final
+                    └FormalParameter_NT┤
+                                       ├arg0
+                                       └TypeType_NT
+
+48.19618201255798
+Doing idiom_number 277
+73.08609795570374
+0.9528713226318359
+              ┌Expression_NT
+              ┌Expression_NT
+ Expression_NT┤
+              └Nt_63_NT┐
+                       └*
+
+10.907391548156738
+Doing idiom_number 278
+75.57149958610535
+1.0049290657043457
+           ┌,
+           ├TypeType_NT
+ Star_20_NT┤
+           ├Star_21_NT┐
+           │          └final
+           └arg1
+
+22.00483536720276
+Doing idiom_number 279
+72.15647006034851
+0.9576196670532227
+              ┌Expression_NT
+              ┌Expression_NT
+ Expression_NT┤
+              └Nt_66_NT┐
+                       └>=
+
+35.762786865234375
+Doing idiom_number 280
+80.6356987953186
+1.0089547634124756
+              ┌Identifier_NT
+              ├.
+ Expression_NT┤
+              └Identifier_NT┐
+                            └length
+
+21.549023628234863
+Doing idiom_number 281
+79.47602391242981
+1.0260772705078125
+                     ┌Identifier_NT
+                     ├function
+                     ├{
+                     ├return
+                     ├Expression_NT
+                     ├;
+ MemberDeclaration_NT┤
+                     │                   ┌(
+                     │                   ├Identifier_NT
+                     ├FormalParameters_NT┤
+                     │                   ├)
+                     │                   └arg0
+                     └}
+
+27.821396112442017
+Doing idiom_number 282
+71.71636152267456
+0.9448404312133789
+            ┌Identifier_NT
+            ├<
+ TypeType_NT┤
+            ├TypeArgument_NT┐
+            │               └String
+            └>
+
+42.43450617790222
+Doing idiom_number 283
+74.86391639709473
+1.0607011318206787
+              ┌.
+              ├Identifier_NT
+              ├(
+ Expression_NT┤
+              ├Identifier_NT┐
+              │             └loc0
+              ├)
+              └Expression_NT
+
+16.44743847846985
+Doing idiom_number 284
+110.66481757164001
+0.9971699714660645
+ Expression_NT┐
+              │          ┌TypeTypeOrVoid_NT
+              └Primary_NT┤
+                         ├class
+                         └.
+
+40.92530012130737
+Doing idiom_number 285
+78.45430636405945
+1.0029470920562744
+              ┌.
+              ├class
+ Expression_NT┤
+              └TypeTypeOrVoid_NT┐
+                                └TypeType_NT
+
+5.626535415649414
+Doing idiom_number 286
+99.3509931564331
+0.9948303699493408
+             ┌Identifier_NT
+             ├(
+             ├)
+ Statement_NT┤
+             ├Expression_NT┐
+             │             └arg0
+             └;
+
+17.493945360183716
+Doing idiom_number 287
+156.15326595306396
+6.365576267242432
+ TypeType_NT┐
+            └PrimitiveType_NT┐
+                             └float
+
+14.193560361862183
+Doing idiom_number 288
+37.168219566345215
+0.9252340793609619
+                     ┌TypeType_NT
+                     ├function
+                     ├{
+                     ├return
+                     ├Expression_NT
+                     ├;
+ MemberDeclaration_NT┤
+                     │                   ┌(
+                     │                   ├TypeType_NT
+                     ├FormalParameters_NT┤
+                     │                   ├)
+                     │                   └arg0
+                     └}
+
+4.17471170425415
+Doing idiom_number 289
+31.103623390197754
+0.94097900390625
+             ┌if
+             ├(
+             ├Expression_NT
+             ├)
+ Statement_NT┤
+             │            ┌return
+             └Statement_NT┤
+                          ├;
+                          └Expression_NT
+
+4.227238655090332
+Doing idiom_number 290
+30.481250286102295
+0.952286958694458
+              ┌Expression_NT
+ Expression_NT┤
+              └Nt_59_NT┐
+                       └-
+
+4.250563621520996
+Doing idiom_number 291
+30.82681441307068
+0.9393832683563232
+                     ┌void
+                     ├function
+                     ├(
+                     ├arg0
+                     ├)
+ MemberDeclaration_NT┤
+                     ├TypeType_NT┐
+                     │           └String
+                     ├}
+                     ├Statement_NT
+                     └{
+
+4.2281715869903564
+Doing idiom_number 292
+30.46862506866455
+0.9389297962188721
+             ┌try
+             ├Block_NT
+             ├catch
+             ├(
+             ├Identifier_NT
+ Statement_NT┤
+             │        ┌{
+             ├Block_NT┤
+             │        ├}
+             │        └Statement_NT
+             ├)
+             └loc0
+
+4.1736204624176025
+Doing idiom_number 293
+30.900859594345093
+0.9346818923950195
+              ┌+
+              ├"srini_string"
+ Expression_NT┤
+              │             ┌"srini_string"
+              └Expression_NT┤
+                            ├Expression_NT
+                            └+
+
+4.277672052383423
+Doing idiom_number 294
+30.93018627166748
+0.926987886428833
+                    ┌(
+                    ├arg0
+                    ├,
+                    ├TypeType_NT
+                    ├arg1
+ FormalParameters_NT┤
+                    ├TypeType_NT┐
+                    │           └Identifier_NT
+                    ├)
+                    ├arg2
+                    ├TypeType_NT
+                    └,
+
+4.146020889282227
+Doing idiom_number 295
+30.906431913375854
+0.9350955486297607
+              ┌new
+              ├CreatedName_NT
+              ├[
+ Expression_NT┤
+              │        ┌Expression_NT
+              └Nt_39_NT┤
+                       └]
+
+4.30184531211853
+Doing idiom_number 296
+30.933667182922363
+0.9361207485198975
+              ┌.
+              ├class
+ Expression_NT┤
+              └TypeType_NT┐
+                          └Identifier_NT
+
+4.277987003326416
+Doing idiom_number 297
+30.779787063598633
+0.9192421436309814
+             ┌for
+             ├(
+             ├VariableDeclaratorId_NT
+             ├:
+             ├Expression_NT
+ Statement_NT┤
+             ├TypeType_NT┐
+             │           └Identifier_NT
+             ├}
+             ├Statement_NT
+             ├{
+             └)
+
+4.166938304901123
+Doing idiom_number 298
+30.27713656425476
+0.9362859725952148
+                     ┌void
+                     ├function
+                     ├FormalParameters_NT
+                     ├{
+ MemberDeclaration_NT┤
+                     │          ┌Star_26_NT
+                     ├Star_26_NT┤
+                     │          └Statement_NT
+                     ├}
+                     └Statement_NT
+
+4.229387283325195
+Doing idiom_number 299
+30.77315330505371
+0.9405064582824707
+              ┌Identifier_NT
+              ├.
+              ┌Identifier_NT
+ Expression_NT┤
+              ├Expression_NT┐
+              │             └loc0
+              ├)
+              └(
+
+4.267928600311279
+Doing idiom_number 300
+30.698378562927246
+0.9238107204437256
+              ┌Expression_NT
+              ├(
+              ├,
+              ┌Expression_NT
+ Expression_NT┤
+              ├Expression_NT┐
+              │             └arg0
+              ├)
+              ├Expression_NT
+              └,
+
+4.22312593460083
+Doing idiom_number 301
+30.61516809463501
+0.9282889366149902
+           ┌Star_26_NT
+ Star_26_NT┤
+           │          ┌TypeType_NT
+           │          ├loc2
+           └Star_26_NT┤
+                      ├;
+                      ├Expression_NT
+                      └=
+
+4.148130178451538
+Doing idiom_number 302
+30.912944316864014
+0.9284448623657227
+              ┌Identifier_NT
+              ├.
+              ├(
+ Expression_NT┤
+              ├Identifier_NT┐
+              │             └get
+              ├)
+              └arg0
+
+4.220703363418579
+Doing idiom_number 303
+30.82503581047058
+0.923591136932373
+                     ┌function
+                     ├(
+                     ├)
+                     ├{
+                     ├return
+ MemberDeclaration_NT┤
+                     ├TypeType_NT┐
+                     │           └boolean
+                     ├}
+                     ├;
+                     └Identifier_NT
+
+4.130144119262695
+Doing idiom_number 304
+30.931681394577026
+0.9226734638214111
+                     ┌function
+                     ├(
+                     ├)
+                     ├{
+                     ├return
+ MemberDeclaration_NT┤
+                     ├TypeType_NT┐
+                     │           └int
+                     ├}
+                     ├;
+                     └Expression_NT
+
+4.128124952316284
+Doing idiom_number 305
+30.838840007781982
+0.9404761791229248
+           ┌Star_18_NT
+ Star_18_NT┤
+           │          ┌.
+           │          ├Identifier_NT
+           │          ┌.
+           │          ├Identifier_NT
+           └Star_18_NT┤
+                      ├Identifier_NT
+                      ├.
+                      ├Identifier_NT
+                      ├.
+
+4.130246162414551
+Doing idiom_number 306
+30.40718650817871
+0.9320704936981201
+           ┌.
+           ├Identifier_NT
+           ┌.
+           ├Identifier_NT
+           ┌.
+ Star_18_NT┤
+           │          ┌.
+           ├Star_18_NT┤
+           │          └Identifier_NT
+           ├Identifier_NT
+           ├.
+           ├Identifier_NT
+
+4.1390626430511475
+Doing idiom_number 307
+30.57556915283203
+0.9336917400360107
+             ┌(
+             ├Expression_NT
+             ├,
+             ├Expression_NT
+             ├,
+             ├Expression_NT
+ Statement_NT┤
+             │             ┌Identifier_NT
+             ├Expression_NT┤
+             │             ├Identifier_NT
+             │             └.
+             ├;
+             └)
+
+4.163697957992554
+Doing idiom_number 308
+30.794535875320435
+0.9405698776245117
+                    ┌(
+                    ├String
+                    ├arg0
+                    ├,
+ FormalParameters_NT┤
+                    ├TypeType_NT┐
+                    │           └String
+                    ├)
+                    └arg1
+
+4.157360553741455
+Doing idiom_number 309
+31.564167737960815
+0.943418025970459
+              ┌@
+ Annotation_NT┤
+              └QualifiedName_NT┐
+                               └Identifier_NT
+
+4.1216840744018555
+Doing idiom_number 310
+31.483400344848633
+0.9372773170471191
+ Star_34_NT┐
+           │        ┌.
+           └Nt_38_NT┤
+                    └Identifier_NT
+
+4.2404327392578125
+Doing idiom_number 311
+31.560184955596924
+0.944796085357666
+              ┌Identifier_NT
+              ├.
+              ┌Identifier_NT
+ Expression_NT┤
+              ├Expression_NT┐
+              │             └Identifier_NT
+              ├)
+              └(
+
+4.244224548339844
+Doing idiom_number 312
+30.754656314849854
+0.9424715042114258
+              ┌new
+              ├Arguments_NT
+ Expression_NT┤
+              │              ┌Identifier_NT
+              └CreatedName_NT┤
+                             └Star_34_NT
+
+4.249751329421997
+Doing idiom_number 313
+31.335004329681396
+0.956702709197998
+         ┌{
+         ├}
+ Block_NT┤
+         │            ┌return
+         └Statement_NT┤
+                      ├;
+                      └Expression_NT
+
+4.112261533737183
+Doing idiom_number 314
+31.101394176483154
+0.9571497440338135
+                    ┌(
+                    ├arg0
+                    ├,
+                    ├TypeType_NT
+ FormalParameters_NT┤
+                    ├TypeType_NT┐
+                    │           └int
+                    ├)
+                    └arg1
+
+4.146625518798828
+Doing idiom_number 315
+31.260671615600586
+0.9688284397125244
+              ┌==
+              ├null
+ Expression_NT┤
+              └Expression_NT┐
+                            └loc0
+
+4.2615907192230225
+Doing idiom_number 316
+53.86509990692139
+0.9264445304870605
+            ┌<
+            ├TypeArgument_NT
+            ├,
+ TypeType_NT┤
+            ├Identifier_NT┐
+            │             └Map
+            ├>
+            └TypeArgument_NT
+
+4.11209774017334
+Doing idiom_number 317
+106.85587930679321
+0.9889557361602783
+              ┌Identifier_NT
+              ├.
+              ┌Identifier_NT
+              ├(
+ Expression_NT┤
+              ├Expression_NT┐
+              │             └arg0
+              ├)
+              ├Expression_NT
+              └,
+
+9.758291721343994
+Doing idiom_number 318
+94.40330290794373
+1.0884590148925781
+                    ┌(
+                    ├TypeType_NT
+                    ├arg0
+                    ├Star_20_NT
+ FormalParameters_NT┤
+                    │                  ┌TypeType_NT
+                    ├FormalParameter_NT┤
+                    │                  └arg3
+                    ├)
+                    └,
+
+43.32103395462036
+Doing idiom_number 319
+89.45766377449036
+0.9585719108581543
+                    ┌(
+                    ├final
+                    ├arg0
+ FormalParameters_NT┤
+                    ├TypeType_NT┐
+                    │           └Identifier_NT
+                    └)
+
+5.246433973312378
+Doing idiom_number 320
+77.81683206558228
+0.9990744590759277
+                     ┌void
+                     ├function
+                     ├{
+                     ├Statement_NT
+ MemberDeclaration_NT┤
+                     │                   ┌(
+                     ├FormalParameters_NT┤
+                     │                   └)
+                     ├}
+                     └Statement_NT
+
+31.3459050655365
+Doing idiom_number 321
+119.56669592857361
+4.2642176151275635
+                     ┌function
+                     ├FormalParameters_NT
+                     ├{
+                     ├Star_26_NT
+                     ├return
+ MemberDeclaration_NT┤
+                     ├TypeType_NT┐
+                     │           └Identifier_NT
+                     ├}
+                     ├;
+                     └Expression_NT
+
+6.451470851898193
+Doing idiom_number 322
+87.44625902175903
+0.947899580001831
+                    ┌(
+                    ├TypeType_NT
+                    ├arg0
+                    ├,
+                    ├TypeType_NT
+                    ├arg3
+                    ├)
+ FormalParameters_NT┤
+                    │          ┌,
+                    │          ├TypeType_NT
+                    │          ├arg1
+                    └Star_20_NT┤
+                               ├arg2
+                               ├TypeType_NT
+                               └,
+
+34.73930835723877
+Doing idiom_number 323
+85.07990741729736
+0.9316246509552002
+             ┌(
+             ├Expression_NT
+             ├,
+             ├Expression_NT
+             ├,
+ Statement_NT┤
+             ├Expression_NT┐
+             │             └Identifier_NT
+             ├;
+             ├)
+             └Expression_NT
+
+4.27264404296875
+Doing idiom_number 324
+100.3481957912445
+0.9299960136413574
+              ┌.
+              ├Identifier_NT
+              ├(
+              ├)
+ Expression_NT┤
+              │             ┌Identifier_NT
+              │             ├.
+              └Expression_NT┤
+                            ├)
+                            ├(
+                            └Identifier_NT
+
+11.92830753326416
+Doing idiom_number 325
+71.3342444896698
+0.925877571105957
+ Expression_NT┐
+              └Nt_decimal_literal_NT┐
+                                    └2
+
+38.87207269668579
+Doing idiom_number 326
+77.78584718704224
+1.00276780128479
+             ┌if
+             ├(
+             ├Expression_NT
+             ├)
+             ├{
+ Statement_NT┤
+             │            ┌Identifier_NT
+             │            ├=
+             ├Statement_NT┤
+             │            ├;
+             │            └Expression_NT
+             └}
+
+14.723097562789917
+Doing idiom_number 327
+72.19612884521484
+0.9746694564819336
+              ┌.
+              ├Identifier_NT
+ Expression_NT┤
+              └Identifier_NT┐
+                            └System
+
+8.419658660888672
+Doing idiom_number 328
+72.77303743362427
+0.9364879131317139
+             ┌.
+             ├Identifier_NT
+             ├(
+             ├Expression_NT
+ Statement_NT┤
+             ├Expression_NT┐
+             │             └arg0
+             ├;
+             └)
+
+53.97460460662842
+Doing idiom_number 329
+83.76630926132202
+1.0744383335113525
+              ┌!=
+              ├null
+ Expression_NT┤
+              └Expression_NT┐
+                            └loc0
+
+18.452210187911987
+Doing idiom_number 330
+73.19344067573547
+0.9750428199768066
+             ┌while
+             ├Statement_NT
+ Statement_NT┤
+             │                ┌(
+             └ParExpression_NT┤
+                              ├)
+                              └Expression_NT
+
+21.149141311645508
+Doing idiom_number 331
+76.50935459136963
+0.9574453830718994
+ Star_18_NT┐
+           │        ┌.
+           └Nt_18_NT┤
+                    ├TypeArguments_NT
+                    └Identifier_NT
+
+50.50652241706848
+Doing idiom_number 332
+95.03136348724365
+1.3466851711273193
+              ┌.
+              ├Identifier_NT
+ Expression_NT┤
+              │             ┌Identifier_NT
+              └Expression_NT┤
+                            ├Identifier_NT
+                            └.
+
+8.558939933776855
+Doing idiom_number 333
+105.95067000389099
+0.935194730758667
+                     ┌void
+                     ├function
+                     ├{
+                     ├Statement_NT
+                     ├Statement_NT
+ MemberDeclaration_NT┤
+                     │                   ┌(
+                     │                   ├Identifier_NT
+                     ├FormalParameters_NT┤
+                     │                   ├)
+                     │                   └arg0
+                     └}
+
+14.59911823272705
+Doing idiom_number 334
+72.55746340751648
+0.9516899585723877
+                     ┌TypeType_NT
+                     ├function
+                     ├{
+                     ├Statement_NT
+ MemberDeclaration_NT┤
+                     │                   ┌(
+                     ├FormalParameters_NT┤
+                     │                   └)
+                     └}
+
+55.26709723472595
+Doing idiom_number 335
+85.30058693885803
+0.9611098766326904
+             ┌(
+             ├)
+ Arguments_NT┤
+             └ExpressionList_NT┐
+                               └Expression_NT
+
+19.200860738754272
+Doing idiom_number 336
+120.60126972198486
+1.0806379318237305
+              ┌-
+ Expression_NT┤
+              └Expression_NT┐
+                            └1
+
+49.09719491004944
+Doing idiom_number 337
+87.47215366363525
+0.9418139457702637
+             ┌for
+             ├(
+             ├)
+             ├{
+             ├Statement_NT
+             ├}
+ Statement_NT┤
+             │             ┌int
+             │             ├VariableDeclarators_NT
+             │             ├;
+             │             ├Expression_NT
+             └ForControl_NT┤
+                           ├++
+                           ├Expression_NT
+                           ├;
+                           ├Expression_NT
+                           └<
+
+9.400707483291626
+Doing idiom_number 338
+94.21778202056885
+1.0504512786865234
+              ┌Expression_NT
+              ├instanceof
+ Expression_NT┤
+              └TypeType_NT┐
+                          └Identifier_NT
+
+10.781363248825073
+Doing idiom_number 339
+150.60051941871643
+1.0878925323486328
+                     ┌void
+                     ├function
+                     ├(
+                     ├TypeType_NT
+                     ├arg0
+                     ├)
+                     ├{
+                     ├}
+ MemberDeclaration_NT┤
+                     │            ┌Identifier_NT
+                     │            ├.
+                     │            ┌Identifier_NT
+                     └Statement_NT┤
+                                  ├;
+                                  ├)
+                                  ├arg0
+                                  └(
+
+33.68194890022278
+Doing idiom_number 340
+31.466336250305176
+0.9403018951416016
+            ┌[
+            ├]
+ TypeType_NT┤
+            └Identifier_NT┐
+                          └String
+
+4.138772010803223
+Doing idiom_number 341
+31.34410572052002
+0.9457426071166992
+             ┌;
+ Statement_NT┤
+             │             ┌loc0
+             │             ├.
+             └Expression_NT┤
+                           ├)
+                           ├(
+                           └Identifier_NT
+
+4.13271164894104
+Doing idiom_number 342
+31.146040678024292
+0.9547924995422363
+                     ┌String
+                     ├function
+                     ├(
+                     ├)
+                     ├{
+                     ├return
+ MemberDeclaration_NT┤
+                     │             ┌this
+                     ├Expression_NT┤
+                     │             ├Identifier_NT
+                     │             └.
+                     ├}
+                     └;
+
+4.1395180225372314
+Doing idiom_number 343
+31.120281219482422
+0.9505290985107422
+              ┌arg0
+              ├.
+ Expression_NT┤
+              └Identifier_NT┐
+                            └length
+
+4.219770431518555
+Doing idiom_number 344
+31.164249658584595
+0.9396936893463135
+            ┌Identifier_NT
+            ├<
+ TypeType_NT┤
+            ├TypeArgument_NT┐
+            │               └?
+            └>
+
+4.076942205429077
+Doing idiom_number 345
+31.017107725143433
+0.9437179565429688
+                     ┌Identifier_NT
+                     ├function
+                     ├(
+                     ├)
+                     ├{
+                     ├return
+ MemberDeclaration_NT┤
+                     │             ┌this
+                     ├Expression_NT┤
+                     │             ├Identifier_NT
+                     │             └.
+                     ├}
+                     └;
+
+4.14428973197937
+Doing idiom_number 346
+31.040993452072144
+0.9346213340759277
+                     ┌Identifier_NT
+                     ├function
+                     ├FormalParameters_NT
+                     ├{
+                     ├return
+                     ├this
+                     ├;
+ MemberDeclaration_NT┤
+                     │            ┌this
+                     │            ├.
+                     │            ├Identifier_NT
+                     ├Statement_NT┤
+                     │            ├;
+                     │            ├arg0
+                     │            └=
+                     └}
+
+4.116108417510986
+Doing idiom_number 347
+31.09045171737671
+0.9335448741912842
+              ┌new
+              ├TypeArgumentsOrDiamond_NT
+              ├(
+ Expression_NT┤
+              ├Identifier_NT┐
+              │             └ArrayList
+              └)
+
+4.141237735748291
+Doing idiom_number 348
+31.239518642425537
+0.9563562870025635
+             ┌if
+             ├(
+             ├Expression_NT
+             ├)
+             ├{
+             ├}
+             ├else
+ Statement_NT┤
+             │            ┌return
+             ├Statement_NT┤
+             │            ├;
+             │            └Expression_NT
+             ├}
+             ├Statement_NT
+             └{
+
+4.090023994445801
+Doing idiom_number 349
+30.78061604499817
+0.939857006072998
+           ┌Statement_NT
+           ┌Statement_NT
+ Star_26_NT┤
+           │          ┌Star_26_NT
+           └Star_26_NT┤
+                      └Statement_NT
+
+4.082232713699341
+Doing idiom_number 350
+31.31859040260315
+0.9445409774780273
+             ┌(
+             ├)
+ Arguments_NT┤
+             │                 ┌Expression_NT
+             └ExpressionList_NT┤
+                               └Star_32_NT
+
+4.034045934677124
+Doing idiom_number 351
+31.18844485282898
+0.9338364601135254
+                     ┌void
+                     ├function
+                     ├FormalParameters_NT
+                     ├{
+ MemberDeclaration_NT┤
+                     │          ┌Statement_NT
+                     ├Star_26_NT┤
+                     │          └Statement_NT
+                     ├}
+                     └Statement_NT
+
+4.063093423843384
+Doing idiom_number 352
+30.900527000427246
+0.9535305500030518
+                     ┌function
+                     ├FormalParameters_NT
+                     ├{
+                     ├Star_26_NT
+                     ├Statement_NT
+ MemberDeclaration_NT┤
+                     ├TypeType_NT┐
+                     │           └boolean
+                     ├}
+                     ├;
+                     ├Expression_NT
+                     └return
+
+4.091226100921631
+Doing idiom_number 353
+30.83736753463745
+0.9372403621673584
+           ┌Star_34_NT
+ Star_34_NT┤
+           │          ┌.
+           └Star_34_NT┤
+                      └Identifier_NT
+
+4.029583692550659
+Doing idiom_number 354
+31.37567687034607
+0.9494812488555908
+              ┌!=
+              ├null
+ Expression_NT┤
+              └Expression_NT┐
+                            └arg0
+
+4.18508243560791
+Doing idiom_number 355
+31.252483367919922
+0.9321777820587158
+             ┌if
+             ├(
+             ├Expression_NT
+             ├)
+             ├{
+             ├return
+             ├Expression_NT
+             ├;
+ Statement_NT┤
+             │            ┌return
+             ├Statement_NT┤
+             │            ├;
+             │            └Expression_NT
+             ├}
+             ├{
+             ├else
+             ├}
+
+4.058082103729248
+Doing idiom_number 356
+31.165810108184814
+0.9396953582763672
+              ┌new
+              ├Identifier_NT
+              ├(
+              ├Expression_NT
+              ├)
+ Expression_NT┤
+              │          ┌,
+              │          ├Expression_NT
+              └Star_32_NT┤
+                         ├Expression_NT
+                         └,
+
+4.144571781158447
+Doing idiom_number 357
+31.119513511657715
+0.9246726036071777
+              ┌Expression_NT
+              ├==
+ Expression_NT┤
+              └Expression_NT┐
+                            └0
+
+4.19212007522583
+Doing idiom_number 358
+31.475640058517456
+0.9450786113739014
+             ┌Identifier_NT
+             ├.
+             ┌Identifier_NT
+             ├(
+             ├arg0
+ Statement_NT┤
+             ├Expression_NT┐
+             │             └arg1
+             ├;
+             ├)
+             └,
+
+4.081026792526245
+Doing idiom_number 359
+30.965517044067383
+0.9337253570556641
+             ┌for
+             ├(
+             ├)
+             ├Statement_NT
+ Statement_NT┤
+             │             ┌int
+             │             ├VariableDeclarators_NT
+             │             ├;
+             │             ├Expression_NT
+             └ForControl_NT┤
+                           ├++
+                           ├Expression_NT
+                           ├;
+                           ├Expression_NT
+                           └<
+
+4.0951690673828125
+Doing idiom_number 360
+31.178112745285034
+0.9541895389556885
+              ┌.
+              ├Identifier_NT
+              ├(
+              ├)
+ Expression_NT┤
+              │             ┌this
+              └Expression_NT┤
+                            ├Identifier_NT
+                            └.
+
+4.1285271644592285
+Doing idiom_number 361
+31.267196893692017
+0.9429764747619629
+            ┌Identifier_NT
+            ├<
+ TypeType_NT┤
+            ├Identifier_NT┐
+            │             └T
+            └>
+
+4.060858964920044
+Doing idiom_number 362
+30.9182870388031
+0.9407064914703369
+                    ┌(
+                    ├final
+                    ├TypeType_NT
+                    ├arg0
+                    ├)
+ FormalParameters_NT┤
+                    │          ┌,
+                    │          ├final
+                    └Star_20_NT┤
+                               ├arg1
+                               └TypeType_NT
+
+4.006391286849976
+Doing idiom_number 363
+31.88190507888794
+0.9425146579742432
+                     ┌void
+                     ├function
+                     ├{
+ MemberDeclaration_NT┤
+                     │                   ┌(
+                     ├FormalParameters_NT┤
+                     │                   └)
+                     └}
+
+3.9941165447235107
+Doing idiom_number 364
+31.73992085456848
+0.9486784934997559
+              ┌loc0
+              ├.
+              ├(
+ Expression_NT┤
+              ├Identifier_NT┐
+              │             └toString
+              └)
+
+4.106400966644287
+Doing idiom_number 365
+31.6154682636261
+0.9461269378662109
+              ┌Expression_NT
+              ┌Expression_NT
+ Expression_NT┤
+              └Nt_63_NT┐
+                       └/
+
+4.188726186752319
+Doing idiom_number 366
+31.980327606201172
+0.9536592960357666
+                     ┌TypeType_NT
+                     ├function
+                     ├FormalParameters_NT
+                     ├{
+                     ├Statement_NT
+                     ├return
+                     ├loc0
+ MemberDeclaration_NT┤
+                     │          ┌TypeType_NT
+                     │          ├loc0
+                     ├Star_26_NT┤
+                     │          ├;
+                     │          ├Expression_NT
+                     │          └=
+                     ├}
+                     └;
+
+4.099527597427368
+Doing idiom_number 367
+55.579657554626465
+0.9299628734588623
+             ┌if
+             ├(
+             ├)
+             ├{
+             ├Identifier_NT
+             ├=
+ Statement_NT┤
+             │             ┌Identifier_NT
+             ├Expression_NT┤
+             │             ├null
+             │             └==
+             ├}
+             ├;
+             └Expression_NT
+
+4.025729417800903
+Doing idiom_number 368
+100.65325808525085
+6.169419527053833
+              ┌(
+              ├Expression_NT
+              ├,
+              ├Expression_NT
+              ├,
+ Expression_NT┤
+              ├Expression_NT┐
+              │             └Identifier_NT
+              ├)
+              ├Expression_NT
+              ├,
+              ├Expression_NT
+
+10.34326696395874
+Doing idiom_number 369
+141.18704557418823
+6.577903985977173
+              ┌.
+              ├Identifier_NT
+              ├(
+ Expression_NT┤
+              ├Identifier_NT┐
+              │             └arg1
+              └)
+
+10.48567795753479
+Doing idiom_number 370
+185.4782156944275
+8.974814653396606
+             ┌if
+             ├(
+             ├Expression_NT
+             ├)
+             ├{
+             ├}
+ Statement_NT┤
+             │            ┌throw
+             │            ├new
+             │            ├Identifier_NT
+             └Statement_NT┤
+                          ├;
+                          ├)
+                          ├"srini_string"
+                          └(
+
+13.350346565246582
+Doing idiom_number 371
+94.96703219413757
+1.0177345275878906
+                       ┌loc1
+                       ├=
+ VariableDeclarators_NT┤
+                       └Expression_NT┐
+                                     └0
+
+33.52806353569031
+Doing idiom_number 372
+99.42562985420227
+1.0931408405303955
+              ┌(
+              ├Expression_NT
+              ├,
+              ├Expression_NT
+ Expression_NT┤
+              │             ┌Expression_NT
+              ├Expression_NT┤
+              │             ├Identifier_NT
+              │             └.
+              └)
+
+9.1364586353302
+Doing idiom_number 373
+76.53970074653625
+0.9718489646911621
+           ┌.
+           ├Identifier_NT
+ Star_18_NT┤
+           │                ┌<
+           └TypeArguments_NT┤
+                            ├>
+                            └TypeArgument_NT
+
+6.857678651809692
+Doing idiom_number 374
+138.72133255004883
+6.5949037075042725
+             ┌Expression_NT
+             ┌Expression_NT
+ Statement_NT┤
+             ├Nt_68_NT┐
+             │        └+=
+             └;
+
+10.115170001983643
+Doing idiom_number 375
+94.14273524284363
+0.9525361061096191
+             ┌Identifier_NT
+             ├(
+             ├,
+             ├Expression_NT
+ Statement_NT┤
+             ├Expression_NT┐
+             │             └arg0
+             ├;
+             └)
+
+58.71701788902283
+Doing idiom_number 376
+92.7026879787445
+1.07279372215271
+           ┌.
+           ├Identifier_NT
+ Star_34_NT┤
+           │          ┌.
+           └Star_34_NT┤
+                      └Identifier_NT
+
+4.545045614242554
+Doing idiom_number 377
+72.34910988807678
+0.9918005466461182
+              ┌.
+              ├Identifier_NT
+ Expression_NT┤
+              └Identifier_NT┐
+                            └loc0
+
+20.666903018951416
+Doing idiom_number 378
+70.80409121513367
+1.0395004749298096
+             ┌Expression_NT
+             ├.
+             ├Identifier_NT
+             ├(
+ Statement_NT┤
+             ├Expression_NT┐
+             │             └arg0
+             ├;
+             └)
+
+13.633102655410767
+Doing idiom_number 379
+77.07606673240662
+1.131484031677246
+            ┌Map
+            ├<
+            ├,
+ TypeType_NT┤
+            ├TypeArgument_NT┐
+            │               └String
+            ├>
+            └TypeArgument_NT
+
+28.368409395217896
+Doing idiom_number 380
+93.61760759353638
+1.0168237686157227
+                    ┌(
+                    ├arg0
+ FormalParameters_NT┤
+                    ├Identifier_NT┐
+                    │             └Object
+                    └)
+
+14.542661190032959
+Doing idiom_number 381
+84.49523210525513
+1.0910673141479492
+           ┌Identifier_NT
+           ├loc1
+           ├=
+           ├Expression_NT
+           ├;
+ Star_26_NT┤
+           │          ┌Identifier_NT
+           │          ├loc0
+           └Star_26_NT┤
+                      ├;
+                      ├Expression_NT
+                      └=
+
+36.52292013168335
+Doing idiom_number 382
+101.5846438407898
+0.9602959156036377
+             ┌Identifier_NT
+             ├.
+             ┌Identifier_NT
+             ├(
+ Statement_NT┤
+             ├Expression_NT┐
+             │             └"srini_string"
+             ├;
+             └)
+
+23.48587942123413
+Doing idiom_number 383
+89.17826271057129
+1.0672690868377686
+            ┌Star_18_NT
+ TypeType_NT┤
+            └Identifier_NT┐
+                          └org
+
+12.818515539169312
+Doing idiom_number 384
+71.06401753425598
+0.9677829742431641
+            ┌java
+ TypeType_NT┤
+            │          ┌.
+            └Star_18_NT┤
+                       ├Star_18_NT
+                       └Identifier_NT
+
+48.65045881271362
+Doing idiom_number 385
+82.73366689682007
+1.07816743850708
+            ┌java
+            ├.
+ TypeType_NT┤
+            ├Identifier_NT┐
+            │             └util
+            └Star_18_NT
+
+17.621299743652344
+Doing idiom_number 386
+102.19684290885925
+0.9500014781951904
+           ┌Star_18_NT
+ Star_18_NT┤
+           │          ┌.
+           │          ├Identifier_NT
+           │          ┌.
+           │          ├Identifier_NT
+           │          ┌.
+           └Star_18_NT┤
+                      ├Identifier_NT
+                      ├.
+                      ├Identifier_NT
+                      ├.
+                      ├Identifier_NT
+
+19.131882190704346
+Doing idiom_number 387
+114.55509281158447
+1.074214220046997
+           ┌.
+           ├Identifier_NT
+           ┌.
+           ├Identifier_NT
+           ┌.
+           ├Identifier_NT
+ Star_18_NT┤
+           │          ┌.
+           ├Star_18_NT┤
+           │          └Identifier_NT
+           ├Identifier_NT
+           ├.
+           ├Identifier_NT
+           ├.
+
+25.33865451812744
+Doing idiom_number 388
+105.08062219619751
+0.986701488494873
+                     ┌Identifier_NT
+                     ├function
+                     ├(
+                     ├)
+                     ├{
+                     ├return
+ MemberDeclaration_NT┤
+                     │             ┌new
+                     │             ├Identifier_NT
+                     ├Expression_NT┤
+                     │             ├)
+                     │             └(
+                     ├}
+                     └;
+
+46.206774950027466
+Doing idiom_number 389
+78.06976747512817
+1.1078064441680908
+              ┌(
+              ├arg0
+              ├,
+              ├Expression_NT
+ Expression_NT┤
+              ├Expression_NT┐
+              │             └Identifier_NT
+              ├)
+              ├Expression_NT
+              └,
+
+12.469112396240234
+Doing idiom_number 390
+122.3676905632019
+1.0724852085113525
+           ┌Statement_NT
+ Star_26_NT┤
+           │          ┌Identifier_NT
+           │          ├loc0
+           └Star_26_NT┤
+                      ├;
+                      ├Expression_NT
+                      └=
+
+25.416294813156128
+Doing idiom_number 391
+32.681612730026245
+0.9566900730133057
+                     ┌Identifier_NT
+                     ├function
+                     ├{
+                     ├return
+                     ├Expression_NT
+                     ├;
+ MemberDeclaration_NT┤
+                     │                   ┌(
+                     │                   ├String
+                     ├FormalParameters_NT┤
+                     │                   ├)
+                     │                   └arg0
+                     └}
+
+4.0822365283966064
+Doing idiom_number 392
+41.71291780471802
+0.9654765129089355
+              ┌Expression_NT
+              ├(
+              ┌Expression_NT
+              ├)
+ Expression_NT┤
+              │          ┌,
+              │          ├Expression_NT
+              │          ┌,
+              │          ├Expression_NT
+              └Star_32_NT┤
+                         ├Expression_NT
+                         ├,
+                         ├Expression_NT
+                         ├,
+
+4.21605658531189
+Doing idiom_number 393
+33.242663860321045
+0.9666347503662109
+              ┌[
+              ├Expression_NT
+ Expression_NT┤
+              ├Expression_NT┐
+              │             └arg0
+              └]
+
+4.172173261642456
+Doing idiom_number 394
+31.98597502708435
+1.0141232013702393
+                    ┌(
+                    ├arg0
+                    ├,
+                    ├TypeType_NT
+                    ├arg1
+ FormalParameters_NT┤
+                    ├TypeType_NT┐
+                    │           └String
+                    ├)
+                    ├arg2
+                    ├TypeType_NT
+                    └,
+
+4.0787787437438965
+Doing idiom_number 395
+32.03999352455139
+0.9645028114318848
+              ┌.
+              ├Identifier_NT
+              ├(
+              ├)
+ Expression_NT┤
+              │             ┌Identifier_NT
+              └Expression_NT┤
+                            ├)
+                            └(
+
+4.130621910095215
+Doing idiom_number 396
+32.14039421081543
+1.0205750465393066
+                     ┌function
+                     ├FormalParameters_NT
+                     ├{
+                     ├return
+ MemberDeclaration_NT┤
+                     ├TypeType_NT┐
+                     │           └int
+                     ├}
+                     ├;
+                     └Expression_NT
+
+4.019686222076416
+Doing idiom_number 397
+31.643508911132812
+0.9599924087524414
+              ┌Expression_NT
+              ├>
+ Expression_NT┤
+              └Expression_NT┐
+                            └0
+
+4.195098161697388
+Doing idiom_number 398
+31.51833748817444
+0.9742982387542725
+ Expression_NT┐
+              └Literal_NT┐
+                         └FloatLiteral_NT
+
+4.301142692565918
+Doing idiom_number 399
+31.903419971466064
+0.9726994037628174
+ Expression_NT┐
+              └FloatLiteral_NT┐
+                              └Nt_float_literal_NT
+
+4.242806911468506
+Doing idiom_number 400
+31.976184606552124
+1.0416626930236816
+              ┌Expression_NT
+              ├-
+ Expression_NT┤
+              └Expression_NT┐
+                            └1
+
+4.1848344802856445
+Doing idiom_number 401
+32.26011896133423
+0.9542217254638672
+              ┌+
+              ├Expression_NT
+ Expression_NT┤
+              │             ┌Expression_NT
+              └Expression_NT┤
+                            ├"srini_string"
+                            └+
+
+4.212415933609009
+Doing idiom_number 402
+31.872002363204956
+1.0059902667999268
+            ┌java
+            ├.
+            ├util
+ TypeType_NT┤
+            │          ┌.
+            │          ├Identifier_NT
+            └Star_18_NT┤
+                       ├>
+                       ├TypeArgument_NT
+                       └<
+
+4.023085355758667
+Doing idiom_number 403
+32.155651569366455
+0.9674434661865234
+             ┌Identifier_NT
+             ├.
+             ┌Identifier_NT
+             ├(
+ Statement_NT┤
+             ├Expression_NT┐
+             │             └loc0
+             ├;
+             └)
+
+4.044937610626221
+Doing idiom_number 404
+31.936758518218994
+0.9855613708496094
+         ┌{
+         ├}
+ Block_NT┤
+         │          ┌Statement_NT
+         └Star_26_NT┤
+                    └Statement_NT
+
+4.053226947784424
+Doing idiom_number 405
+32.12734055519104
+0.9765636920928955
+                     ┌void
+                     ├function
+                     ├(
+                     ├)
+                     ├{
+ MemberDeclaration_NT┤
+                     │          ┌Star_26_NT
+                     ├Star_26_NT┤
+                     │          └Statement_NT
+                     ├}
+                     └Statement_NT
+
+4.037444591522217
+Doing idiom_number 406
+31.87434196472168
+0.9658424854278564
+           ┌final
+           ├loc0
+           ├=
+ Star_26_NT┤
+           ├TypeType_NT┐
+           │           └Identifier_NT
+           ├;
+           └Expression_NT
+
+4.07768177986145
+Doing idiom_number 407
+32.2868766784668
+0.9710798263549805
+              ┌new
+              ├[
+              ├Expression_NT
+ Expression_NT┤
+              ├CreatedName_NT┐
+              │              └PrimitiveType_NT
+              └]
+
+4.1188435554504395
+Doing idiom_number 408
+32.039469957351685
+0.9644105434417725
+                     ┌Identifier_NT
+                     ├function
+                     ├FormalParameters_NT
+                     ├{
+                     ├Statement_NT
+ MemberDeclaration_NT┤
+                     ├Star_26_NT┐
+                     │          └Statement_NT
+                     ├}
+                     ├;
+                     ├Expression_NT
+                     └return
+
+3.9959053993225098
+Doing idiom_number 409
+32.07137084007263
+1.0070488452911377
+             ┌(
+             ├Expression_NT
+             ├,
+             ├Expression_NT
+             ├)
+ Statement_NT┤
+             │             ┌Expression_NT
+             ├Expression_NT┤
+             │             ├Identifier_NT
+             │             └.
+             └;
+
+4.112174987792969
+Doing idiom_number 410
+31.679844617843628
+0.9610249996185303
+           ┌Star_34_NT
+ Star_34_NT┤
+           │          ┌.
+           │          ├Identifier_NT
+           └Star_34_NT┤
+                      ├Identifier_NT
+                      └.
+
+3.924205780029297
+Doing idiom_number 411
+31.96460270881653
+0.9904201030731201
+              ┌Expression_NT
+              ├+
+ Expression_NT┤
+              └Expression_NT┐
+                            └1
+
+4.199336290359497
+Doing idiom_number 412
+32.01607131958008
+0.9626858234405518
+           ┌Star_26_NT
+           ├loc1
+           ├=
+ Star_26_NT┤
+           ├TypeType_NT┐
+           │           └int
+           ├;
+           └Expression_NT
+
+3.996121883392334
+Doing idiom_number 413
+32.49667263031006
+0.9671194553375244
+             ┌.
+             ├Identifier_NT
+             ├(
+             ├Expression_NT
+             ├)
+ Statement_NT┤
+             │             ┌System
+             ├Expression_NT┤
+             │             ├Identifier_NT
+             │             └.
+             └;
+
+4.084461450576782
+Doing idiom_number 414
+31.64922833442688
+0.9594292640686035
+ VariableDeclarators_NT┐
+                       └VariableDeclarator_NT┐
+                                             └VariableDeclaratorId_NT
+
+3.980334520339966
+Doing idiom_number 415
+32.06769776344299
+0.9715828895568848
+                    ┌(
+                    ├Identifier_NT
+                    ├arg0
+                    ├,
+ FormalParameters_NT┤
+                    ├TypeType_NT┐
+                    │           └String
+                    ├)
+                    └arg1
+
+4.0585715770721436
+Doing idiom_number 416
+31.92380714416504
+0.9539604187011719
+            ┌<
+            ├String
+ TypeType_NT┤
+            ├Identifier_NT┐
+            │             └List
+            └>
+
+4.00300407409668
+Doing idiom_number 417
+31.595298528671265
+0.9722836017608643
+             ┌if
+             ├(
+             ├Expression_NT
+             ├)
+ Statement_NT┤
+             │            ┌{
+             │            ├Star_26_NT
+             └Statement_NT┤
+                          ├}
+                          └Statement_NT
+
+4.000196933746338
+Doing idiom_number 418
+31.687974214553833
+0.9738993644714355
+             ┌for
+             ├(
+             ├Identifier_NT
+             ├:
+             ├Expression_NT
+ Statement_NT┤
+             ├VariableDeclaratorId_NT┐
+             │                       └loc0
+             ├}
+             ├Statement_NT
+             ├{
+             └)
+
+4.015090703964233
+Doing idiom_number 419
+140.74675130844116
+6.288082122802734
+             ┌Identifier_NT
+             ├.
+             ┌Identifier_NT
+             ├(
+             ├Expression_NT
+ Statement_NT┤
+             ├Expression_NT┐
+             │             └arg0
+             ├;
+             ├)
+             └,
+
+12.63395881652832
+Doing idiom_number 420
+135.0245623588562
+8.071823120117188
+                     ┌void
+                     ├function
+                     ├(
+                     ├arg0
+                     ├)
+                     ├{
+                     ├this
+ MemberDeclaration_NT┤
+                     ├TypeType_NT┐
+                     │           └boolean
+                     ├}
+                     ├;
+                     ├arg0
+                     ├=
+                     ├Identifier_NT
+                     └.
+
+14.226236343383789
+Doing idiom_number 421
+105.26342797279358
+1.0036005973815918
+              ┌(
+              ├Identifier_NT
+ Expression_NT┤
+              ├Expression_NT┐
+              │             └arg0
+              └)
+
+37.23481631278992
+Doing idiom_number 422
+115.50112080574036
+7.509579658508301
+                     ┌function
+                     ├FormalParameters_NT
+                     ├{
+                     ├Statement_NT
+                     ├return
+ MemberDeclaration_NT┤
+                     ├TypeType_NT┐
+                     │           └boolean
+                     ├}
+                     ├;
+                     └Expression_NT
+
+18.11803102493286
+Doing idiom_number 423
+176.21286582946777
+7.666060209274292
+              ┌Identifier_NT
+              ├.
+              ┌Identifier_NT
+ Expression_NT┤
+              ├Expression_NT┐
+              │             └"srini_string"
+              ├)
+              └(
+
+11.174721479415894
+Doing idiom_number 424
+196.65655088424683
+8.035876035690308
+                       ┌loc0
+                       ├=
+ VariableDeclarators_NT┤
+                       └Expression_NT┐
+                                     └0
+
+14.782312154769897
+Doing idiom_number 425
+78.94750714302063
+0.9696896076202393
+             ┌System
+             ├.
+             ├Identifier_NT
+             ├.
+             ├(
+ Statement_NT┤
+             ├Identifier_NT┐
+             │             └println
+             ├;
+             ├)
+             └Expression_NT
+
+4.090251445770264
+Doing idiom_number 426
+148.74036979675293
+4.519733190536499
+                ┌?
+ TypeArgument_NT┤
+                │        ┌Nt_47_NT
+                └Nt_19_NT┤
+                         └TypeType_NT
+
+8.27185869216919
+Doing idiom_number 427
+96.71351385116577
+0.9521574974060059
+            ┌Identifier_NT
+ TypeType_NT┤
+            │          ┌.
+            └Star_18_NT┤
+                       └Identifier_NT
+
+49.76959013938904
+Doing idiom_number 428
+119.9496545791626
+1.6384389400482178
+           ┌TypeType_NT
+           ├;
+ Star_26_NT┤
+           └VariableDeclarators_NT┐
+                                  └VariableDeclaratorId_NT
+
+7.099838018417358
+Doing idiom_number 429
+83.39372563362122
+0.962212085723877
+             ┌Identifier_NT
+             ├.
+             ├(
+             ├arg0
+ Statement_NT┤
+             ├Identifier_NT┐
+             │             └add
+             ├;
+             └)
+
+13.490076780319214
+Doing idiom_number 430
+70.02659869194031
+0.9630084037780762
+              ┌Identifier_NT
+              ├.
+              ├(
+ Expression_NT┤
+              ├Identifier_NT┐
+              │             └size
+              └)
+
+25.406397819519043
+Doing idiom_number 431
+86.05269837379456
+1.238448143005371
+            ┌org
+ TypeType_NT┤
+            │          ┌.
+            │          ├Identifier_NT
+            │          ┌.
+            │          ├Identifier_NT
+            └Star_18_NT┤
+                       ├Identifier_NT
+                       ├.
+                       ├Identifier_NT
+                       ├.
+
+37.007105112075806
+Doing idiom_number 432
+107.84310054779053
+0.9540188312530518
+             ┌Identifier_NT
+             ├=
+ Statement_NT┤
+             ├Expression_NT┐
+             │             └null
+             └;
+
+11.387548446655273
+Doing idiom_number 433
+76.55302619934082
+1.2408530712127686
+             ┌=
+             ├Expression_NT
+             ├;
+ Statement_NT┤
+             │             ┌Expression_NT
+             │             ├[
+             └Expression_NT┤
+                           ├]
+                           └Expression_NT
+
+53.19172549247742
+Doing idiom_number 434
+107.31920957565308
+0.9627726078033447
+                    ┌(
+                    ├final
+                    ├arg0
+ FormalParameters_NT┤
+                    ├TypeType_NT┐
+                    │           └String
+                    └)
+
+27.00796365737915
+Doing idiom_number 435
+103.37326908111572
+1.1207399368286133
+             ┌{
+             ├}
+ Statement_NT┤
+             │          ┌Star_26_NT
+             └Star_26_NT┤
+                        ├Statement_NT
+                        ├Statement_NT
+
+17.383185625076294
+Doing idiom_number 436
+138.0692310333252
+1.0496735572814941
+              ┌new
+              ├ArrayList
+              ├(
+              ├)
+ Expression_NT┤
+              │                         ┌<
+              └TypeArgumentsOrDiamond_NT┤
+                                        ├>
+                                        └Identifier_NT
+
+13.685694456100464
+Doing idiom_number 437
+129.3519105911255
+1.090221643447876
+ VariableDeclaratorId_NT┐
+                        └Identifier_NT┐
+                                      └loc3
+
+49.910850524902344
+Doing idiom_number 438
+101.84466218948364
+0.9517655372619629
+                    ┌(
+                    ├String
+                    ├arg0
+                    ├,
+ FormalParameters_NT┤
+                    ├TypeType_NT┐
+                    │           └Identifier_NT
+                    ├)
+                    └arg1
+
+19.232401132583618
+Doing idiom_number 439
+139.2388870716095
+1.364753246307373
+                     ┌String
+                     ├function
+                     ├{
+                     ├Star_26_NT
+                     ├Statement_NT
+                     ├return
+ MemberDeclaration_NT┤
+                     │                   ┌(
+                     ├FormalParameters_NT┤
+                     │                   └)
+                     ├}
+                     ├;
+                     └Expression_NT
+
+45.32350754737854
+Doing idiom_number 440
+126.17182230949402
+1.5146667957305908
+                    ┌(
+                    ├int
+                    ├arg0
+                    ├,
+ FormalParameters_NT┤
+                    ├TypeType_NT┐
+                    │           └int
+                    ├)
+                    └arg1
+
+29.43006730079651
+Doing idiom_number 441
+136.83442783355713
+1.0171775817871094
+                     ┌Identifier_NT
+                     ├function
+                     ├FormalParameters_NT
+                     ├{
+                     ├return
+                     ├this
+                     ├;
+ MemberDeclaration_NT┤
+                     │            ┌Identifier_NT
+                     │            ├(
+                     ├Statement_NT┤
+                     │            ├;
+                     │            ├)
+                     │            └arg0
+                     └}
+
+43.541871309280396
+Doing idiom_number 442
+32.69979381561279
+0.9637269973754883
+             ┌(
+             ├Expression_NT
+             ├,
+             ├Expression_NT
+ Statement_NT┤
+             ├Identifier_NT┐
+             │             └assertEquals
+             ├;
+             └)
+
+4.110511302947998
+Doing idiom_number 443
+32.39030933380127
+0.9397280216217041
+                     ┌void
+                     ├function
+                     ├(
+                     ├arg0
+                     ├)
+                     ├{
+                     ├this
+ MemberDeclaration_NT┤
+                     ├TypeType_NT┐
+                     │           └int
+                     ├}
+                     ├;
+                     ├arg0
+                     ├=
+                     ├Identifier_NT
+                     └.
+
+4.071746110916138
+Doing idiom_number 444
+32.12702012062073
+0.9800984859466553
+             ┌synchronized
+             ├Block_NT
+ Statement_NT┤
+             │                ┌(
+             └ParExpression_NT┤
+                              ├)
+                              └Expression_NT
+
+4.028862476348877
+Doing idiom_number 445
+31.70678973197937
+0.9633951187133789
+             ┌;
+ Statement_NT┤
+             │             ┌Expression_NT
+             └Expression_NT┤
+                           └++
+
+3.949948310852051
+Doing idiom_number 446
+31.69182586669922
+0.9450860023498535
+              ┌(
+              ├)
+ Expression_NT┤
+              │             ┌Expression_NT
+              └Expression_NT┤
+                            ├Expression_NT
+                            └&
+
+4.164412260055542
+Doing idiom_number 447
+31.52669858932495
+0.9975671768188477
+              ┌new
+              ├Identifier_NT
+              ├TypeArgumentsOrDiamond_NT
+ Expression_NT┤
+              │            ┌(
+              └Arguments_NT┤
+                           ├)
+                           └Expression_NT
+
+4.017895698547363
+Doing idiom_number 448
+31.77910041809082
+0.9524776935577393
+                     ┌Identifier_NT
+                     ├function
+                     ├{
+                     ├Statement_NT
+                     ├return
+ MemberDeclaration_NT┤
+                     │                   ┌(
+                     ├FormalParameters_NT┤
+                     │                   └)
+                     ├}
+                     ├;
+                     └Expression_NT
+
+4.005790710449219
+Doing idiom_number 449
+31.725684642791748
+0.9382622241973877
+             ┌loc0
+             ├.
+             ├(
+             ├Expression_NT
+ Statement_NT┤
+             ├Identifier_NT┐
+             │             └append
+             ├;
+             └)
+
+4.1306703090667725
+Doing idiom_number 450
+32.22565793991089
+0.9426119327545166
+             ┌if
+             ├(
+             ├)
+             ├{
+ Statement_NT┤
+             │             ┌!
+             ├Expression_NT┤
+             │             └Expression_NT
+             ├}
+             └Statement_NT
+
+3.957467555999756
+Doing idiom_number 451
+31.923084259033203
+0.9588146209716797
+              ┌instanceof
+              ├Identifier_NT
+ Expression_NT┤
+              └Expression_NT┐
+                            └arg0
+
+4.194356679916382
+Doing idiom_number 452
+32.44385123252869
+0.9433629512786865
+                     ┌void
+                     ├function
+                     ├{
+                     ├}
+ MemberDeclaration_NT┤
+                     │                   ┌(
+                     │                   ├Identifier_NT
+                     └FormalParameters_NT┤
+                                         ├)
+                                         └arg0
+
+3.9524612426757812
+Doing idiom_number 453
+32.48059129714966
+0.942183256149292
+            ┌org
+            ├.
+            ├.
+            ├Identifier_NT
+            ├.
+ TypeType_NT┤
+            ├Identifier_NT┐
+            │             └apache
+            ├Identifier_NT
+            ├.
+            ├Identifier_NT
+
+4.014845848083496
+Doing idiom_number 454
+32.525996923446655
+0.9872782230377197
+              ┌Identifier_NT
+              ├.
+              ┌Identifier_NT
+              ├(
+ Expression_NT┤
+              ├Expression_NT┐
+              │             └arg1
+              ├)
+              ├,
+              └arg0
+
+4.165878057479858
+Doing idiom_number 455
+32.726665019989014
+0.9419386386871338
+ Expression_NT┐
+              └IntegerLiteral_NT┐
+                                └Nt_hex_literal_NT
+
+4.16287899017334
+Doing idiom_number 456
+32.46994090080261
+0.9385437965393066
+           ┌Statement_NT
+ Star_26_NT┤
+           │          ┌Identifier_NT
+           │          ├loc0
+           └Star_26_NT┤
+                      ├;
+                      ├Expression_NT
+                      └=
+
+3.9894113540649414
+Doing idiom_number 457
+31.958409786224365
+0.949103593826294
+ VariableDeclaratorId_NT┐
+                        └Identifier_NT┐
+                                      └arg4
+
+3.9714996814727783
+Doing idiom_number 458
+32.513880014419556
+1.0180695056915283
+                     ┌Identifier_NT
+                     ├function
+                     ├FormalParameters_NT
+                     ├{
+                     ├Statement_NT
+                     ├return
+                     ├loc0
+ MemberDeclaration_NT┤
+                     │          ┌Identifier_NT
+                     │          ├loc0
+                     ├Star_26_NT┤
+                     │          ├;
+                     │          ├Expression_NT
+                     │          └=
+                     ├}
+                     └;
+
+4.015558958053589
+Doing idiom_number 459
+32.3700270652771
+0.9497442245483398
+            ┌Identifier_NT
+            ├<
+            ├>
+ TypeType_NT┤
+            │               ┌?
+            └TypeArgument_NT┤
+                            ├TypeType_NT
+                            └Nt_47_NT
+
+3.918572425842285
+Doing idiom_number 460
+32.10473823547363
+0.9478936195373535
+ Expression_NT┐
+              └Literal_NT┐
+                         └Nt_char_literal_NT
+
+4.145024299621582
+Doing idiom_number 461
+31.991809606552124
+0.9529528617858887
+              ┌(
+              ├)
+ Expression_NT┤
+              └Identifier_NT┐
+                            └getService
+
+4.082585334777832
+Doing idiom_number 462
+31.802486658096313
+1.0014798641204834
+              ┌Expression_NT
+              ├<
+ Expression_NT┤
+              └Expression_NT┐
+                            └0
+
+4.117612361907959
+Doing idiom_number 463
+32.05036425590515
+0.9616072177886963
+            ┌org
+            ├.
+            ├apache
+            ├.
+            ├.
+ TypeType_NT┤
+            ├Identifier_NT┐
+            │             └axis
+            ├Identifier_NT
+            ├.
+            ├Identifier_NT
+
+3.948922872543335
+Doing idiom_number 464
+32.30065202713013
+0.985553503036499
+             ┌loc0
+             ├.
+             ├(
+             ├Expression_NT
+ Statement_NT┤
+             ├Identifier_NT┐
+             │             └add
+             ├;
+             └)
+
+3.952854871749878
+Doing idiom_number 465
+32.301278591156006
+0.9355847835540771
+              ┌new
+              ├Identifier_NT
+              ├(
+              ├,
+ Expression_NT┤
+              ├Expression_NT┐
+              │             └arg0
+              ├)
+              └Expression_NT
+
+3.996715545654297
+Doing idiom_number 466
+32.243152379989624
+0.941899299621582
+            ┌Nt_41_NT
+ TypeType_NT┤
+            │             ┌@
+            └Annotation_NT┤
+                          └Identifier_NT
+
+3.973679542541504
+Doing idiom_number 467
+32.41854524612427
+1.0301873683929443
+           ┌TypeType_NT
+           ├;
+ Star_26_NT┤
+           │                      ┌VariableDeclaratorId_NT
+           └VariableDeclarators_NT┤
+                                  ├Expression_NT
+                                  └=
+
+3.958732843399048
+Doing idiom_number 468
+32.09158420562744
+0.9384591579437256
+                     ┌void
+                     ├function
+                     ├FormalParameters_NT
+                     ├{
+                     ├Statement_NT
+ MemberDeclaration_NT┤
+                     │          ┌Star_26_NT
+                     ├Star_26_NT┤
+                     │          ├Statement_NT
+                     │          ├Statement_NT
+                     └}
+
+4.072438955307007
+Doing idiom_number 469
+32.45145511627197
+0.9713714122772217
+                     ┌boolean
+                     ├function
+                     ├{
+                     ├return
+                     ├Expression_NT
+                     ├;
+ MemberDeclaration_NT┤
+                     │                   ┌(
+                     │                   ├Identifier_NT
+                     ├FormalParameters_NT┤
+                     │                   ├)
+                     │                   └arg0
+                     └}
+
+4.014054298400879
+Doing idiom_number 470
+156.00260400772095
+5.4336395263671875
+             ┌System
+             ├.
+             ├.
+             ├println
+             ├(
+ Statement_NT┤
+             ├Identifier_NT┐
+             │             └out
+             ├;
+             ├)
+             └Expression_NT
+
+11.94718313217163
+Doing idiom_number 471
+111.42343974113464
+4.84306263923645
+                     ┌function
+                     ├FormalParameters_NT
+                     ├{
+ MemberDeclaration_NT┤
+                     ├TypeType_NT┐
+                     │           └Identifier_NT
+                     ├}
+                     └Statement_NT
+
+33.124462604522705
+Doing idiom_number 472
+195.08352518081665
+7.823836088180542
+            ┌<
+            ├?
+ TypeType_NT┤
+            ├Identifier_NT┐
+            │             └Class
+            └>
+
+10.906163215637207
+Doing idiom_number 473
+99.20656251907349
+1.1655950546264648
+            ┌com
+ TypeType_NT┤
+            │          ┌.
+            │          ├Identifier_NT
+            │          ┌.
+            │          ├Identifier_NT
+            │          ┌.
+            │          ├Identifier_NT
+            └Star_18_NT┤
+                       ├Identifier_NT
+                       ├.
+                       ├Identifier_NT
+                       ├.
+                       ├Identifier_NT
+                       ├.
+
+40.98753213882446
+Doing idiom_number 474
+189.05861020088196
+7.159513711929321
+                     ┌void
+                     ├function
+                     ├(
+                     ├)
+                     ├{
+                     ├}
+ MemberDeclaration_NT┤
+                     │            ┌Identifier_NT
+                     │            ├.
+                     │            ┌Identifier_NT
+                     └Statement_NT┤
+                                  ├;
+                                  ├)
+                                  └(
+
+15.865933895111084
+Doing idiom_number 475
+169.82092761993408
+5.870279312133789
+                     ┌function
+                     ├FormalParameters_NT
+                     ├{
+                     ├Statement_NT
+                     ├return
+ MemberDeclaration_NT┤
+                     ├TypeType_NT┐
+                     │           └String
+                     ├}
+                     ├;
+                     └Expression_NT
+
+15.578454494476318
+Doing idiom_number 476
+125.23260235786438
+7.070169925689697
+                     ┌void
+                     ├function
+                     ├(
+                     ├arg0
+                     ├)
+ MemberDeclaration_NT┤
+                     ├TypeType_NT┐
+                     │           └int
+                     ├}
+                     ├Statement_NT
+                     └{
+
+13.832371473312378
+Doing idiom_number 477
+86.05327582359314
+0.9438495635986328
+                     ┌function
+                     ├(
+                     ├)
+                     ├{
+                     ├return
+ MemberDeclaration_NT┤
+                     ├TypeType_NT┐
+                     │           └long
+                     ├}
+                     ├;
+                     └Identifier_NT
+
+3.995713472366333
+Doing idiom_number 478
+105.13477754592896
+1.6509220600128174
+             ┌Identifier_NT
+             ├=
+ Statement_NT┤
+             ├Expression_NT┐
+             │             └true
+             └;
+
+4.367375612258911
+Doing idiom_number 479
+83.604562997818
+0.9421126842498779
+                    ┌(
+                    ├TypeType_NT
+                    ├arg0
+                    ├,
+                    ├arg1
+ FormalParameters_NT┤
+                    ├TypeType_NT┐
+                    │           └int
+                    ├)
+                    ├arg2
+                    ├TypeType_NT
+                    └,
+
+4.010222911834717
+Doing idiom_number 480
+71.91767048835754
+0.9435341358184814
+              ┌Identifier_NT
+              ├.
+              ├(
+ Expression_NT┤
+              ├Identifier_NT┐
+              │             └get
+              ├)
+              └Expression_NT
+
+45.90787410736084
+Doing idiom_number 481
+73.1334273815155
+1.1826145648956299
+              ┌(
+              ├Expression_NT
+              ├,
+              ├Expression_NT
+              ├,
+ Expression_NT┤
+              │             ┌Identifier_NT
+              ├Expression_NT┤
+              │             ├Identifier_NT
+              │             └.
+              ├)
+              └Expression_NT
+
+5.856925964355469
+Doing idiom_number 482
+79.33499360084534
+1.0410637855529785
+             ┌throw
+             ├;
+ Statement_NT┤
+             │             ┌new
+             │             ├Identifier_NT
+             └Expression_NT┤
+                           ├)
+                           └(
+
+17.361216068267822
+Doing idiom_number 483
+88.2621500492096
+1.0932893753051758
+ Expression_NT┐
+              └Identifier_NT┐
+                            └loc3
+
+69.94379568099976
+Doing idiom_number 484
+103.96315932273865
+0.9593124389648438
+                     ┌TypeType_NT
+                     ├function
+                     ├(
+                     ├)
+                     ├{
+                     ├return
+                     ├Expression_NT
+                     ├;
+                     ├}
+ MemberDeclaration_NT┤
+                     │            ┌if
+                     │            ├(
+                     │            ├Identifier_NT
+                     │            ├==
+                     │            ├null
+                     │            ├)
+                     └Statement_NT┤
+                                  ├}
+                                  ├;
+                                  ├Expression_NT
+                                  ├=
+                                  ├Identifier_NT
+                                  └{
+
+5.347551345825195
+Doing idiom_number 485
+97.80808925628662
+1.0958232879638672
+                     ┌function
+                     ├FormalParameters_NT
+                     ├{
+                     ├Star_26_NT
+                     ├return
+ MemberDeclaration_NT┤
+                     ├TypeType_NT┐
+                     │           └boolean
+                     ├}
+                     ├;
+                     └Expression_NT
+
+21.456769943237305
+Doing idiom_number 486
+75.18629503250122
+0.966895580291748
+            ┌Identifier_NT
+ TypeType_NT┤
+            │          ┌.
+            │          ├Identifier_NT
+            │          ┌.
+            └Star_18_NT┤
+                       ├Identifier_NT
+                       ├.
+                       ├Identifier_NT
+
+56.08676862716675
+Doing idiom_number 487
+85.72736096382141
+1.0775117874145508
+            ┌com
+            ├.
+            ├.
+            ├Identifier_NT
+            ├.
+            ├Identifier_NT
+            ├.
+ TypeType_NT┤
+            ├Identifier_NT┐
+            │             └liferay
+            ├Identifier_NT
+            ├.
+            ├Identifier_NT
+            ├.
+            ├Identifier_NT
+
+22.49052906036377
+Doing idiom_number 488
+109.0899453163147
+1.0233774185180664
+             ┌if
+             ├(
+             ├Expression_NT
+             ├)
+             ├{
+ Statement_NT┤
+             ├Expression_NT┐
+             │             └true
+             ├}
+             ├;
+             └return
+
+43.98440194129944
+Doing idiom_number 489
+83.64284896850586
+1.0281493663787842
+              ┌+
+              ├Expression_NT
+ Expression_NT┤
+              │             ┌"srini_string"
+              │             ├+
+              └Expression_NT┤
+                            ├"srini_string"
+                            ├+
+                            └Expression_NT
+
+12.443725347518921
+Doing idiom_number 490
+147.5453279018402
+3.044299364089966
+           ┌Star_20_NT
+           ├,
+ Star_20_NT┤
+           │                  ┌TypeType_NT
+           └FormalParameter_NT┤
+                              └arg3
+
+52.117637634277344
+Doing idiom_number 491
+101.62885808944702
+1.0759551525115967
+              ┌Expression_NT
+              ┌Expression_NT
+ Expression_NT┤
+              └Nt_66_NT┐
+                       └<=
+
+22.339314699172974
+Doing idiom_number 492
+146.86859464645386
+2.5279693603515625
+            ┌java
+            ├.
+            ├util
+            ├.
+ TypeType_NT┤
+            ├Identifier_NT┐
+            │             └List
+            ├>
+            ├TypeArgument_NT
+            └<
+
+45.68435072898865
+Doing idiom_number 493
+36.10928153991699
+0.9287495613098145
+              ┌.
+              ├Identifier_NT
+              ├(
+              ├)
+ Expression_NT┤
+              │             ┌arg0
+              │             ├.
+              └Expression_NT┤
+                            ├)
+                            ├(
+                            └Identifier_NT
+
+3.999192237854004
+Doing idiom_number 494
+32.453107595443726
+0.9432113170623779
+                     ┌function
+                     ├FormalParameters_NT
+                     ├{
+                     ├Star_26_NT
+                     ├Statement_NT
+ MemberDeclaration_NT┤
+                     ├TypeType_NT┐
+                     │           └int
+                     ├}
+                     ├;
+                     ├Expression_NT
+                     └return
+
+3.979368209838867
+Doing idiom_number 495
+31.987670421600342
+0.9652500152587891
+ TypeType_NT┐
+            └PrimitiveType_NT┐
+                             └byte
+
+3.93458890914917
+Doing idiom_number 496
+32.300930976867676
+0.9353597164154053
+           ┌,
+           ├TypeType_NT
+           ├arg3
+ Star_20_NT┤
+           │          ┌,
+           │          ├TypeType_NT
+           │          ├arg1
+           └Star_20_NT┤
+                      ├arg2
+                      ├TypeType_NT
+                      └,
+
+3.9579620361328125
+Doing idiom_number 497
+32.28218388557434
+0.9811549186706543
+                    ┌(
+                    ├Identifier_NT
+                    ├arg0
+                    ├,
+                    ├arg1
+ FormalParameters_NT┤
+                    ├TypeType_NT┐
+                    │           └Identifier_NT
+                    ├)
+                    ├arg2
+                    ├TypeType_NT
+                    └,
+
+3.9473068714141846
+Doing idiom_number 498
+32.44301509857178
+0.9572861194610596
+            ┌Identifier_NT
+            ├<
+            ├?
+ TypeType_NT┤
+            ├TypeType_NT┐
+            │           └Identifier_NT
+            ├>
+            └Nt_47_NT
+
+3.895789623260498
+Doing idiom_number 499
+32.009185552597046
+0.9317693710327148
+           ┌,
+           ├Expression_NT
+ Star_32_NT┤
+           │          ┌,
+           │          ├Expression_NT
+           │          ┌,
+           │          ├Expression_NT
+           └Star_32_NT┤
+                      ├Expression_NT
+                      ├,
+                      ├Expression_NT
+                      ├,
+
+3.9237220287323
+Doing idiom_number 500
+32.43927597999573
+0.9603316783905029
+                     ┌TypeType_NT
+                     ├function
+                     ├(
+                     ├)
+                     ├{
+                     ├return
+ MemberDeclaration_NT┤
+                     │             ┌this
+                     ├Expression_NT┤
+                     │             ├Identifier_NT
+                     │             └.
+                     ├}
+                     └;
+
+4.001139402389526
+Doing idiom_number 501
+32.227227210998535
+0.9420135021209717
+                   ┌TypeType_NT
+ FormalParameter_NT┤
+                   └VariableDeclaratorId_NT┐
+                                           └arg4
+
+3.94519305229187
+Doing idiom_number 502
+32.52288627624512
+0.9421243667602539
+             ┌for
+             ├(
+             ├)
+             ├Statement_NT
+ Statement_NT┤
+             │             ┌TypeType_NT
+             │             ├VariableDeclaratorId_NT
+             └ForControl_NT┤
+                           ├Expression_NT
+                           └:
+
+3.93778133392334
+Doing idiom_number 503
+32.55643630027771
+0.9797055721282959
+                     ┌void
+                     ├function
+                     ├{
+                     ├Statement_NT
+                     ├Statement_NT
+ MemberDeclaration_NT┤
+                     │                   ┌(
+                     │                   ├TypeType_NT
+                     ├FormalParameters_NT┤
+                     │                   ├)
+                     │                   └arg0
+                     └}
+
+3.978607177734375
+Doing idiom_number 504
+32.65043067932129
+0.9393565654754639
+            ┌com
+            ├.
+            ├liferay
+            ├.
+            ├.
+            ├Identifier_NT
+            ├.
+ TypeType_NT┤
+            ├Identifier_NT┐
+            │             └portal
+            ├Identifier_NT
+            ├.
+            ├Identifier_NT
+            ├.
+            ├Identifier_NT
+
+3.9188740253448486
+Doing idiom_number 505
+32.33161926269531
+0.9437165260314941
+            ┌Identifier_NT
+            ├<
+            ├TypeArgument_NT
+ TypeType_NT┤
+            ├TypeArgument_NT┐
+            │               └Identifier_NT
+            ├>
+            └,
+
+3.9108834266662598
+Doing idiom_number 506
+32.197458267211914
+0.9730086326599121
+                     ┌void
+                     ├function
+                     ├FormalParameters_NT
+                     ├{
+ MemberDeclaration_NT┤
+                     │            ┌Expression_NT
+                     ├Statement_NT┤
+                     │            └;
+                     └}
+
+3.978785753250122
+Doing idiom_number 507
+32.42246913909912
+0.9373288154602051
+            ┌.
+            ├Identifier_NT
+            ┌.
+            ├Identifier_NT
+ TypeType_NT┤
+            ├Identifier_NT┐
+            │             └javax
+            ├Identifier_NT
+            └.
+
+3.8599627017974854
+Doing idiom_number 508
+32.009042739868164
+0.9306790828704834
+              ┌Expression_NT
+              ├.
+              ├(
+ Expression_NT┤
+              ├Identifier_NT┐
+              │             └equals
+              ├)
+              └Expression_NT
+
+3.967909336090088
+Doing idiom_number 509
+32.8696448802948
+0.9248554706573486
+                     ┌TypeType_NT
+                     ├function
+                     ├{
+                     ├Star_26_NT
+                     ├Statement_NT
+                     ├return
+ MemberDeclaration_NT┤
+                     │                   ┌(
+                     ├FormalParameters_NT┤
+                     │                   └)
+                     ├}
+                     ├;
+                     └loc0
+
+3.9146907329559326
+Doing idiom_number 510
+32.29222249984741
+0.9335060119628906
+              ┌Expression_NT
+              ├>=
+ Expression_NT┤
+              └Expression_NT┐
+                            └Identifier_NT
+
+4.057673454284668
+Doing idiom_number 511
+32.50140738487244
+0.9306654930114746
+              ┌Identifier_NT
+              ├(
+              ├arg0
+ Expression_NT┤
+              ├Expression_NT┐
+              │             └arg1
+              ├)
+              └,
+
+4.009355306625366
+Doing idiom_number 512
+32.631237268447876
+0.929377555847168
+             ┌if
+             ├(
+             ├Expression_NT
+             ├)
+             ├{
+ Statement_NT┤
+             ├Expression_NT┐
+             │             └false
+             ├}
+             ├;
+             └return
+
+4.073596715927124
+Doing idiom_number 513
+32.44762444496155
+0.934011697769165
+            ┌javax
+            ├.
+            ├.
+            ├Identifier_NT
+ TypeType_NT┤
+            ├Identifier_NT┐
+            │             └xml
+            ├Identifier_NT
+            └.
+
+3.9112303256988525
+Doing idiom_number 514
+32.01211643218994
+0.9358084201812744
+             ┌if
+             ├(
+             ├)
+             ├{
+             ├Statement_NT
+ Statement_NT┤
+             │             ┌Identifier_NT
+             ├Expression_NT┤
+             │             ├null
+             │             └!=
+             └}
+
+3.999744176864624
+Doing idiom_number 515
+32.40386509895325
+0.9264442920684814
+              ┌(
+              ├Expression_NT
+              ├,
+              ├Expression_NT
+              ├,
+              ├Expression_NT
+ Expression_NT┤
+              │             ┌Identifier_NT
+              ├Expression_NT┤
+              │             ├Identifier_NT
+              │             └.
+              ├)
+              ├Expression_NT
+              └,
+
+4.0064170360565186
+Doing idiom_number 516
+32.63802099227905
+0.9776668548583984
+                     ┌String
+                     ├function
+                     ├{
+                     ├return
+                     ├Expression_NT
+                     ├;
+ MemberDeclaration_NT┤
+                     │                   ┌(
+                     │                   ├String
+                     ├FormalParameters_NT┤
+                     │                   ├)
+                     │                   └arg0
+                     └}
+
+3.9004509449005127
+Doing idiom_number 517
+32.432690382003784
+0.9425170421600342
+             ┌if
+             ├(
+             ├Expression_NT
+             ├)
+             ├{
+ Statement_NT┤
+             ├Expression_NT┐
+             │             └null
+             ├}
+             ├;
+             └return
+
+3.917565107345581
+Doing idiom_number 518
+32.59506559371948
+0.9682772159576416
+              ┌new
+              ├[
+              ├Expression_NT
+ Expression_NT┤
+              ├CreatedName_NT┐
+              │              └Identifier_NT
+              └]
+
+3.974123477935791
+Doing idiom_number 519
+32.2143018245697
+0.9401412010192871
+                     ┌TypeType_NT
+                     ├function
+                     ├{
+                     ├return
+                     ├Expression_NT
+                     ├;
+ MemberDeclaration_NT┤
+                     │                   ┌(
+                     │                   ├Identifier_NT
+                     ├FormalParameters_NT┤
+                     │                   ├)
+                     │                   └arg0
+                     └}
+
+3.931732654571533
+Doing idiom_number 520
+32.5296905040741
+0.9923381805419922
+              ┌.
+              ├Identifier_NT
+              ├(
+              ├)
+ Expression_NT┤
+              │             ┌(
+              └Expression_NT┤
+                            ├)
+                            └Expression_NT
+
+4.025304079055786
+Doing idiom_number 521
+54.73472476005554
+0.9477279186248779
+           ┌TypeType_NT
+           ├;
+ Star_26_NT┤
+           └VariableDeclaratorId_NT┐
+                                   └loc0
+
+3.871584415435791
+Doing idiom_number 522
+114.7201075553894
+5.421849727630615
+                     ┌function
+                     ├FormalParameters_NT
+                     ├{
+                     ├Star_26_NT
+                     ├return
+ MemberDeclaration_NT┤
+                     ├TypeType_NT┐
+                     │           └String
+                     ├}
+                     ├;
+                     └Expression_NT
+
+13.054352760314941
+Doing idiom_number 523
+140.9762842655182
+6.7630462646484375
+              ┌Identifier_NT
+              ├(
+ Expression_NT┤
+              ├Expression_NT┐
+              │             └loc0
+              └)
+
+11.746359586715698
+Doing idiom_number 524
+104.27800703048706
+1.000342607498169
+                    ┌(
+                    ├)
+ FormalParameters_NT┤
+                    └FormalParameterList_NT┐
+                                           └LastFormalParameter_NT
+
+39.648579835891724
+Doing idiom_number 525
+108.80891275405884
+2.8399202823638916
+           ┌loc1
+           ├=
+           ├Expression_NT
+ Star_26_NT┤
+           ├TypeType_NT┐
+           │           └Identifier_NT
+           └;
+
+31.92996335029602
+Doing idiom_number 526
+155.41526412963867
+7.771511793136597
+             ┌.
+             ├Identifier_NT
+             ├(
+             ├Expression_NT
+             ├,
+ Statement_NT┤
+             ├Identifier_NT┐
+             │             └loc0
+             ├;
+             ├)
+             └Expression_NT
+
+11.000595808029175
+Doing idiom_number 527
+114.08497500419617
+4.354233026504517
+              ┌Identifier_NT
+              ├(
+              ├,
+              ├Expression_NT
+              ├,
+ Expression_NT┤
+              ├Expression_NT┐
+              │             └arg0
+              ├)
+              ├Expression_NT
+              ├,
+              ├Expression_NT
+
+35.36974263191223
+Doing idiom_number 528
+105.90981268882751
+2.6904187202453613
+ Expression_NT┐
+              └Identifier_NT┐
+                            └arg4
+
+46.947638273239136
+Doing idiom_number 529
+80.78580451011658
+0.944049596786499
+             ┌=
+             ├Expression_NT
+ Statement_NT┤
+             ├Expression_NT┐
+             │             └loc1
+             └;
+
+4.015918970108032
+Doing idiom_number 530
+94.78023982048035
+1.0305063724517822
+              ┌Identifier_NT
+              ├.
+              ┌Identifier_NT
+              ├(
+ Expression_NT┤
+              ├Expression_NT┐
+              │             └Identifier_NT
+              ├)
+              ├Expression_NT
+              └,
+
+32.476216554641724
+Doing idiom_number 531
+88.9296522140503
+0.9930558204650879
+                     ┌void
+                     ├function
+                     ├(
+                     ├)
+                     ├{
+ MemberDeclaration_NT┤
+                     │          ┌Statement_NT
+                     ├Star_26_NT┤
+                     │          └Statement_NT
+                     ├}
+                     └Statement_NT
+
+18.13120460510254
+Doing idiom_number 532
+72.61001133918762
+1.0792138576507568
+              ┌new
+              ├Identifier_NT
+              ├Star_34_NT
+ Expression_NT┤
+              │            ┌(
+              │            ├Expression_NT
+              └Arguments_NT┤
+                           ├)
+                           └Star_32_NT
+
+17.355271577835083
+Doing idiom_number 533
+94.75917625427246
+0.997520923614502
+         ┌,
+ Nt_48_NT┤
+         │                      ┌TypeType_NT
+         └LastFormalParameter_NT┤
+                                ├VariableDeclaratorId_NT
+                                └...
+
+52.105634689331055
+Doing idiom_number 534
+102.900794506073
+0.995370626449585
+                     ┌Identifier_NT
+                     ├function
+                     ├{
+                     ├return
+                     ├Expression_NT
+                     ├;
+ MemberDeclaration_NT┤
+                     │                   ┌(
+                     │                   ├TypeType_NT
+                     ├FormalParameters_NT┤
+                     │                   ├)
+                     │                   └arg0
+                     └}
+
+13.980144739151001
+Doing idiom_number 535
+83.59138488769531
+0.9910972118377686
+            ┌@
+            ├Identifier_NT
+ TypeType_NT┤
+            └Nt_41_NT┐
+                     └Identifier_NT
+
+11.062408685684204
+Doing idiom_number 536
+105.49371004104614
+1.0172696113586426
+              ┌arg0
+              ├.
+              ├Identifier_NT
+ Expression_NT┤
+              ├Expression_NT┐
+              │             └"srini_string"
+              ├)
+              └(
+
+36.05522274971008
+Doing idiom_number 537
+110.2733724117279
+0.9692680835723877
+              ┌(
+              ├Expression_NT
+              ├,
+              ├Expression_NT
+ Expression_NT┤
+              │             ┌arg0
+              ├Expression_NT┤
+              │             ├Identifier_NT
+              │             └.
+              └)
+
+4.557652950286865
+Doing idiom_number 538
+119.87171649932861
+1.4310417175292969
+                 ┌<
+                 ├TypeArgument_NT
+                 ├,
+ TypeArguments_NT┤
+                 ├TypeArgument_NT┐
+                 │               └Identifier_NT
+                 └>
+
+6.947557210922241
+Doing idiom_number 539
+116.3417181968689
+0.9292588233947754
+ TypeType_NT┐
+            └PrimitiveType_NT┐
+                             └char
+
+8.815171957015991
+Doing idiom_number 540
+92.4203736782074
+1.0766541957855225
+            ┌[
+            ├]
+ TypeType_NT┤
+            └PrimitiveType_NT┐
+                             └int
+
+39.97125291824341
+Doing idiom_number 541
+91.56927752494812
+0.9708106517791748
+                     ┌function
+                     ├(
+                     ├)
+                     ├{
+                     ├return
+                     ├Identifier_NT
+                     ├.
+ MemberDeclaration_NT┤
+                     ├TypeType_NT┐
+                     │           └long
+                     ├}
+                     ├;
+                     ├)
+                     ├(
+                     └Identifier_NT
+
+7.714817047119141
+Doing idiom_number 542
+106.47325325012207
+1.0766370296478271
+              ┌Identifier_NT
+              ├.
+              ┌Identifier_NT
+ Expression_NT┤
+              ├Expression_NT┐
+              │             └arg1
+              ├)
+              └(
+
+29.71019458770752
+Doing idiom_number 543
+94.49403762817383
+0.9696404933929443
+                     ┌void
+                     ├function
+                     ├{
+                     ├Statement_NT
+                     ├}
+ MemberDeclaration_NT┤
+                     │                   ┌(
+                     │                   ├Identifier_NT
+                     │                   ├arg0
+                     └FormalParameters_NT┤
+                                         ├)
+                                         ├arg1
+                                         ├Identifier_NT
+                                         └,
+
+8.01585841178894
+Doing idiom_number 544
+145.8363447189331
+3.467503547668457
+                   ┌Star_21_NT
+                   ├TypeType_NT
+ FormalParameter_NT┤
+                   └VariableDeclaratorId_NT┐
+                                           └arg2
+
+47.453362226486206
+Doing idiom_number 545
+36.60715460777283
+1.0327847003936768
+                     ┌void
+                     ├function
+                     ├(
+                     ├)
+                     ├{
+ MemberDeclaration_NT┤
+                     │          ┌Star_26_NT
+                     ├Star_26_NT┤
+                     │          ├Statement_NT
+                     │          ├Statement_NT
+                     ├}
+                     └Statement_NT
+
+3.962937593460083
+Doing idiom_number 546
+32.56779217720032
+0.9304959774017334
+             ┌for
+             ├(
+             ├Identifier_NT
+             ├:
+             ├Expression_NT
+ Statement_NT┤
+             ├VariableDeclaratorId_NT┐
+             │                       └loc1
+             ├}
+             ├Statement_NT
+             ├{
+             └)
+
+4.006047487258911
+Doing idiom_number 547
+32.504953145980835
+0.9148271083831787
+                     ┌void
+                     ├function
+                     ├(
+                     ├arg0
+                     ├)
+                     ├{
+                     ├Identifier_NT
+                     ├.
+ MemberDeclaration_NT┤
+                     ├TypeType_NT┐
+                     │           └long
+                     ├}
+                     ├;
+                     ├)
+                     ├arg0
+                     ├(
+                     └Identifier_NT
+
+3.9672958850860596
+Doing idiom_number 548
+32.25618100166321
+0.9304940700531006
+             ┌Identifier_NT
+             ├.
+             ┌Identifier_NT
+             ├(
+ Statement_NT┤
+             ├Expression_NT┐
+             │             └Identifier_NT
+             ├;
+             └)
+
+4.008917808532715
+Doing idiom_number 549
+32.41992425918579
+0.9209802150726318
+             ┌=
+             ├Expression_NT
+ Statement_NT┤
+             ├Expression_NT┐
+             │             └arg0
+             └;
+
+3.911978006362915
+Doing idiom_number 550
+32.616756200790405
+0.929004430770874
+             ┌Identifier_NT
+             ├(
+             ├)
+ Statement_NT┤
+             ├Expression_NT┐
+             │             └loc0
+             └;
+
+3.9128334522247314
+Doing idiom_number 551
+32.520366191864014
+0.9682304859161377
+              ┌(
+              ├)
+ Expression_NT┤
+              ├TypeType_NT┐
+              │           └int
+              └Expression_NT
+
+3.9942643642425537
+Doing idiom_number 552
+32.292336225509644
+0.9205362796783447
+            ┌com
+            ├.
+            ├liferay
+            ├.
+            ├portal
+            ├.
+            ├.
+ TypeType_NT┤
+            ├Identifier_NT┐
+            │             └kernel
+            ├Identifier_NT
+            ├.
+            ├Identifier_NT
+            ├.
+            ├Identifier_NT
+
+3.87308931350708
+Doing idiom_number 553
+32.455445528030396
+0.9190394878387451
+                     ┌function
+                     ├(
+                     ├)
+                     ├{
+                     ├return
+                     ├Identifier_NT
+                     ├.
+ MemberDeclaration_NT┤
+                     ├TypeType_NT┐
+                     │           └int
+                     ├}
+                     ├;
+                     ├)
+                     ├(
+                     └Identifier_NT
+
+3.885808229446411
+Doing idiom_number 554
+32.41562271118164
+0.9813213348388672
+                     ┌Identifier_NT
+                     ├function
+                     ├FormalParameters_NT
+                     ├{
+                     ├Statement_NT
+ MemberDeclaration_NT┤
+                     ├Expression_NT┐
+                     │             └this
+                     ├}
+                     ├;
+                     ├return
+                     └Statement_NT
+
+3.8632802963256836
+Doing idiom_number 555
+32.17839479446411
+0.9178218841552734
+              ┌new
+              ├CreatedName_NT
+ Expression_NT┤
+              │                   ┌Arguments_NT
+              └ClassCreatorRest_NT┤
+                                  └ClassBody_NT
+
+4.072281837463379
+Doing idiom_number 556
+32.06693887710571
+0.921220064163208
+                    ┌(
+                    ├)
+ FormalParameters_NT┤
+                    │                      ┌TypeType_NT
+                    └LastFormalParameter_NT┤
+                                           ├VariableDeclaratorId_NT
+                                           └...
+
+3.9322078227996826
+Doing idiom_number 557
+32.094881772994995
+0.918083906173706
+             ┌try
+             ├Block_NT
+             ├catch
+             ├(
+ Statement_NT┤
+             ├Identifier_NT┐
+             │             └loc1
+             ├Block_NT
+             ├)
+             └Identifier_NT
+
+3.8301546573638916
+Doing idiom_number 558
+32.45737075805664
+0.9100463390350342
+            ┌com
+            ├.
+            ├liferay
+            ├.
+            ├portal
+            ├.
+            ├kernel
+ TypeType_NT┤
+            ├Identifier_NT┐
+            │             └orm
+            ├Identifier_NT
+            ├.
+            ├.
+            ├Identifier_NT
+            ├.
+
+3.8945841789245605
+Doing idiom_number 559
+32.10266137123108
+0.938042163848877
+            ┌com
+            ├.
+            ├liferay
+            ├.
+            ├portal
+            ├.
+            ├kernel
+ TypeType_NT┤
+            ├Identifier_NT┐
+            │             └dao
+            ├Identifier_NT
+            ├.
+            ├orm
+            ├.
+            ├.
+
+3.8624587059020996
+Doing idiom_number 560
+32.262725830078125
+0.9371232986450195
+            ┌com
+            ├.
+            ├liferay
+            ├.
+            ├portal
+            ├.
+            ├kernel
+ TypeType_NT┤
+            ├Identifier_NT┐
+            │             └DynamicQuery
+            ├.
+            ├orm
+            ├.
+            ├dao
+            ├.
+
+3.8935654163360596
+Doing idiom_number 561
+32.093308448791504
+0.9150257110595703
+                    ┌(
+                    ├TypeType_NT
+                    ├...
+ FormalParameters_NT┤
+                    ├VariableDeclaratorId_NT┐
+                    │                       └arg0
+                    └)
+
+3.86580753326416
+Doing idiom_number 562
+32.29847574234009
+0.9220306873321533
+             ┌for
+             ├(
+             ├int
+             ├VariableDeclarators_NT
+             ├;
+             ├Expression_NT
+             ├<
+             ├Expression_NT
+ Statement_NT┤
+             ├Expression_NT┐
+             │             └loc1
+             ├}
+             ├Statement_NT
+             ├{
+             ├)
+             ├++
+             └;
+
+3.942685604095459
+Doing idiom_number 563
+32.3458194732666
+0.9237570762634277
+             ┌for
+             ├(
+             ├int
+             ├VariableDeclarators_NT
+             ├;
+             ├<
+             ├Expression_NT
+             ├;
+ Statement_NT┤
+             ├Expression_NT┐
+             │             └loc1
+             ├}
+             ├Statement_NT
+             ├{
+             ├)
+             ├++
+             └loc1
+
+3.9272232055664062
+Doing idiom_number 564
+32.3729362487793
+0.9106693267822266
+              ┌"srini_string"
+              ├+
+ Expression_NT┤
+              └Expression_NT┐
+                            └arg0
+
+3.970712423324585
+Doing idiom_number 565
+31.986987829208374
+0.9068107604980469
+              ┌Expression_NT
+              ├Nt_65_NT
+ Expression_NT┤
+              └Expression_NT┐
+                            └Nt_decimal_literal_NT
+
+4.084677457809448
+Doing idiom_number 566
+31.90186619758606
+0.918377161026001
+              ┌new
+              ├CreatedName_NT
+              ├Arguments_NT
+ Expression_NT┤
+              │            ┌{
+              └ClassBody_NT┤
+                           ├}
+                           └Star_7_NT
+
+3.9198179244995117
+Doing idiom_number 567
+32.28451323509216
+0.9093618392944336
+                   ┌TypeType_NT
+                   ├arg2
+ FormalParameter_NT┤
+                   └Star_21_NT┐
+                              └final
+
+3.819831609725952
+Doing idiom_number 568
+32.20668148994446
+1.005035161972046
+                     ┌function
+                     ├(
+                     ├TypeType_NT
+                     ├arg0
+                     ├)
+                     ├{
+ MemberDeclaration_NT┤
+                     │           ┌com
+                     ├TypeType_NT┤
+                     │           └Star_18_NT
+                     ├}
+                     ├;
+                     ├Expression_NT
+                     └return
+
+3.864624500274658
+Doing idiom_number 569
+32.242894411087036
+0.9098844528198242
+ Star_7_NT┐
+          │                       ┌Star_9_NT
+          └ClassBodyDeclaration_NT┤
+                                  └MemberDeclaration_NT
+
+3.8781979084014893
+Doing idiom_number 570
+32.2127161026001
+0.9140236377716064
+ Star_9_NT┐
+          └Modifier_NT┐
+                      └ClassOrInterfaceModifier_NT
+
+3.875643491744995
+Doing idiom_number 571
+32.548726081848145
+0.9068021774291992
+              ┌new
+              ├Identifier_NT
+              ├(
+ Expression_NT┤
+              ├Expression_NT┐
+              │             └loc0
+              └)
+
+3.9730613231658936
+Doing idiom_number 572
+32.1318633556366
+0.9789643287658691
+             ┌Identifier_NT
+             ├.
+             ┌Identifier_NT
+             ├(
+             ├,
+             ├Expression_NT
+ Statement_NT┤
+             ├Expression_NT┐
+             │             └arg0
+             ├;
+             ├)
+             ├Expression_NT
+             └,
+
+3.9341986179351807
+Doing idiom_number 573
+137.04780650138855
+1.16896653175354
+             ┌Identifier_NT
+             ├(
+             ├,
+             ├Expression_NT
+             ├,
+ Statement_NT┤
+             ├Expression_NT┐
+             │             └arg0
+             ├;
+             ├)
+             └Expression_NT
+
+10.356214046478271
+Doing idiom_number 574
+191.5723123550415
+7.135005235671997
+              ┌arg0
+              ├.
+              ├(
+ Expression_NT┤
+              ├Identifier_NT┐
+              │             └toString
+              └)
+
+11.576879739761353
+Doing idiom_number 575
+97.4937732219696
+0.9503364562988281
+              ┌Expression_NT
+              ├==
+ Expression_NT┤
+              │             ┌Identifier_NT
+              └Expression_NT┤
+                            ├Identifier_NT
+                            └.
+
+41.0960533618927
+Doing idiom_number 576
+114.5403163433075
+6.973931074142456
+              ┌new
+              ├Identifier_NT
+              ├TypeArgumentsOrDiamond_NT
+ Expression_NT┤
+              │            ┌(
+              │            ├Expression_NT
+              └Arguments_NT┤
+                           ├)
+                           └Star_32_NT
+
+7.709138870239258
+Doing idiom_number 577
+90.19612836837769
+0.9536833763122559
+             ┌loc0
+             ├.
+             ├append
+             ├(
+ Statement_NT┤
+             ├Expression_NT┐
+             │             └"srini_string"
+             ├;
+             └)
+
+6.036395311355591
+Doing idiom_number 578
+96.89941906929016
+2.859917640686035
+              ┌Expression_NT
+              ├>=
+ Expression_NT┤
+              └Expression_NT┐
+                            └0
+
+15.38420057296753
+Doing idiom_number 579
+78.279043674469
+0.9092833995819092
+           ┌loc0
+           ├=
+           ├new
+           ├Identifier_NT
+ Star_26_NT┤
+           ├Identifier_NT┐
+           │             └StringBuilder
+           ├;
+           ├)
+           └(
+
+3.9404141902923584
+Doing idiom_number 580
+97.9170298576355
+1.1527752876281738
+           ┌StringBuilder
+           ├loc0
+           ├=
+           ├new
+ Star_26_NT┤
+           ├Identifier_NT┐
+           │             └StringBuilder
+           ├;
+           ├)
+           └(
+
+46.19001483917236
+Doing idiom_number 581
+105.27452659606934
+0.9617056846618652
+           ┌.
+           ├Identifier_NT
+           ┌.
+ Star_34_NT┤
+           │          ┌.
+           ├Star_34_NT┤
+           │          └Identifier_NT
+           └Identifier_NT
+
+4.116785049438477
+Doing idiom_number 582
+73.11372971534729
+0.9134304523468018
+             ┌try
+             ├catch
+             ├(
+             ├Identifier_NT
+             ├loc0
+             ├)
+             ├{
+ Statement_NT┤
+             │        ┌{
+             │        ├return
+             ├Block_NT┤
+             │        ├}
+             │        ├;
+             │        └Expression_NT
+             ├}
+             └Statement_NT
+
+34.00662446022034
+Doing idiom_number 583
+79.87448453903198
+0.9177713394165039
+                     ┌TypeType_NT
+                     ├function
+                     ├{
+                     ├return
+                     ├Expression_NT
+                     ├;
+                     ├}
+ MemberDeclaration_NT┤
+                     │                   ┌(
+                     │                   ├TypeType_NT
+                     │                   ├arg0
+                     │                   ├,
+                     │                   ├TypeType_NT
+                     └FormalParameters_NT┤
+                                         ├)
+                                         ├arg2
+                                         ├TypeType_NT
+                                         ├,
+                                         └arg1
+
+47.06955337524414
+Doing idiom_number 584
+95.07844066619873
+1.135728120803833
+           ┌Statement_NT
+ Star_26_NT┤
+           │          ┌TypeType_NT
+           │          ├loc0
+           └Star_26_NT┤
+                      ├;
+                      ├Expression_NT
+                      └=
+
+5.65606689453125
+Doing idiom_number 585
+98.26353693008423
+1.026221513748169
+            ┌Identifier_NT
+            ├<
+ TypeType_NT┤
+            ├TypeArgument_NT┐
+            │               └TypeType_NT
+            └>
+
+18.501439094543457
+Doing idiom_number 586
+72.92868781089783
+1.038729190826416
+             ┌;
+ Statement_NT┤
+             │             ┌arg0
+             │             ├.
+             └Expression_NT┤
+                           ├)
+                           ├(
+                           └Identifier_NT
+
+51.366323471069336
+Doing idiom_number 587
+98.14775538444519
+0.9858479499816895
+                    ┌(
+                    ├String
+                    ├arg0
+                    ├,
+                    ├arg1
+ FormalParameters_NT┤
+                    ├TypeType_NT┐
+                    │           └String
+                    ├)
+                    ├arg2
+                    ├TypeType_NT
+                    └,
+
+13.029387950897217
+Doing idiom_number 588
+107.5019178390503
+1.2251429557800293
+                     ┌void
+                     ├function
+                     ├FormalParameters_NT
+                     ├{
+                     ├}
+ MemberDeclaration_NT┤
+                     │            ┌this
+                     │            ├.
+                     │            ├Identifier_NT
+                     └Statement_NT┤
+                                  ├;
+                                  ├arg0
+                                  └=
+
+7.088751554489136
+Doing idiom_number 589
+109.80651926994324
+0.9853105545043945
+                     ┌void
+                     ├function
+                     ├{
+                     ├Statement_NT
+                     ├}
+ MemberDeclaration_NT┤
+                     │                   ┌(
+                     │                   ├String
+                     │                   ├arg0
+                     └FormalParameters_NT┤
+                                         ├)
+                                         ├arg1
+                                         ├String
+                                         └,
+
+7.192418813705444
+Doing idiom_number 590
+107.20989751815796
+0.9720053672790527
+              ┌Identifier_NT
+              ├(
+              ├arg0
+              ├,
+ Expression_NT┤
+              ├Expression_NT┐
+              │             └arg1
+              ├)
+              ├Expression_NT
+              └,
+
+25.576765537261963
+Doing idiom_number 591
+88.13615655899048
+0.9690322875976562
+              ┌+
+              ├Expression_NT
+ Expression_NT┤
+              └Expression_NT┐
+                            └Identifier_NT
+
+7.436526775360107
+Doing idiom_number 592
+122.2273097038269
+0.9989800453186035
+              ┌(
+              ├)
+ Expression_NT┤
+              │             ┌this
+              └Expression_NT┤
+                            ├Identifier_NT
+                            └.
+
+63.06673288345337
+Doing idiom_number 593
+102.89517545700073
+1.1957428455352783
+           ┌TypeType_NT
+           ├=
+           ├Expression_NT
+ Star_26_NT┤
+           ├VariableDeclaratorId_NT┐
+           │                       └loc3
+           └;
+
+15.15952467918396
+Doing idiom_number 594
+111.97462463378906
+0.969959020614624
+              ┌Identifier_NT
+              ├(
+ Expression_NT┤
+              ├Expression_NT┐
+              │             └Identifier_NT
+              └)
+
+56.16992926597595
+Doing idiom_number 595
+121.74114084243774
+1.088287591934204
+              ┌==
+              ├null
+ Expression_NT┤
+              └Expression_NT┐
+                            └arg1
+
+12.980884552001953
+Doing idiom_number 596
+32.86978268623352
+0.9114480018615723
+ Star_9_NT┐
+          └ClassOrInterfaceModifier_NT┐
+                                      └public
+
+4.01108455657959
+Doing idiom_number 597
+32.438823223114014
+0.8957335948944092
+            ┌Identifier_NT
+            ├<
+            ├?
+ TypeType_NT┤
+            ├Nt_47_NT┐
+            │        └extends
+            ├>
+            └Identifier_NT
+
+3.980726480484009
+Doing idiom_number 598
+39.82298541069031
+0.911994218826294
+           ┌Star_34_NT
+ Star_34_NT┤
+           │          ┌.
+           └Star_34_NT┤
+                      └Identifier_NT
+
+3.835294246673584
+Doing idiom_number 599
+32.723747968673706
+0.9113152027130127
+           ┌.
+           ├Identifier_NT
+ Star_34_NT┤
+           │          ┌.
+           │          ├Identifier_NT
+           │          ┌.
+           └Star_34_NT┤
+                      ├Identifier_NT
+                      ├.
+                      ├Identifier_NT
+
+3.9035415649414062

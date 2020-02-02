@@ -1,0 +1,491 @@
+{"CITYNAME_0": "'denver'", "CITYNAME_1": "'philadelphia'"}
+{"CITYNAME_0": "'washington'", "CITYNAME_1": "'boston'"}
+{}
+{"CITYNAME_0": "'phoenix'", "CITYNAME_1": "'milwaukee'"}
+{"CITYNAME_2": "'dallas'", "CITYNAME_0": "'philadelphia'", "CITYNAME_1": "'san francisco'"}
+{"CITYNAME_0": "'denver'"}
+{"CITYNAME_0": "'boston'", "CITYNAME_1": "'san francisco'"}
+{"CITYNAME_0": "'boston'", "CITYNAME_1": "'washington'"}
+{"CITYNAME_0": "'denver'", "CITYNAME_1": "'atlanta'"}
+{"CITYNAME_0": "'baltimore'", "CITYNAME_1": "'atlanta'"}
+{"CITYNAME_0": "'newark'", "CITYNAME_1": "'tampa'"}
+{"CITYNAME_0": "'atlanta'", "CITYNAME_1": "'baltimore'"}
+{"CITYNAME_0": "'dallas'", "CITYNAME_1": "'boston'"}
+{"CITYNAME_2": "'houston'", "CITYNAME_0": "'st. paul'", "CITYNAME_1": "'san jose'"}
+{"CITYNAME_0": "'pittsburgh'", "CITYNAME_1": "'atlanta'"}
+{"AIRLINECODE_0": "'aa'", "CITYNAME_0": "'houston'", "CITYNAME_1": "'milwaukee'"}
+{"AIRLINECODE_0": "'ua'", "CITYNAME_0": "'boston'", "CITYNAME_1": "'denver'"}
+{"CITYNAME_0": "'denver'", "CITYNAME_1": "'philadelphia'"}
+{"CITYNAME_0": "'denver'", "CITYNAME_1": "'boston'"}
+{"CITYNAME_0": "'san francisco'", "CITYNAME_1": "'boston'"}
+{"ARRIVALTIME_0": "1700", "CITYNAME_0": "'oakland'", "CITYNAME_1": "'philadelphia'"}
+{"CITYNAME_0": "'dallas'"}
+{"DEPARTURETIME_0": "800", "CITYNAME_0": "'boston'", "CITYNAME_1": "'baltimore'"}
+{"CITYNAME_0": "'boston'", "CITYNAME_1": "'san francisco'"}
+{"AIRLINECODE_0": "'aa'", "CITYNAME_0": "'philadelphia'", "CITYNAME_1": "'dallas'"}
+{"CITYNAME_0": "'baltimore'", "CITYNAME_1": "'philadelphia'"}
+{"CITYNAME_0": "'indianapolis'", "CITYNAME_1": "'orlando'"}
+{"CITYNAME_0": "'los angeles'", "CITYNAME_1": "'charlotte'"}
+{"ARRIVALTIME_0": "1000", "CITYNAME_0": "'pittsburgh'", "CITYNAME_1": "'baltimore'"}
+{"DEPARTURETIME_0": "1000", "DEPARTURETIME_1": "1500", "CITYNAME_0": "'pittsburgh'", "CITYNAME_1": "'fort worth'"}
+{"CITYNAME_0": "'dallas'", "CITYNAME_1": "'philadelphia'"}
+{"AIRLINECODE_0": "'us'", "CITYNAME_0": "'san francisco'", "CITYNAME_1": "'pittsburgh'"}
+{"CITYNAME_1": "'kansas city'", "AIRLINECODE_0": "'ua'", "CITYNAME_0": "'chicago'", "FLIGHTNUMBER_0": "415"}
+{"AIRLINECODE_0": "'aa'", "CITYNAME_2": "'dallas'", "CITYNAME_0": "'boston'", "CITYNAME_1": "'san francisco'"}
+{"CITYNAME_0": "'philadelphia'", "CITYNAME_1": "'pittsburgh'"}
+{"CITYNAME_0": "'pittsburgh'", "CITYNAME_1": "'philadelphia'"}
+{"DEPARTURETIME_0": "1630", "DEPARTURETIME_1": "1730", "CITYNAME_0": "'philadelphia'", "CITYNAME_1": "'pittsburgh'"}
+{"AIRLINECODE_0": "'yx'", "CITYNAME_0": "'detroit'", "CITYNAME_1": "'chicago'"}
+{"CITYNAME_0": "'boston'", "CITYNAME_1": "'atlanta'"}
+{"CITYNAME_0": "'baltimore'", "CITYNAME_1": "'philadelphia'"}
+{"CITYNAME_0": "'boston'", "CITYNAME_1": "'denver'"}
+{"CITYNAME_0": "'dallas'", "CITYNAME_1": "'houston'"}
+{"CITYNAME_0": "'philadelphia'", "CITYNAME_1": "'denver'"}
+{"DEPARTURETIME_0": "500", "AIRLINECODE_0": "'dl'", "CITYNAME_0": "'denver'", "CITYNAME_1": "'dallas'"}
+{"CITYNAME_1": "'denver'", "AIRLINECODE_0": "'ua'", "FLIGHTNUMBER_1": "343", "CITYNAME_0": "'boston'", "FLIGHTNUMBER_0": "201"}
+{"CITYNAME_0": "'indianapolis'", "CITYNAME_1": "'orlando'"}
+{"DEPARTURETIME_0": "1600", "CITYNAME_0": "'atlanta'", "CITYNAME_1": "'washington'"}
+{"CITYNAME_0": "'toronto'", "CITYNAME_1": "'atlanta'"}
+{"DEPARTURETIME_0": "1000", "CITYNAME_0": "'denver'", "CITYNAME_1": "'san francisco'"}
+{"ARRIVALTIME_0": "1700", "CITYNAME_0": "'denver'", "CITYNAME_1": "'san francisco'"}
+{"CITYNAME_0": "'denver'", "CITYNAME_1": "'baltimore'"}
+{"CITYNAME_0": "'dallas'", "CITYNAME_1": "'pittsburgh'"}
+{"CITYNAME_0": "'philadelphia'"}
+{"CITYNAME_0": "'orlando'", "CITYNAME_1": "'kansas city'"}
+{"CITYNAME_0": "'oakland'"}
+{"CITYNAME_0": "'denver'", "CITYNAME_1": "'philadelphia'"}
+{"CITYNAME_0": "'san francisco'", "CITYNAME_1": "'pittsburgh'"}
+{"CITYNAME_1": "'los angeles'", "AIRLINECODE_0": "'aa'", "CITYNAME_0": "'new york'", "FLIGHTNUMBER_0": "19"}
+{"CITYNAME_0": "'boston'", "CITYNAME_1": "'denver'"}
+{"STATENAME_0": "'florida'", "CITYNAME_0": "'tampa'", "CITYNAME_1": "'miami'"}
+{"CITYNAME_0": "'san francisco'", "CITYNAME_1": "'pittsburgh'"}
+{"AIRLINECODE_0": "'aa'", "CITYNAME_0": "'boston'", "CITYNAME_1": "'denver'"}
+{"CLASSTYPE_0": "'business'", "AIRLINECODE_0": "'ua'", "CITYNAME_0": "'san francisco'", "CITYNAME_1": "'denver'"}
+{"CITYNAME_0": "'dallas'", "CITYNAME_1": "'boston'"}
+{"CITYNAME_2": "'atlanta'", "CITYNAME_0": "'philadelphia'", "CITYNAME_1": "'dallas'"}
+{"CITYNAME_0": "'boston'", "CITYNAME_1": "'san francisco'"}
+{"CITYNAME_0": "'boston'", "CITYNAME_1": "'denver'"}
+{"CITYNAME_0": "'boston'", "CITYNAME_1": "'atlanta'"}
+{"AIRLINECODE_0": "'us'", "CITYNAME_0": "'charlotte'"}
+{"ARRIVALTIME_0": "1800", "CITYNAME_0": "'salt lake city'", "CITYNAME_1": "'new york'"}
+{"CITYNAME_0": "'oakland'", "CITYNAME_1": "'dallas'"}
+{"CLASSTYPE_0": "'first'", "CITYNAME_0": "'dallas'", "CITYNAME_1": "'baltimore'"}
+{"AIRLINECODE_0": "'dl'", "CITYNAME_0": "'dallas'", "CITYNAME_1": "'san francisco'"}
+{"AIRLINECODE_0": "'us'", "CITYNAME_0": "'cleveland'", "CITYNAME_1": "'miami'"}
+{"CITYNAME_0": "'dallas'", "CITYNAME_1": "'philadelphia'"}
+{"AIRLINECODE_0": "'hp'", "CITYNAME_0": "'las vegas'", "CITYNAME_1": "'new york'"}
+{"CITYNAME_0": "'boston'", "CITYNAME_1": "'washington'"}
+{"AIRPORTCODE_0": "'iah'"}
+{"ARRIVALTIME_0": "1900", "CITYNAME_0": "'atlanta'", "CITYNAME_1": "'baltimore'"}
+{"CITYNAME_0": "'philadelphia'", "CITYNAME_1": "'dallas'"}
+{"CITYNAME_0": "'philadelphia'", "CITYNAME_1": "'denver'"}
+{"CITYNAME_0": "'montreal'", "CITYNAME_1": "'charlotte'"}
+{"CITYNAME_0": "'san francisco'", "CITYNAME_1": "'philadelphia'"}
+{"CITYNAME_0": "'boston'", "CITYNAME_1": "'pittsburgh'"}
+{"CITYNAME_0": "'washington'"}
+{"CITYNAME_0": "'cleveland'", "AIRPORTCODE_1": "'jfk'", "AIRPORTCODE_0": "'lga'"}
+{"CITYNAME_0": "'denver'", "CITYNAME_1": "'pittsburgh'"}
+{"CITYNAME_0": "'atlanta'", "CITYNAME_1": "'boston'"}
+{"CITYNAME_0": "'atlanta'", "CITYNAME_1": "'boston'"}
+{"CITYNAME_0": "'miami'", "CITYNAME_1": "'new york'"}
+{"CITYNAME_0": "'boston'", "CITYNAME_1": "'denver'"}
+{"CITYNAME_0": "'pittsburgh'", "CITYNAME_1": "'san francisco'"}
+{"CITYNAME_0": "'boston'"}
+{"ARRIVALTIME_0": "1600", "CITYNAME_0": "'dallas'", "CITYNAME_1": "'san francisco'"}
+{"CITYNAME_0": "'denver'", "CITYNAME_1": "'san francisco'"}
+{"AIRLINECODE_0": "'dl'", "CITYNAME_0": "'dallas'", "CITYNAME_1": "'boston'"}
+{"AIRLINECODE_0": "'co'", "FLIGHTNUMBER_0": "1209"}
+{"DEPARTURETIME_0": "1200", "AIRLINECODE_0": "'co'", "CITYNAME_0": "'denver'", "CITYNAME_1": "'chicago'"}
+{"CITYNAME_0": "'atlanta'", "CITYNAME_1": "'boston'"}
+{"AIRLINECODE_0": "'ua'", "CITYNAME_0": "'san francisco'", "CITYNAME_1": "'boston'"}
+{"AIRLINECODE_0": "'ua'", "CITYNAME_0": "'san francisco'"}
+{"CITYNAME_0": "'houston'", "CITYNAME_1": "'memphis'"}
+{"CITYNAME_0": "'atlanta'", "CITYNAME_1": "'pittsburgh'"}
+{"CITYNAME_0": "'pittsburgh'"}
+{"CITYNAME_0": "'san francisco'", "CITYNAME_1": "'pittsburgh'"}
+{"CITYNAME_0": "'san francisco'", "CITYNAME_1": "'pittsburgh'"}
+{"CITYNAME_0": "'newark'"}
+{"DEPARTURETIME_0": "1700", "CITYNAME_0": "'boston'", "CITYNAME_1": "'atlanta'"}
+{"CITYNAME_0": "'dallas'", "CITYNAME_1": "'baltimore'"}
+{"AIRLINECODE_0": "'ff'"}
+{"DEPARTURETIME_0": "1000", "AIRLINECODE_0": "'ua'", "CITYNAME_0": "'denver'", "CITYNAME_1": "'san francisco'"}
+{"CITYNAME_0": "'philadelphia'", "CITYNAME_1": "'dallas'"}
+{"CLASSTYPE_0": "'first'", "AIRLINECODE_0": "'ua'", "CITYNAME_0": "'boston'", "CITYNAME_1": "'san francisco'"}
+{"CITYNAME_0": "'pittsburgh'", "CITYNAME_1": "'atlanta'"}
+{"CITYNAME_0": "'boston'", "CITYNAME_1": "'denver'"}
+{"CITYNAME_0": "'baltimore'", "CITYNAME_1": "'san francisco'"}
+{"CITYNAME_0": "'baltimore'", "CITYNAME_1": "'dallas'"}
+{"CITYNAME_0": "'atlanta'"}
+{"CITYNAME_0": "'philadelphia'", "CITYNAME_1": "'dallas'"}
+{"CITYNAME_0": "'seattle'", "CITYNAME_1": "'salt lake city'"}
+{"CITYNAME_0": "'pittsburgh'", "CITYNAME_1": "'san francisco'"}
+{"DEPARTURETIME_0": "1200", "CITYNAME_0": "'pittsburgh'", "CITYNAME_1": "'boston'"}
+{"AIRPORTCODE_0": "'ord'"}
+{"ARRIVALTIME_0": "1700", "CITYNAME_0": "'los angeles'", "CITYNAME_1": "'pittsburgh'"}
+{"CITYNAME_0": "'boston'"}
+{"MEALDESCRIPTION_0": "'lunch'", "CITYNAME_0": "'boston'", "AIRPORTCODE_0": "'bwi'"}
+{"AIRPORTCODE_0": "'mke'"}
+{"AIRLINECODE_0": "'cp'"}
+{"CITYNAME_0": "'pittsburgh'"}
+{"BASICTYPE_0": "'f28'"}
+{"TRANSPORTTYPE_0": "'rental car'"}
+{"DEPARTURETIME_0": "1200", "AIRLINECODE_0": "'us'", "CITYNAME_0": "'miami'", "CITYNAME_1": "'cleveland'"}
+{"DEPARTURETIME_0": "1500", "CITYNAME_0": "'atlanta'", "CITYNAME_1": "'washington'"}
+{"CITYNAME_0": "'cleveland'", "CITYNAME_1": "'memphis'"}
+{"FAREBASISCODE_0": "'qw'"}
+{"CITYNAME_0": "'cincinnati'", "CITYNAME_1": "'toronto'"}
+{"CITYNAME_0": "'las vegas'", "CITYNAME_1": "'new york'"}
+{"CITYNAME_0": "'atlanta'", "CITYNAME_1": "'boston'"}
+{"CITYNAME_0": "'memphis'", "CITYNAME_1": "'las vegas'"}
+{"BASICTYPE_0": "757", "CITYNAME_0": "'atlanta'", "CITYNAME_1": "'baltimore'"}
+{"MEALDESCRIPTION_0": "'dinner'", "CITYNAME_0": "'st. paul'", "CITYNAME_1": "'kansas city'"}
+{"CITYNAME_0": "'boston'"}
+{"CITYNAME_0": "'baltimore'", "CITYNAME_1": "'san francisco'"}
+{"CLASSTYPE_0": "'first'", "CITYNAME_0": "'dallas'", "CITYNAME_1": "'denver'"}
+{"DEPARTURETIME_0": "1630", "AIRLINECODE_0": "'co'", "CITYNAME_0": "'seattle'"}
+{"DEPARTURETIME_0": "1200", "ROUNDTRIPCOST_0": "1100", "CITYNAME_0": "'pittsburgh'", "CITYNAME_1": "'dallas'"}
+{"CITYNAME_0": "'boston'", "CITYNAME_1": "'dallas'"}
+{"CITYNAME_0": "'baltimore'", "CITYNAME_1": "'san francisco'"}
+{"CLASSTYPE_0": "'first'", "AIRLINECODE_0": "'aa'", "CITYNAME_0": "'san francisco'"}
+{"CITYNAME_0": "'boston'", "CITYNAME_1": "'denver'"}
+{"DEPARTURETIME_0": "700", "CITYNAME_0": "'philadelphia'", "CITYNAME_1": "'boston'"}
+{"CITYNAME_0": "'salt lake city'"}
+{"CITYNAME_0": "'nashville'", "CITYNAME_1": "'st. louis'"}
+{}
+{"CITYNAME_0": "'san francisco'"}
+{"CITYNAME_0": "'atlanta'", "CITYNAME_1": "'washington'"}
+{"FAREBASISCODE_0": "'qo'"}
+{"CLASSTYPE_0": "'first'", "AIRLINECODE_0": "'us'", "CITYNAME_0": "'cleveland'", "CITYNAME_1": "'miami'"}
+{"AIRLINECODE_0": "'aa'", "AIRLINECODE_1": "'dl'", "CITYNAME_0": "'dallas'", "CITYNAME_1": "'baltimore'"}
+{"TRANSPORTTYPE_0": "'limousine'", "CITYNAME_0": "'pittsburgh'"}
+{"CITYNAME_0": "'boston'", "CITYNAME_1": "'washington'"}
+{"CITYNAME_0": "'miami'", "CITYNAME_1": "'las vegas'"}
+{"CITYNAME_0": "'atlanta'", "CITYNAME_1": "'san francisco'"}
+{"MEALDESCRIPTION_0": "'breakfast'", "CITYNAME_0": "'denver'", "CITYNAME_1": "'san francisco'"}
+{"ARRIVALTIME_0": "1600", "AIRLINECODE_0": "'us'", "CITYNAME_0": "'cleveland'", "CITYNAME_1": "'miami'"}
+{"AIRLINECODE_0": "'lh'"}
+{"CITYNAME_0": "'washington'", "CITYNAME_1": "'denver'"}
+{"CITYNAME_2": "'miami'", "CITYNAME_0": "'washington'", "CITYNAME_1": "'denver'"}
+{"CITYNAME_1": "'philadelphia'", "AIRLINECODE_0": "'ua'", "CITYNAME_0": "'denver'", "FLIGHTNUMBER_0": "270"}
+{"CITYNAME_0": "'pittsburgh'"}
+{"AIRLINECODE_0": "'us'", "CITYNAME_0": "'cleveland'", "CITYNAME_1": "'miami'"}
+{"ARRIVALTIME_1": "1800", "ARRIVALTIME_0": "1700", "CITYNAME_0": "'oakland'", "CITYNAME_1": "'philadelphia'"}
+{"CITYNAME_0": "'phoenix'", "CITYNAME_1": "'milwaukee'"}
+{"DEPARTURETIME_0": "1200", "ROUNDTRIPCOST_0": "1100", "CITYNAME_0": "'atlanta'", "CITYNAME_1": "'dallas'"}
+{"CITYNAME_0": "'dallas'", "CITYNAME_1": "'houston'"}
+{"CITYNAME_0": "'chicago'", "CITYNAME_1": "'milwaukee'"}
+{"CITYNAME_0": "'atlanta'", "CITYNAME_1": "'washington'"}
+{"DEPARTURETIME_0": "1200", "AIRLINECODE_0": "'aa'", "CITYNAME_0": "'philadelphia'", "CITYNAME_1": "'dallas'"}
+{"CITYNAME_2": "'boston'", "CITYNAME_1": "'fort worth'", "AIRLINECODE_0": "'aa'", "CITYNAME_0": "'dallas'", "FLIGHTNUMBER_0": "928"}
+{"CITYNAME_0": "'dallas'"}
+{"AIRLINECODE_0": "'aa'", "CITYNAME_0": "'cincinnati'", "CITYNAME_1": "'burbank'"}
+{"CITYNAME_0": "'washington'", "CITYNAME_1": "'san francisco'"}
+{"CITYNAME_0": "'las vegas'", "CITYNAME_1": "'new york'"}
+{"CITYNAME_0": "'dallas'", "CITYNAME_1": "'atlanta'"}
+{"CITYNAME_0": "'phoenix'", "CITYNAME_1": "'las vegas'"}
+{"AIRLINECODE_0": "'co'", "CITYNAME_0": "'chicago'"}
+{"DEPARTURETIME_0": "1200", "CITYNAME_0": "'denver'", "CITYNAME_1": "'philadelphia'"}
+{"AIRPORTCODE_0": "'dal'"}
+{"AIRPORTCODE_0": "'dal'"}
+{"AIRLINECODE_0": "'aa'", "CITYNAME_0": "'boston'", "CITYNAME_1": "'denver'"}
+{"CITYNAME_0": "'dallas'", "CITYNAME_1": "'atlanta'"}
+{"CITYNAME_0": "'san francisco'"}
+{"CITYNAME_2": "'denver'", "CITYNAME_3": "'san francisco'", "CITYNAME_0": "'baltimore'", "CITYNAME_1": "'washington'"}
+{"CITYNAME_0": "'atlanta'", "CITYNAME_1": "'denver'"}
+{"CITYNAME_0": "'san francisco'"}
+{"CITYNAME_0": "'oakland'", "CITYNAME_1": "'san francisco'"}
+{"DAYNAME_0": "'tuesday'", "DAYNAME_1": "'sunday'", "CITYNAME_0": "'new york'", "CITYNAME_1": "'miami'"}
+{"CLASSTYPE_0": "'first'", "CITYNAME_0": "'denver'", "CITYNAME_1": "'baltimore'"}
+{"AIRLINECODE_0": "'aa'", "CITYNAME_0": "'milwaukee'", "CITYNAME_1": "'phoenix'"}
+{"CITYNAME_0": "'atlanta'", "AIRPORTCODE_0": "'bwi'"}
+{"CITYNAME_0": "'toronto'", "CITYNAME_1": "'denver'"}
+{"CITYNAME_0": "'washington'", "CITYNAME_1": "'san francisco'"}
+{"CITYNAME_0": "'san francisco'", "CITYNAME_1": "'oakland'"}
+{"AIRPORTCODE_0": "'ewr'"}
+{"AIRLINECODE_0": "'co'", "CITYNAME_0": "'chicago'", "CITYNAME_1": "'seattle'"}
+{"CLASSTYPE_0": "'first'", "AIRLINECODE_0": "'ua'", "CITYNAME_0": "'denver'", "CITYNAME_1": "'baltimore'"}
+{"CITYNAME_0": "'dallas'", "CITYNAME_1": "'philadelphia'"}
+{"CITYNAME_0": "'pittsburgh'", "CITYNAME_1": "'oakland'"}
+{"CITYNAME_1": "'san francisco'", "AIRLINECODE_0": "'ua'", "CITYNAME_0": "'denver'", "FLIGHTNUMBER_0": "297"}
+{"CITYNAME_2": "'baltimore'", "CITYNAME_0": "'dallas'", "CITYNAME_1": "'fort worth'"}
+{"CITYNAME_0": "'philadelphia'", "CITYNAME_1": "'san francisco'"}
+{"CITYNAME_0": "'atlanta'", "CITYNAME_1": "'oakland'"}
+{"DEPARTURETIME_0": "1000", "CITYNAME_0": "'tampa'", "CITYNAME_1": "'st. louis'"}
+{"AIRLINECODE_0": "'aa'", "CITYNAME_0": "'philadelphia'", "CITYNAME_1": "'dallas'"}
+{"CITYNAME_0": "'kansas city'", "CITYNAME_1": "'cleveland'"}
+{"CITYNAME_0": "'philadelphia'", "CITYNAME_1": "'baltimore'"}
+{"CITYNAME_0": "'atlanta'"}
+{"AIRLINECODE_0": "'cp'"}
+{"CLASSTYPE_0": "'first'", "AIRLINECODE_0": "'us'", "CITYNAME_0": "'cleveland'", "CITYNAME_1": "'miami'"}
+{"CITYNAME_0": "'pittsburgh'", "CITYNAME_1": "'atlanta'"}
+{"TRANSPORTTYPE_0": "'rental car'", "CITYNAME_0": "'baltimore'"}
+{"AIRLINECODE_0": "'dl'", "CITYNAME_2": "'dallas'", "CITYNAME_3": "'fort worth'", "CITYNAME_0": "'san francisco'", "CITYNAME_1": "'boston'"}
+{"AIRLINECODE_0": "'yx'", "CITYNAME_0": "'indianapolis'"}
+{"DEPARTURETIME_0": "1700", "CITYNAME_0": "'boston'", "CITYNAME_1": "'washington'"}
+{"AIRLINECODE_0": "'us'", "CITYNAME_0": "'atlanta'", "CITYNAME_1": "'boston'"}
+{"AIRLINECODE_0": "'aa'", "CITYNAME_0": "'houston'", "CITYNAME_1": "'cincinnati'"}
+{"CITYNAME_0": "'denver'", "CITYNAME_1": "'philadelphia'"}
+{"CITYNAME_0": "'new york'", "CITYNAME_1": "'miami'"}
+{"CITYNAME_0": "'pittsburgh'", "CITYNAME_1": "'baltimore'"}
+{"CITYNAME_0": "'pittsburgh'", "CITYNAME_1": "'atlanta'"}
+{}
+{"AIRLINECODE_0": "'ua'", "CITYNAME_0": "'denver'", "AIRPORTCODE_0": "'bwi'"}
+{"CITYNAME_0": "'boston'", "CITYNAME_1": "'atlanta'"}
+{}
+{"AIRLINECODE_0": "'aa'", "CITYNAME_0": "'newark'", "CITYNAME_1": "'nashville'"}
+{"CITYNAME_0": "'baltimore'", "CITYNAME_1": "'dallas'"}
+{"CITYNAME_0": "'boston'", "CITYNAME_1": "'washington'"}
+{"CITYNAME_0": "'orlando'", "AIRPORTCODE_0": "'mco'"}
+{"DEPARTURETIME_0": "1200", "CITYNAME_0": "'miami'", "CITYNAME_1": "'cleveland'"}
+{"AIRLINECODE_0": "'co'", "CITYNAME_0": "'chicago'", "CITYNAME_1": "'san francisco'"}
+{"CITYNAME_0": "'las vegas'", "CITYNAME_1": "'burbank'"}
+{"CITYNAME_0": "'atlanta'", "CITYNAME_1": "'st. louis'"}
+{"AIRLINECODE_0": "'aa'", "CITYNAME_0": "'philadelphia'", "CITYNAME_1": "'san francisco'"}
+{"CITYNAME_0": "'milwaukee'", "CITYNAME_1": "'st. louis'"}
+{"CITYNAME_0": "'pittsburgh'", "CITYNAME_1": "'newark'"}
+{"DEPARTURETIME_0": "800", "CITYNAME_0": "'san francisco'", "CITYNAME_1": "'atlanta'"}
+{"CITYNAME_0": "'seattle'"}
+{"CITYNAME_0": "'pittsburgh'", "CITYNAME_1": "'boston'"}
+{"CITYNAME_0": "'boston'", "CITYNAME_1": "'atlanta'"}
+{"CITYNAME_0": "'atlanta'", "CITYNAME_1": "'san francisco'"}
+{"CITYNAME_0": "'baltimore'", "CITYNAME_1": "'philadelphia'"}
+{"CITYNAME_0": "'san francisco'", "CITYNAME_1": "'dallas'"}
+{"CITYNAME_0": "'boston'", "CITYNAME_1": "'san francisco'"}
+{"CITYNAME_0": "'dallas'", "CITYNAME_1": "'baltimore'"}
+{"CITYNAME_0": "'oakland'", "CITYNAME_1": "'boston'"}
+{"CITYNAME_0": "'atlanta'", "CITYNAME_1": "'washington'"}
+{"CITYNAME_0": "'dallas'", "CITYNAME_1": "'boston'"}
+{"CITYNAME_0": "'pittsburgh'", "CITYNAME_1": "'denver'"}
+{"CITYNAME_0": "'st. petersburg'", "CITYNAME_1": "'milwaukee'"}
+{"CITYNAME_0": "'memphis'", "CITYNAME_1": "'charlotte'"}
+{"CITYNAME_0": "'philadelphia'", "CITYNAME_1": "'dallas'"}
+{"CITYNAME_0": "'oakland'", "CITYNAME_1": "'boston'"}
+{"TRANSPORTTYPE_0": "'rental car'", "CITYNAME_0": "'denver'"}
+{"CLASSTYPE_0": "'coach'", "CITYNAME_0": "'minneapolis'", "CITYNAME_1": "'san diego'"}
+{"CITYNAME_0": "'atlanta'", "CITYNAME_1": "'denver'"}
+{"CITYNAME_0": "'atlanta'"}
+{"CITYNAME_0": "'oakland'", "CITYNAME_1": "'dallas'"}
+{"CITYNAME_0": "'boston'", "CITYNAME_1": "'atlanta'"}
+{"DEPARTURETIME_0": "1200", "CITYNAME_0": "'boston'", "CITYNAME_1": "'pittsburgh'"}
+{"CITYNAME_0": "'denver'", "CITYNAME_1": "'philadelphia'"}
+{"CITYNAME_0": "'dallas'", "CITYNAME_1": "'pittsburgh'"}
+{"AIRLINECODE_0": "'ua'", "CITYNAME_0": "'philadelphia'", "CITYNAME_1": "'san francisco'"}
+{"CITYNAME_0": "'philadelphia'", "CITYNAME_1": "'baltimore'"}
+{"CITYNAME_2": "'dallas'", "CITYNAME_3": "'fort worth'", "CITYNAME_0": "'oakland'", "CITYNAME_1": "'boston'"}
+{"CITYNAME_0": "'san francisco'", "CITYNAME_1": "'pittsburgh'"}
+{"CITYNAME_0": "'columbus'", "CITYNAME_1": "'baltimore'"}
+{"FAREBASISCODE_0": "'qx'"}
+{"CITYNAME_0": "'philadelphia'", "CITYNAME_1": "'dallas'"}
+{"AIRLINECODE_0": "'dl'", "CITYNAME_0": "'dallas'", "CITYNAME_1": "'baltimore'"}
+{"DEPARTURETIME_0": "555", "CITYNAME_1": "'denver'", "CITYNAME_0": "'atlanta'", "FLIGHTNUMBER_0": "825"}
+{"DEPARTURETIME_0": "838", "AIRLINECODE_0": "'ua'", "CITYNAME_0": "'boston'", "CITYNAME_1": "'oakland'"}
+{"AIRLINECODE_0": "'co'", "CITYNAME_0": "'chicago'"}
+{"FAREBASISCODE_0": "'y'"}
+{"CITYNAME_0": "'boston'", "CITYNAME_1": "'philadelphia'"}
+{"AIRLINECODE_0": "'ua'", "CITYNAME_0": "'washington'", "CITYNAME_1": "'denver'"}
+{"CITYNAME_0": "'pittsburgh'", "CITYNAME_1": "'atlanta'"}
+{"CITYNAME_0": "'san francisco'"}
+{"CITYNAME_0": "'phoenix'", "CITYNAME_1": "'milwaukee'"}
+{"AIRLINECODE_0": "'dl'", "CITYNAME_0": "'atlanta'"}
+{"FAREBASISCODE_0": "'yn'"}
+{"CITYNAME_0": "'atlanta'", "CITYNAME_1": "'washington'"}
+{"ARRIVALTIME_0": "1600", "CITYNAME_0": "'boston'", "CITYNAME_1": "'washington'"}
+{"CITYNAME_0": "'san francisco'", "CITYNAME_1": "'washington'"}
+{"CITYNAME_0": "'boston'", "CITYNAME_1": "'atlanta'"}
+{"CITYNAME_0": "'oakland'", "CITYNAME_1": "'denver'"}
+{"CITYNAME_0": "'philadelphia'", "CITYNAME_1": "'denver'"}
+{"AIRLINECODE_0": "'hp'", "CITYNAME_0": "'kansas city'", "CITYNAME_1": "'burbank'"}
+{"CITYNAME_0": "'detroit'", "CITYNAME_1": "'st. petersburg'"}
+{"CITYNAME_0": "'atlanta'", "CITYNAME_1": "'pittsburgh'"}
+{"CITYNAME_0": "'philadelphia'", "CITYNAME_1": "'dallas'"}
+{"CLASSTYPE_0": "'first'", "AIRLINECODE_0": "'ua'"}
+{"CITYNAME_0": "'baltimore'", "CITYNAME_1": "'san francisco'"}
+{}
+{"ARRIVALTIME_0": "2100", "CITYNAME_0": "'baltimore'", "CITYNAME_1": "'philadelphia'"}
+{"CITYNAME_0": "'pittsburgh'", "CITYNAME_1": "'atlanta'"}
+{"CITYNAME_2": "'atlanta'", "CITYNAME_0": "'denver'", "CITYNAME_1": "'pittsburgh'"}
+{"CITYNAME_2": "'denver'", "CITYNAME_0": "'baltimore'", "CITYNAME_1": "'san francisco'"}
+{"CITYNAME_0": "'oakland'", "CITYNAME_1": "'philadelphia'"}
+{"CITYNAME_0": "'chicago'", "CITYNAME_1": "'seattle'"}
+{"AIRPORTCODE_0": "'dal'"}
+{"CITYNAME_0": "'boston'", "CITYNAME_1": "'denver'"}
+{"STATENAME_1": "'north carolina'", "STATENAME_0": "'florida'", "CITYNAME_0": "'tampa'", "CITYNAME_1": "'charlotte'"}
+{"CITYNAME_0": "'memphis'", "CITYNAME_1": "'miami'"}
+{"CITYNAME_0": "'denver'", "CITYNAME_1": "'san francisco'"}
+{"CITYNAME_0": "'dallas'"}
+{}
+{"CITYNAME_0": "'philadelphia'", "CITYNAME_1": "'boston'"}
+{"CITYNAME_0": "'houston'", "CITYNAME_1": "'las vegas'"}
+{"CITYNAME_0": "'san jose'", "CITYNAME_1": "'st. paul'"}
+{"AIRCRAFTCODE_0": "734"}
+{"AIRPORTCODE_0": "'ewr'"}
+{"CITYNAME_1": "'oakland'", "AIRLINECODE_0": "'aa'", "CITYNAME_0": "'boston'", "FLIGHTNUMBER_0": "813"}
+{"CITYNAME_0": "'pittsburgh'", "CITYNAME_1": "'new york'"}
+{"CITYNAME_0": "'st. petersburg'", "CITYNAME_1": "'milwaukee'"}
+{"AIRLINECODE_0": "'ea'"}
+{"AIRLINECODE_0": "'us'"}
+{"CITYNAME_0": "'denver'"}
+{"AIRLINECODE_0": "'aa'", "CITYNAME_0": "'phoenix'", "CITYNAME_1": "'denver'"}
+{"CITYNAME_0": "'washington'", "CITYNAME_1": "'denver'"}
+{"BASICTYPE_0": "737", "CITYNAME_0": "'orlando'", "CITYNAME_1": "'san diego'"}
+{"DEPARTURETIME_0": "718", "CITYNAME_0": "'las vegas'", "CITYNAME_1": "'new york'"}
+{"CITYNAME_0": "'denver'"}
+{"CITYNAME_0": "'pittsburgh'", "CITYNAME_1": "'denver'"}
+{"CITYNAME_0": "'san francisco'"}
+{"DEPARTURETIME_0": "1200", "AIRLINECODE_0": "'nw'", "CITYNAME_0": "'denver'"}
+{"AIRPORTCODE_0": "'mke'"}
+{"CITYNAME_0": "'denver'", "CITYNAME_1": "'philadelphia'"}
+{"TRANSPORTTYPE_0": "'limousine'", "CITYNAME_0": "'boston'"}
+{"CITYNAME_0": "'baltimore'"}
+{"RESTRICTIONCODE_0": "'ap/80'"}
+{"CITYNAME_0": "'denver'", "CITYNAME_1": "'pittsburgh'"}
+{"CITYNAME_0": "'boston'", "CITYNAME_1": "'san francisco'"}
+{"CITYNAME_2": "'san francisco'", "CITYNAME_3": "'oakland'", "CITYNAME_0": "'dallas'", "CITYNAME_1": "'fort worth'"}
+{"CITYNAME_0": "'pittsburgh'", "CITYNAME_1": "'san francisco'"}
+{"AIRLINECODE_0": "'us'", "CITYNAME_0": "'boston'", "CITYNAME_1": "'philadelphia'"}
+{"STATENAME_1": "'texas'", "STATENAME_0": "'colorado'", "CITYNAME_0": "'denver'", "CITYNAME_1": "'dallas'"}
+{"CITYNAME_0": "'chicago'", "CITYNAME_1": "'kansas city'"}
+{"CITYNAME_0": "'boston'", "CITYNAME_1": "'atlanta'"}
+{"CITYNAME_0": "'atlanta'", "CITYNAME_1": "'denver'"}
+{"DEPARTURETIME_0": "1730", "DEPARTURETIME_1": "1900", "CITYNAME_0": "'toronto'", "CITYNAME_1": "'salt lake city'"}
+{"AIRLINECODE_0": "'dl'", "CITYNAME_0": "'atlanta'", "CITYNAME_1": "'pittsburgh'"}
+{"CITYNAME_0": "'washington'", "CITYNAME_1": "'philadelphia'"}
+{"CITYNAME_0": "'washington'"}
+{"CITYNAME_0": "'dallas'", "CITYNAME_1": "'baltimore'"}
+{"CITYNAME_0": "'denver'", "CITYNAME_1": "'boston'"}
+{"AIRLINECODE_0": "'dl'", "CITYNAME_0": "'denver'"}
+{"CITYNAME_0": "'boston'"}
+{"CITYNAME_0": "'tampa'", "CITYNAME_1": "'milwaukee'"}
+{"CITYNAME_2": "'denver'", "CITYNAME_0": "'san diego'", "CITYNAME_1": "'toronto'"}
+{"CITYNAME_0": "'san francisco'", "CITYNAME_1": "'washington'"}
+{"DEPARTURETIME_0": "1200", "CITYNAME_0": "'baltimore'", "CITYNAME_1": "'newark'"}
+{}
+{"CLASSTYPE_0": "'coach'", "CITYNAME_0": "'pittsburgh'", "CITYNAME_1": "'atlanta'"}
+{"TRANSPORTTYPE_0": "'limousine'", "CITYNAME_0": "'atlanta'"}
+{"CITYNAME_0": "'boston'", "CITYNAME_1": "'san francisco'"}
+{"CITYNAME_0": "'charlotte'", "CITYNAME_1": "'atlanta'"}
+{"CLASSTYPE_0": "'first'", "CITYNAME_0": "'oakland'", "CITYNAME_1": "'atlanta'"}
+{"CITYNAME_0": "'nashville'", "CITYNAME_1": "'seattle'"}
+{"CITYNAME_0": "'milwaukee'", "CITYNAME_1": "'tacoma'"}
+{"CLASSTYPE_0": "'first'", "CITYNAME_0": "'atlanta'", "CITYNAME_1": "'denver'"}
+{"CITYNAME_0": "'newark'", "CITYNAME_1": "'cleveland'"}
+{"CITYNAME_0": "'indianapolis'", "CITYNAME_1": "'seattle'"}
+{"DAYNAME_0": "'monday'", "CLASSTYPE_0": "'first'", "CITYNAME_0": "'san francisco'", "CITYNAME_1": "'pittsburgh'"}
+{"CITYNAME_0": "'chicago'", "CITYNAME_1": "'seattle'"}
+{"CITYNAME_0": "'pittsburgh'", "CITYNAME_1": "'los angeles'"}
+{"CITYNAME_0": "'indianapolis'", "CITYNAME_1": "'orlando'"}
+{"CITYNAME_0": "'san francisco'", "CITYNAME_1": "'philadelphia'"}
+{"CITYNAME_0": "'boston'", "CITYNAME_1": "'oakland'"}
+{"CITYNAME_0": "'washington'"}
+{"CITYNAME_0": "'washington'", "CITYNAME_1": "'san francisco'"}
+{"RESTRICTIONCODE_0": "'ap'"}
+{"CITYNAME_0": "'philadelphia'", "CITYNAME_1": "'oakland'"}
+{"CITYNAME_0": "'st. paul'", "CITYNAME_1": "'kansas city'"}
+{"CITYNAME_2": "'dallas'", "CITYNAME_0": "'long beach'", "CITYNAME_1": "'st. louis'"}
+{"CITYNAME_0": "'kansas city'", "CITYNAME_1": "'st. paul'"}
+{"CITYNAME_0": "'los angeles'", "CITYNAME_1": "'pittsburgh'"}
+{"ARRIVALTIME_0": "1200", "DAYNAME_0": "'tuesday'", "CITYNAME_0": "'boston'", "CITYNAME_1": "'philadelphia'"}
+{"CITYNAME_0": "'denver'", "CITYNAME_1": "'philadelphia'"}
+{"CITYNAME_0": "'philadelphia'", "CITYNAME_1": "'san francisco'"}
+{"CITYNAME_0": "'denver'", "CITYNAME_1": "'san francisco'"}
+{"CITYNAME_0": "'denver'", "CITYNAME_1": "'salt lake city'"}
+{}
+{"CITYNAME_0": "'oakland'", "AIRPORTCODE_0": "'bwi'"}
+{"CITYNAME_0": "'dallas'", "CITYNAME_1": "'houston'"}
+{"CITYNAME_2": "'minneapolis'", "CITYNAME_0": "'seattle'", "CITYNAME_1": "'baltimore'"}
+{"CITYNAME_2": "'dallas'", "CITYNAME_3": "'fort worth'", "CITYNAME_0": "'san francisco'", "CITYNAME_1": "'boston'"}
+{"CITYNAME_0": "'san francisco'"}
+{"AIRLINECODE_0": "'dl'"}
+{"AIRPORTCODE_0": "'dal'"}
+{"AIRPORTCODE_0": "'mke'"}
+{"CITYNAME_2": "'milwaukee'", "CITYNAME_0": "'new york'", "CITYNAME_1": "'los angeles'"}
+{"AIRLINECODE_0": "'aa'", "CITYNAME_0": "'philadelphia'", "CITYNAME_1": "'dallas'"}
+{"CITYNAME_0": "'westchester county'", "CITYNAME_1": "'cincinnati'"}
+{"DAYNAME_0": "'monday'", "CITYNAME_0": "'san francisco'", "CITYNAME_1": "'pittsburgh'"}
+{"CITYNAME_0": "'boston'", "CITYNAME_1": "'washington'"}
+{"CITYNAME_0": "'san francisco'", "CITYNAME_1": "'washington'"}
+{"CITYNAME_0": "'minneapolis'"}
+{"AIRCRAFTCODE_0": "'m80'"}
+{"DEPARTURETIME_0": "900", "CITYNAME_0": "'pittsburgh'", "CITYNAME_1": "'philadelphia'"}
+{"CITYNAME_0": "'dallas'", "CITYNAME_1": "'baltimore'"}
+{"AIRLINECODE_0": "'aa'", "CITYNAME_0": "'milwaukee'", "CITYNAME_1": "'phoenix'"}
+{"CITYNAME_0": "'tampa'"}
+{"CITYNAME_0": "'boston'"}
+{"CITYNAME_0": "'atlanta'", "CITYNAME_1": "'baltimore'"}
+{"CITYNAME_0": "'baltimore'", "CITYNAME_1": "'dallas'"}
+{"CITYNAME_0": "'houston'", "CITYNAME_1": "'las vegas'"}
+{"DAYNAME_0": "'tuesday'", "CITYNAME_0": "'new york'", "CITYNAME_1": "'miami'"}
+{"CITYNAME_0": "'denver'", "AIRPORTCODE_0": "'sfo'"}
+{"CITYNAME_0": "'dallas'", "CITYNAME_1": "'tampa'"}
+{"AIRLINECODE_0": "'ua'", "CITYNAME_0": "'san francisco'", "CITYNAME_1": "'denver'"}
+{"CITYNAME_0": "'baltimore'", "CITYNAME_1": "'philadelphia'"}
+{"CITYNAME_0": "'phoenix'", "CITYNAME_1": "'detroit'"}
+{"CITYNAME_2": "'st. louis'", "CITYNAME_0": "'toronto'", "CITYNAME_1": "'san diego'"}
+{"CITYNAME_0": "'atlanta'", "CITYNAME_1": "'denver'"}
+{"CITYNAME_0": "'san francisco'", "CITYNAME_1": "'atlanta'"}
+{"CITYNAME_0": "'washington'", "CITYNAME_1": "'philadelphia'"}
+{"ARRIVALTIME_0": "2000", "DAYNAME_0": "'friday'", "CITYNAME_0": "'baltimore'", "CITYNAME_1": "'san francisco'"}
+{"CITYNAME_0": "'boston'", "CITYNAME_1": "'san francisco'"}
+{"DEPARTURETIME_0": "1800", "CITYNAME_0": "'atlanta'", "CITYNAME_1": "'denver'"}
+{"CITYNAME_0": "'columbus'", "CITYNAME_1": "'nashville'"}
+{"CITYNAME_0": "'san francisco'", "CITYNAME_1": "'boston'"}
+{"DAYNAME_0": "'tuesday'", "CLASSTYPE_0": "'first'", "CITYNAME_0": "'new york'", "CITYNAME_1": "'miami'"}
+{"AIRLINECODE_0": "'aa'", "CITYNAME_0": "'phoenix'", "CITYNAME_1": "'milwaukee'"}
+{"CITYNAME_0": "'tampa'", "CITYNAME_1": "'cincinnati'"}
+{"CITYNAME_0": "'philadelphia'"}
+{"TRANSPORTTYPE_0": "'rental car'", "CITYNAME_0": "'washington'"}
+{"CITYNAME_0": "'boston'", "CITYNAME_1": "'atlanta'"}
+{"CITYNAME_0": "'dallas'", "CITYNAME_1": "'san francisco'"}
+{"CITYNAME_0": "'dallas'"}
+{"CITYNAME_0": "'san jose'", "CITYNAME_1": "'salt lake city'"}
+{"AIRLINECODE_0": "'dl'", "FLIGHTNUMBER_0": "852", "CITYNAME_2": "'fort worth'", "CITYNAME_0": "'san francisco'", "CITYNAME_1": "'dallas'"}
+{"CITYNAME_0": "'pittsburgh'", "CITYNAME_1": "'philadelphia'"}
+{"CITYNAME_0": "'dallas'", "CITYNAME_1": "'baltimore'"}
+{"CITYNAME_0": "'boston'", "CITYNAME_1": "'denver'"}
+{"CITYNAME_0": "'denver'", "CITYNAME_1": "'atlanta'"}
+{"CITYNAME_0": "'baltimore'", "CITYNAME_1": "'dallas'"}
+{"CITYNAME_0": "'chicago'", "CITYNAME_1": "'nashville'"}
+{"CITYNAME_0": "'boston'", "CITYNAME_1": "'san francisco'"}
+{"DAYNAME_0": "'thursday'", "CITYNAME_0": "'san francisco'", "CITYNAME_1": "'denver'"}
+{"CITYNAME_0": "'boston'", "CITYNAME_1": "'atlanta'"}
+{"CITYNAME_0": "'oakland'", "CITYNAME_1": "'boston'"}
+{"AIRLINECODE_0": "'co'", "CITYNAME_0": "'las vegas'", "CITYNAME_1": "'new york'"}
+{"DEPARTURETIME_0": "500", "CITYNAME_0": "'boston'", "CITYNAME_1": "'atlanta'"}
+{"CITYNAME_2": "'atlanta'", "CITYNAME_0": "'philadelphia'", "CITYNAME_1": "'dallas'"}
+{"CITYNAME_0": "'st. petersburg'", "CITYNAME_1": "'toronto'"}
+{"CITYNAME_0": "'pittsburgh'"}
+{"CITYNAME_1": "'philadelphia'", "AIRLINECODE_0": "'ua'", "CITYNAME_0": "'denver'", "FLIGHTNUMBER_0": "270"}
+{"CITYNAME_0": "'pittsburgh'"}
+{"CITYNAME_2": "'los angeles'", "CITYNAME_0": "'memphis'", "CITYNAME_1": "'tacoma'"}
+{"CITYNAME_0": "'pittsburgh'", "CITYNAME_1": "'philadelphia'"}
+{"CITYNAME_0": "'toronto'", "CITYNAME_1": "'san francisco'"}
+{"CITYNAME_1": "'san francisco'", "AIRLINECODE_0": "'dl'", "CITYNAME_0": "'dallas'", "FLIGHTNUMBER_0": "217"}
+{"DEPARTURETIME_0": "1800", "CITYNAME_0": "'boston'", "CITYNAME_1": "'atlanta'"}
+{"AIRLINECODE_0": "'us'", "CITYNAME_0": "'indianapolis'", "CITYNAME_1": "'san diego'"}
+{"CITYNAME_0": "'boston'", "CITYNAME_1": "'denver'"}
+{"CITYNAME_0": "'pittsburgh'"}
+{"CITYNAME_0": "'milwaukee'", "CITYNAME_1": "'montreal'"}
+{"CITYNAME_0": "'boston'", "CITYNAME_1": "'philadelphia'"}
+{"CITYNAME_0": "'minneapolis'", "CITYNAME_1": "'long beach'"}
+{"CITYNAME_0": "'philadelphia'", "CITYNAME_1": "'dallas'"}
+{"CITYNAME_0": "'pittsburgh'", "CITYNAME_1": "'san francisco'"}
+{"CITYNAME_0": "'boston'", "CITYNAME_1": "'san francisco'"}
+{"CITYNAME_0": "'boston'", "CITYNAME_1": "'denver'"}
+{"CITYNAME_0": "'pittsburgh'", "CITYNAME_1": "'baltimore'"}
+{"CITYNAME_0": "'boston'", "CITYNAME_1": "'washington'"}
+{"CITYNAME_1": "'dallas'", "CITYNAME_0": "'cincinnati'", "FLIGHTNUMBER_0": "417"}
+{"CITYNAME_0": "'dallas'", "CITYNAME_1": "'atlanta'"}
+{}
+{"CITYNAME_0": "'san francisco'", "CITYNAME_1": "'las vegas'"}
+{"AIRLINECODE_0": "'aa'", "CITYNAME_0": "'houston'", "CITYNAME_1": "'milwaukee'"}
+{"TRANSPORTTYPE_0": "'limousine'", "CITYNAME_0": "'atlanta'"}
+{"CITYNAME_0": "'denver'", "CITYNAME_1": "'pittsburgh'"}
+{"CITYNAME_0": "'san francisco'", "CITYNAME_1": "'washington'"}
+{"CITYNAME_0": "'seattle'", "CITYNAME_1": "'minneapolis'"}
+{"CITYNAME_0": "'phoenix'"}
+{"CITYNAME_0": "'san jose'", "CITYNAME_1": "'nashville'"}
+{"CITYNAME_0": "'san francisco'", "CITYNAME_1": "'dallas'"}
+{"CITYNAME_0": "'denver'", "CITYNAME_1": "'pittsburgh'"}
+{}
+{"STATECODE_0": "'dc'", "CITYNAME_0": "'boston'", "CITYNAME_1": "'washington'"}
+{"DEPARTURETIME_0": "1200", "CITYNAME_0": "'dallas'", "CITYNAME_1": "'oakland'"}
